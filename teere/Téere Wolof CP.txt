@@ -1,0 +1,8410 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Année 2018
+
+Njàng
+Téere kalaas
+
+Wolof
+
+CP
+
+
+
+Ce travail est disponible sous la licence Creative Commons Attribution 4.0 IGO. Sous cette licence,  
+il est accordé le droit de copier, de distribuer, de diffuser et d’adapter ce document y compris à des fins 
+commerciales selon les conditions énoncées sur le site électronique suivant : 
+https://creativecommons.org/
+
+
+
+PREFACE
+
+Dans le cadre de l’amélioration de la qualité des enseignements et des apprentissages 
+au cycle élémentaire, le Ministère de l’Éducation nationale du Sénégal a mis en place le 
+programme « Lecture Pour Tous », financé par le Gouvernement américain à travers 
+l’Agence Américaine pour le Développement International.
+
+L’atteinte des objectifs de qualité annoncés dans le Programme d’Amélioration 
+de la Qualité, de l’Équité et de la Transparence (PAQUET) dépend, en partie, du 
+développement des compétences de lecture sans lesquelles les apprentissages se 
+réalisent difficilement dans les autres disciplines. Or, les performances en lecture 
+sont fortement tributaires de l’accès des apprenants à des intrants de qualité. C’est 
+pourquoi, le matériel didactique conçu et réalisé par Lecture Pour Tous, pour servir de 
+support à l’ambition du ministère d’améliorer les acquis scolaires dans cette discipline 
+fondamentale, revêt un intérêt capital du fait de l’utilisation des langues nationales 
+comme médium d’apprentissage de la lecture initiale.
+
+Ce matériel didactique est élaboré sur la base d’expériences éprouvées, menées de par 
+le monde et adaptées au contexte sénégalais, y compris le curriculum de l’éducation 
+de base (CEB). Les évidences en apprentissage de la lecture initiale démontrent que 
+le recours aux langues que parlent et comprennent les enfants, l’adoption du principe 
+du décodable, l’application d’une approche d’apprentissage systématique, explicite et 
+structurée permettent aux enfants de lire.   
+
+Au vu des nombreuses expertises sollicitées pour sa conception, il est à espérer 
+que ces ouvrages constitueront des supports de qualité qui permettront d’apporter 
+une réponse effective à la volonté du Ministère de l’Éducation nationale d’améliorer 
+sensiblement les performances en lecture.
+
+C’est le lieu de remercier l’USAID pour son précieux concours et d’inviter tous ceux 
+qui auront en main ces outils d’en faire un bon usage.
+
+Le Ministre de l’Education nationale
+
+
+
+AVANT-PROPOS
+Pour aider les élèves sénégalais à réussir l’apprentissage de la lecture dès  
+les premières années de leur scolarité, le programme « Lecture Pour Tous » a conçu 
+ce manuel de classe en langue nationale dans une approche syllabique. Il est destiné 
+aux élèves de Cours d’Initiation (CI).
+
+Ce livret est un outil de classe qui permet à l’enseignant (e) de travailler régulièrement 
+les capacités de lecture des élèves. Il est fondé sur le respect du principe de décodage 
+systématique en lecture. C’est-à-dire que l’élève apprend progressivement sur la base 
+de lettres, de sons et de mots déjà étudiés.
+
+Dans la progression, l’élève apprend à reconnaître les sons à l’oral et à l’écrit, 
+à combiner des lettres pour former des syllabes, à associer des syllabes pour 
+former des mots, à lire des mots familiers et des mots inventés, des phrases 
+et des textes de façon fluide et à s’essayer à trouver le sens des mots et  
+des phrases qui sont lus.
+
+La démarche préconisée recommande fortement de :
+- Utiliser régulièrement le livret pour dérouler toutes les activités de lecture 
+
+en classe ;
+- Amener l’élève à pointer du doigt l’objet à lire pendant au moins six secondes en 
+
+lui accordant toute son attention ;
+- Amener l’élève à lire à haute voix tous les jours les contenus présentés.
+
+Outil indispensable à la classe, ce livret est un intrant de qualité pour aider les élèves 
+à développer, avec un minimum d’assistance, leurs compétences en lecture.
+
+
+
+Table des matières
+Alphabet illustré ……………………………………………………………………………...……………………………………………………………………………….….6
+
+Tableaux de l’alphabet ……………………………………………………………………………...…………………………………………………………….….10
+
+Semaine 1 : Leçons 1, 2 et Leçon 3 (Révision) ……………………………………………………………………………..……….…. 11
+
+Semaine 2  : Leçons 4, 5 et Leçon 6 (Révision) ……………………………………………………………………………...……….. 20
+
+Semaine 3  : Leçons 7, 8 et Leçon 9 (Révision) ……………………………………………………………………………….......... 29
+
+Semaine 4  : Leçons 10, 11 et Leçon 12 (Révision) ……………………………………………………………………………….. 41 
+
+Semaine 5  : Leçons 13, 14 et Leçon 15 (Révision) ……………………………………………………………………………… 53 
+
+Semaine 6  : Leçons 16, 17 et Leçon 18 (Révision) ………………………………………………………………………………65
+
+Semaine 7 : Leçons 19, 20 et Leçon 21 (Révision) ……………………………………………………………………………….. 77
+
+Semaine 8  : Leçons 22, 23 et Leçon 24 (Révision) ……………………………………………………………………………….. 89
+
+Semaine 9 : Leçons 25 et Leçon 26 (Intégration 1) ……………………………………………………………..............  101
+
+Semaine 10  : Leçons 27, 28 et Leçon 29 (Révision) ……………………………………………………………………….....108
+
+Semaine 11  : Leçons 30, 31 et Leçon 32 (Révision) …………………………………………………………………….….… 116
+
+Semaine 12 : Leçons 33, 34 et Leçon 35 (Révision) …………………………………………………………………….…... 124
+
+Semaine 13  : Leçons 36, 37 et Leçon 38 (Révision) …………………………………………………………………………132
+
+Semaine 14  : Leçons 39, 40 et Leçon 41 (Révision) …………………………………………………………….………….140
+
+Semaine 15  : Leçons 42 et Leçon 43 (Intégration 2) ……………………………………………………………………..148
+
+Semaine 16  : Leçons 44, 45 et Leçon 46 (Révision) …….………………………………………………………………....153
+
+Semaine 17  : Leçons 47, 48 et Leçon 49 (Révision) …………………………………………………………………………161
+
+Semaine 18  : Leçons 50, 51 et Leçon 52 (Révision) …………………………………………………………………………169
+
+Semaine 19 : Leçons 53, 54 et Leçon 55 (Révision) ………………………………………………………………………….. 177
+
+Semaine 20 : Leçons 56 et Leçon 57 (Intégration 3) …………………………………………………………………… 185
+
+Semaine 21 : Leçons 58, 59 et Leçon 60 (Révision) ………………………………………………………………………….. 190
+
+Semaine 22 : Leçons 61, 62 et Leçon 63 (Révision) ………………………………………………………………………….. 198
+
+Semaine 23 : Leçons 64, 65 et Leçon 66 (Révision) ………………………………………………………………………….. 206
+
+Semaine 24 : Leçons 67, 68 et Leçon 69 (Révision) ………………………………………………………………………….. 214
+
+Semaine 25 : Leçon 70 (Intégration 4) et Leçon 71 (Evaluation d’étape) ……………….. 222
+
+
+
+6 Téere ekool CI6 Téere ekool CI
+
+Abajada wolof Abajada wolof
+
+f
+foto
+
+F
+
+a A
+anaanaas
+
+b
+bal
+
+B
+
+c C
+caabi
+
+d
+daba
+
+D
+
+e E
+ekool
+
+ë Ë
+lëg
+
+
+
+7Téere ekool CI 7Téere ekool CI
+
+Abajada wolof Abajada wolof
+
+n N
+nafa
+
+g G
+gaal
+
+i I
+dibi
+
+j J
+jën
+
+k K
+kaani
+
+l
+lal
+
+L M
+
+mala
+
+m
+
+
+
+Abajada wolof Abajada wolof
+
+s S
+satala
+
+ñ Ñ
+ñey
+
+ŋ Ŋ
+ŋàdd
+
+o
+oto
+
+O p
+paan
+
+P
+
+q Q
+caq
+
+R
+
+riit i
+
+r
+
+
+
+26Abajada wolof Abajada wolof
+
+t
+tama
+
+T u U
+ubbi
+
+w W
+wali is
+
+x X
+xar
+
+y Y
+yoo
+
+
+
+10
+
+a b c d e ë
+
+f g h i j
+
+k l m n ñ ŋ
+
+o p q r s
+
+t u w x y
+
+Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+
+
+11
+
+a m o n l u b d
+b e n u m d o l
+o l u d e b n m
+e b m o n o i u
+n u b l i m d o
+m o a d b l n e
+d u i n b e a n
+i m b o l n d u
+
+m i mi
+a b ab
+l ob lob
+d u du
+o n on
+
+ë l ël
+d e de
+u m um
+b i bi
+n am nam
+
+a   e   ë   i   o   u    m  l   b   d   n 
+1
+
+Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+
+
+12 Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+1
+
+lë lu lëlu
+fa lu falu
+a bal abal
+do no dono
+a lom alom
+ma mi mami
+la fu lafu
+du te dute
+
+ma la mala
+li do lido
+ba le bale
+ma di madi
+u ba ubal
+a mal amal
+ma la mala
+a lu alu
+
+umu amal duma daba
+nenu mile dimi bile
+Badu dono bale lemu
+lido mati midi lale
+diba nabu bal melo
+Abu alom idi abal
+Madi Ami limu deme
+omo mala alal ubal
+
+
+
+13Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+1
+
+Idi dem na.
+Balu Badu la.
+Oto Daba la.
+Nun dem nanu
+Madi am na alom.
+Abu mile amul alal.
+Madu mën na lido.
+Ami Ba bale na.
+Nabu abal ma bal bi.
+Mala mi du nen de.
+
+
+
+14 Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+2
+
+a   e   ë   i   o   u    k  f  c  r t
+f o c k r t n ë
+u l e t ë a i f
+e i r l o u c a
+k u l ë b a n t
+r c i f ë a k m
+n l t n b c m ë
+f o k t b n u ë
+u c m r ë d t k
+
+k ë kë
+a r ar
+e c ec
+t a ta
+f in fin
+
+u f uf
+k i ki
+o t ot
+c a ca
+r ob rob
+
+
+
+15Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+2
+
+bo ri bori
+ce ku ceku
+ki lo kilo
+u til util
+ko ri kori
+ra ki raki
+ba ri bari
+ta fa tafa
+
+ka fe kafe
+fo ri fori
+ku ti kuti
+ce re cere
+ta be tabe
+bi ti biti
+ta pi tapi
+co ro coro
+
+kilo biti tame util
+ceku bori koti oto
+como nafa foto cër
+kafe cate aca kuti
+aka cofe kale ëfal
+bato Raki kër cere
+kori fari kuli catu
+tabe tali col fori
+
+
+
+Njàng - Téere kalaas - CP16 Njàng - Téere kalaas - CP
+
+2
+
+Kura du como.
+Raki dafa tabe.
+Mari du def.
+Nabu dafa kuli.
+Aba am na ceku.
+Nafi uti na cere.
+Rama foto na ko.
+Mala mi dem na fori.
+Këru Ami am na kafe.
+Tali bi bari na oto.
+
+
+
+171717Njàng - Téere kalaas - CPNjàng - Téere kalaas - CP 17
+
+3
+
+a e ë i o u   d m l n b k f c r t
+d e m f l n i u
+b o t r c a k ë
+t a u d e m ë r
+f l k c o i n b
+u t o i k ë d f
+e m n b a r l c
+o n d m i t u a
+r f c e ë k b l
+
+c u cu
+d er der
+ë f ëf
+l a la
+r ot rot
+
+k an kan
+b if bif
+u m um
+n el nel
+i t it
+
+
+
+18 Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP18
+
+3
+
+kum te kumte
+ra fet rafet
+a raf araf
+dë rëm dërëm
+ër tal ërtal
+fa bu fabu
+ul de ulde
+fe ral feral
+
+fi te fite
+bë re bëre
+le mu lemu
+ko ti koti
+cë fit cëfit
+al met almet
+col ka colka
+de fin defin
+
+kilo lebu dalin alku
+këfin matu bëret furi
+tafli dabe bori teral
+uti balu cere artu
+kolu fabin keru leru
+dono defit cafka rabal
+tufe muri keral  kër
+forle kulbet nërëm manin
+
+
+
+19Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+3
+
+Barka demul Kafrin.
+Pir am na ron.
+Lebu feral na Ami.
+Ub na këram, tëri.
+Lamu Alfi dafa rot.
+Tertu nanu muse Kan.
+Mari tël na bal bi.
+Raki diri na lal bi.
+Ku am dërëm na dem.
+Omar lem na darab bi.
+
+
+
+20 Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+4
+
+aa  ee  ii  oo  uu   y  x  g  w  s
+i s g x w g y ii
+d ee k a l m ë t
+l i w a m g k u
+
+oo x ë d s t y f
+y uu n w i y e r
+ë l s f g u aa a
+ii x i t aa m u n
+s o c ee b e r ii
+
+y aa yaa
+g oo goo
+x ee xee
+ii s iis
+s uu suu
+
+ii g iig
+s eey seey
+w uu wuu
+oo s oos
+x aa xaa
+
+
+
+21Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+4
+
+xee lu xeelu
+boo le boole
+tuu ru tuuru
+waa ne waane
+fii re fiire
+xoo le xoole
+saa bu saabu
+da gan dagan
+
+yaa tu yaatu
+x at xat
+rii ti riiti
+tee ru teeru
+nuu ru nuuru
+see tu seetu
+roo ti rooti
+x iif xiif
+
+yaatu yëgoo teeru diine
+yooru balaa boole yuuxu
+saaku wiiri aalu xeelu
+muuru waane kaata riiti
+xoole seetu weesu coono
+baamu taaru diwoo ameel
+siiru saatu riisu nuuru
+tuuti ekool tuuru waaso
+
+
+
+22 Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+4
+
+Faatu dafa taaru.
+Laago du weesu.
+Taala daanu na.
+Ana liir bi ? 
+Baaba am na riiti.
+Am naa saaku ceeb.
+Siiru mi daanu na.
+Aali diwoo na ko leegi.
+Golo moo doon xeelu lëg.
+Fii dafa taa, nanu wiiri.
+
+
+
+23Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP 232323
+
+5
+
+aa  ee ëe ii  oo  uu   ñ  j  ŋ  p  q
+a p e j q l ŋ s
+g ŋ y ñ i y oo r
+x d ñ g o ë m y
+j s ë q uu ŋ b u
+y ii s ee x ii ñ g
+ë n w ŋ a s j c
+g ŋ s o f ñ g i
+w j aa b y aa w f
+
+ñ ii ñii
+aa j aaj
+ŋ uu ŋuu
+n eep neep
+t uq tuq
+
+p oo poo
+a q aq
+j ee jee
+ii ŋ iiŋ
+ñ uub ñuub
+
+
+
+24 Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP2424
+
+5
+
+ŋaa mu ŋaamu
+jii tu jiitu
+naa jo naajo
+juu ti juuti
+to qi toqi
+jaa ro jaaro
+pi kiir pikiir
+c aq caq
+
+jaa mu jaamu
+pee se peese
+to qu toqu
+ñaa ri ñaari
+joo wu joowu
+see ñu seeñu
+ja la jala
+t eeŋ teeŋ
+
+ñaari seeñu ñaare peese
+niitu foofu ŋaamu wuude
+naajo ruqe ŋebal gaañu
+paase jiitu joowu boqu
+boole piire toqu jaaru
+juuti toqi jaamu teeru
+ñaata jaaro poose xiiru
+ŋëbal xaañu ŋexal doole
+
+
+
+25Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+5
+
+Rama dafay paase.
+Naajo neex na.
+Doole mooy bëre.
+Jën  lay seeñu.
+Muus mi xiiru na.
+Kilo bi ñaata la ?
+Fas wi ŋexal na.
+Maam ji dafa poose bëñ.
+Am naa jaaro bu rafet.
+Foo ko gis mooy jiitu.
+
+
+
+26 Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP26
+
+6
+
+aa ee ii oo uu  y s x g w ñ j ŋ p q 
+s aa y p ñ ee j ii
+w oo x ŋ g uu q aa
+uu x aa ñ ii y p ŋ
+ŋ j ee w s q oo g
+ii q p oo w ñ ŋ ee
+x y uu aa j g s uu
+g ee q uu y ii aa ŋ
+j ñ oo s p x w q
+
+g aa gaa
+y ee yee
+a ñ añ
+f eq feq
+
+ee w eew
+
+w uu wuu
+j iin jiin
+ŋ oos ŋoos
+
+uu f uuf
+x aay xaay
+
+
+
+27Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP 27
+
+6
+
+aaw lu aawlu
+xoo je xooje
+gaa wu gaawu
+goo ŋe gooŋe
+po qe poqe
+së qal sëqal
+wee su weesu
+taaw loo taawloo
+
+see tu seetu
+uu de uude
+xu loo xuloo
+ñuu lal ñuulal
+ŋaa wu ŋaawu
+yaa sa yaasa
+see ñu seeñu
+soo xe sooxe
+
+waajur tuŋaañ joowu uute
+xoosu seexlu yëgle ñawloo
+yuqat woote cosaan aasma
+ŋooru geesu aaŋu waaje
+suusal saxaar xeeñal naajo
+naajeel ñaqal yoote gaawe
+ŋexal cooroon weesu ñuule
+xuuje ñuqi kawdiir cuuraay
+
+
+
+Njàng - Téere kalaas - CP28 Njàng - Téere kalaas - CP
+
+6
+
+Luubu baaxul de !
+Biir gi yaatu na. 
+Aw ŋaamam la ŋaaw.
+Gaalu mool bee teer.
+Tooyal na loxoom.
+Puudar na ŋootoot yi. 
+Ñeexum kaanee saf te wex.
+Yoorul dem gaaw balaa naaj.
+Leemu soow na Maam Roqi.
+Riitil mu neex, Kooña woy.
+
+
+
+29Njàng - Téere kalaas - CPNjàng - Téere kalaas - CP
+
+7
+
+kk    gg 
+jaaro seetu xiiru kaata
+ŋëbal wiiri teeru ekool
+tuq waaso wuude weesu
+xool aŋal ñuqi cuuraay
+jiitu yuqat tuŋaañ xuuja
+coono ŋooru ñaw ŋexal
+seexlu geesu aaŋu waaje
+ñuulal gaawtu kawdiir yëg
+
+i kk ikk
+i gg igg
+l ugg lugg
+s egg segg
+o kk okk
+
+y uk yuk
+ë gg ëgg
+i gg igg
+l okk lokk
+d ikk dikk
+
+
+
+30 Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+7
+
+tek ki tekki
+bëg gal bëggal
+d ugg dugg
+tuk ki tukki
+dag gat daggat
+yok ku yokku
+rag gu raggu
+sek ki sekki
+
+takku siggi bakkan tekki
+raggu coggu feggu sëggal
+sikkal ñakku jukki daggit
+jokkoo daggat sekki wokku
+fëggal jokku dëggal jikko
+bukki nokkas sikket teggi
+joggi taggal bëggal lakkal
+wekki yokku tukki toggal
+
+
+
+31Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+7
+
+Rakkam tekki na saaku bi.
+Suba teel lay dem tukki.
+Wax dëgg, bëgg naanu jokkoo.
+Omar dina raggu suba gu nekk.
+Seex takk na fasam tey jii.
+
+Alal ji mu am takku na kaar.
+Yoo yi ci dëkk bi lakkle nañu.
+Wekki póno oto moom dafa laaj doole.
+
+Jikko ju rafet baax na lool ci nit.
+Bu ñu gaañ mala yi, dañu am bakkan.
+
+
+
+32 Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+7
+Garab fu mu nekk bare fa, taw du fa 
+gëj. Ku bëgg a dagg sax genn garab, 
+war naa am kayit. Soo daggee garab te 
+amoo kayit, yoon war na laa teg daan 
+bu kenn dul teggi.
+Sunu yaay yi nu bëgg ci sunu xol ñoo 
+nu nekkal ci waañ wi. Seeni lakk ci togg 
+gi jar na. Su dul woon ak ñoom kenn du 
+lekk. Kon nanu leen di tagg fu nu tollu.
+Suba gu jot, duggal ci sa wanag raggu 
+ak saabu, boroos say bëñ. Soo ko dee 
+def, sa moroom mu la gis bëgg a set ni 
+yow. Ku set dëgg foo ko fekk dafay ree. 
+Raggu daal dafa am solo ci yaram.
+
+Tey jii la sama rakk dugg lël. Ci biir 
+garab yu bare lañu dëkk ak ñeneen, 
+nekk fa ak rab yu doy waar. Seeni selbe 
+dañuy togg ak a tëgg. Xam naa ni sama 
+rakk su dikkee dina ni ñogg 
+gën a yaru.
+
+
+
+33Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+nn   mm
+sikk sëggal wokku daggit
+toggal jukki dëgg tekki
+takku siggi ñakku raggu
+jokkoo nokkas jokkoo wokku
+joggi taggal sikkal ñakku
+bukki yokku sikket toggal
+ñakk wekki bëggal bakku
+jukki coggal tukki taggat
+
+o nn onn
+b en ben
+l amm lamm
+e m em
+u nn unn
+
+c in cin
+ë mm ëmm
+u m um
+g ann gann
+k on kon
+
+8
+
+
+
+34 Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP3434
+
+8
+
+ton ni tonni
+dam mu dammu
+jom mi jommi
+j ëmm jëmm
+lem mi lemmi
+jun ni junni
+d amm damm
+son nal sonnal
+
+tonni nenne jommal junni
+wonnal jëmm yenni dammit
+bennoo nemm summi dënnu
+dammu jinne bënnal jëmmal
+bënnu bummi dammel sonnal
+lemmi wommat senn fommal
+xomm damm jommi lemmil
+gëmmal gënn fenn lenn
+
+
+
+35Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP 35
+
+8
+
+Gënn gi dugub la def.
+Taw bi bari na dënnu.
+Summi na simis bi mu soloon.
+Suba lañuy jox nenne bi tur.
+Lemmi na piis bu bees bi.
+Xale, bu yaroo, am lu gën junni.
+Yenni ma, siwo bi diis na gann.
+Tonnil cere ji tuuru ci basaŋ gi.
+Wommat na fas wi, jëm ca tool ba.
+Yee naa ko ba sonn, mu ni nemm.
+
+
+
+Njàng - Téere kalaas - CP36 Njàng - Téere kalaas - CP
+
+8
+Xale bi dafa ni moroom mi, gëmmal ma 
+nëbbu. Kooku gëmm, mu dem dugg ci 
+suufu ron lalam. Moroom ma di ko seet, 
+mu ni nemm fa mu nekk. Ci suufu lal ba, 
+mu gis fa bool bu def beñe yu ni ñumm. 
+Mu fab ci sex ni tekk.
+Dama doon fo ak Kariim mu tulli bal bi, 
+ma teg ko ci sama kow dënn. Kenn laalu 
+ma, ma daanu ci suuf. Kariim ñëw taxaw 
+di ma ree. Sama dënn di metti waaye 
+man Sooda bënnuma sama bët di jooy.
+Suba teel la sàmm bi di tuxal nag yu 
+tuuti yi. Su defee loolu, mu teg ci wut 
+meew ci nag yi jox waa këram. Bu waxtu 
+sàmmi jotee, mu tànn wenn ci yoon yu 
+bare yi ko wër, jiital ay nagam, dem.
+
+Lem, dañu koy wut ci paxi garab. Gunoor 
+yi koy defar fa la ñuy dëkk. Am na ñuy 
+wut lem di taal safara bëgg gunoor yi 
+daw. Bu ñu dawee, ñu fab lem gi jaay.
+
+
+
+373737Njàng - Téere kalaas - CPNjàng - Téere kalaas - CP
+
+9
+
+kk     gg        nn     mm       
+
+ë nn ënn
+i mm imm
+s egg segg
+l akk lakk
+d ugg dugg
+
+e kk ekk
+p ëgg pëgg
+ñ enn ñenn
+x omm xomm
+r imm rimm
+
+tagg fëkk ëll tonn
+xunn wenn duggu sëkk
+ragg bann ugg gëmm
+nemm kokk fukk ñumm
+rakkam doole xomm bakkan.
+dëggu yenni jokkoo toggi
+temm sonn xann dëkk
+bennal ogg ñogg daggat
+
+
+
+Njàng - Téere kalaas - CP38
+
+9
+
+dik kal dikkal
+dag goo daggoo
+lem mi lemmi
+yok ku yokku
+eg gee eggee
+ceg git ceggit
+sem mal semmal
+jog gi joggi
+
+dammat sikket daggit kennal
+tonni dukkat bukki namme
+nennal siggi gannuus duggi
+tukkal sikkim seggu jinne
+yagge nuggal riggal bummi
+jommi bekkit jëmmal woggi
+fukkeel junni nennu fekke
+dekku sikkal ronni benneel
+
+Njàng - Téere kalaas - CP
+
+
+
+393939Njàng - Téere kalaas - CP
+
+9
+
+Li Ruggi Sekk wax dëgg la.
+Sëgg siggi rekk sa ajoo faju.
+Takkal benn sikket bi ba du ruur.
+Teggil cin lenn li nu doon togge.
+Rikk waay, bul ne nemm ci biir. 
+Kenn ku sonn am li mu bëgg.
+Ku bëgg a tekki nag na saxoo liggeey.
+Ñakku dina aar xale ba du feebar mukk.
+Dëggit, tey mu neex ; amoo fenn foo jaar.
+Dikk naa, jox ma ; fekkee ma ci boole.
+
+Njàng - Téere kalaas - CP
+
+
+
+Njàng - Téere kalaas - CP40
+
+9
+Wenn yëkk a doon dox ba daje ak Segg.
+Segg ne ko dama la bëgg a takk ci ñax 
+mi. Nag tiit, daw dugg genn kër.
+
+Waaye fa mu egg, fekk na fa Till ak 
+Bukki. Mu yuuxu ne dikk leen sonn naa.
+Genn golo daldi tëgge, Bukki daggi 
+yoon wa, Nag féex.
+
+Njàng - Téere kalaas - CP
+
+
+
+41Njàng - Téere kalaas - CP
+
+10
+
+ll  bb
+bummi nokkas dammu yenni
+siggi xomm lenn fëgg
+damm yenni summi junni
+coggu nokkos sikkim sikket
+sonnal teggi dammit lakkle
+ñukk senn wekki pakk
+senn bukki dënnu nemm
+jommi yokku dugg beggal
+
+o ll oll
+u l ul
+t ibb tibb
+j ab jab
+ë ll ëll
+
+l al lal
+e bb ebb
+u b ub
+m ëll mëll
+o l ol
+
+Njàng - Téere kalaas - CP
+
+
+
+42 Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+dëbb dellu nëbbu dëbbal
+nëbbal till yebbi tollule
+tibbal ñebbe yelloo julli
+felli xelli dolliku ëllëg
+ñibbi jubb illeer wallu
+sulli dallu këll jolli
+dolli lelli rëbbi nëbb
+yulli rëbb xollit ubbi
+
+xol li xolli
+jeb bi jebbi
+jul li julli
+rëb bi rëbbi
+xel li xelli
+ñib bi ñibbi
+gob bi lu gobbilu
+nëb ba tu nëbbatu
+
+10
+
+
+
+43Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+Ku dox ba sonn dafay dallu.
+Jëlal ileer bi dem tool.
+Xelli naa ci meew mi naan.
+Dëbbal poobar bi te boole ci kaani.
+Dellul kër ga balaa muy taw.
+Nëbbal naa ko bagaas yi sunu kër.
+Dugub ji jebbi na ci tool yi.
+Tibbal ñaari kilo ceeb jox ko Daba.
+Dafa demoon rëbbi waaye loxoy kese la 
+dikke.
+Jox ma caabi ji ma ubbi waliis wi.
+
+10
+
+
+
+44 Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+10
+Ëllëg la ekool di ubbi.
+At mii Ummi ak Aali «CP» lañu tollu.
+Muse Silla moo leen di yoraat.
+Tey ci suba, ñaari «CP» yi ñoo doon 
+futbal.
+Musaa dafa dëgg bal bi ak fulla, daldi 
+ko tulli, mu dugg.
+Ñu yuuxu, futbal bi jeex, ñu tas dem 
+ñibbi.
+
+Dibeer jii dinanu setal ekool bi.
+Rubba moo koy jiite. Ñii dinañu bale 
+tilim ji, ñee dinañu ko jal, ñeneen ñi 
+tonni ko dem tuuri. Ekool bi dina set 
+waaye dinanu sonn.
+
+Ëllëg lanuy seet ku raw ci xayma ci 
+sunu kalaas.
+Ñu bari foog nañu ni Tulli lay doon. 
+Daaw moom la woon waaye ren jii Ibba 
+taxaw na temm bëgg koo wuutu.
+
+
+
+45Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+11
+
+à       ó        é
+folli jubb wallu nëbb
+jubb dellu yebbi dallu
+till rëbbi lelli ñibbi
+jolli cabb jebbi xolli
+ñebbe diggi eggale dikke
+fellit sonnati simmi walli
+nennu ëllëg dukkat nebbon
+feggu ximmali fulli ommat
+
+à ll àll
+b é bé
+m ól mól
+à mm àmm
+f égg fégg
+
+g ób gób
+à kk àkk
+é n én
+ó nn ónn
+à bb àbb
+
+
+
+Njàng - Téere kalaas - CP46 Njàng - Téere kalaas - CP
+
+11
+
+tàlli jéllu kéwel bóli
+sàlli màrto bégal fàggu
+Jóg jóge tàbbi jéri
+tàggu kàrce kóbo dékku
+yàbbi ràkkal bàkku àbb
+wékku pótit jàkka xàmme
+déwen sàkki jéggi làkk
+póliis génne yàgg wàlle
+
+à ll àll
+bó li bóli
+ràk kal ràkkal
+s ómm sómm
+sàl li sàlli
+kó ti se kótise
+fél la ti féllati
+tàg ga tu tàggatu
+
+Njàng - Téere kalaas - CP
+
+
+
+4747Njàng - Téere kalaas - CPNjàng - Téere kalaas - CP 47
+
+11
+
+Kéwel a mën a daw.
+Payis feebar la buy wàlle.
+Seex wutil na xar mi ràkkal.
+Tali bu bees bi tàlli na.
+Kura dem na tuuri pótit mi.
+Gan gi tàggoo na soog a ñibbi.
+Suba teel la Nàlla jóg xelli kafe.
+Déwen la sama maam di dem Sàkkal.
+Bàlla jël na màrto bi daaj taabal ji.
+Kaani gi moo tax Xadi yàbbi tib bi.
+
+Njàng - Téere kalaas - CP
+
+
+
+Njàng - Téere kalaas - CP48 Njàng - Téere kalaas - CP
+
+11
+Béy ak Bukki ñooy bëre tey. Ku nekk di 
+bàkku di wax ni moo fi mën. 
+Ñey arbit bi tàllal loxoom.
+Bukki siiñ ko sell yi, Béy tiit daldi ñàlli.
+Danoo demoon pàrku Aan. Bérab ba 
+àll bu yaatu la, am ay rab yu nekk ci ay 
+kaaf. Séllu taxaw di xool ag segg, segg 
+gi jóg wutsi ko. Noona, Séllu defe ni 
+segg gi dafay génn, mu daldi xélu.
+Safi Sàll gone gu yaru la. Gan gu dem 
+seen kër mu jóg nuyu ko jox ko mu 
+naan. Su mag di wax ak moom, du ko ni 
+jàkk, waaye dafay sëgg di ko déglu. Ku 
+bari kersa la, moone taxul mu ñàkk fulla.
+
+Toolu Baay Jibi sori na waaye am na 
+xaal yu neex.
+Ku fay dem ci àll bi lay jaar te war a 
+moytu dég yi.
+Dina dégg ceku yuy sab ci kow garab yi.
+Su doxee tuuti, yegg ca tool ba, gis 
+xaal yu rëy.
+
+
+
+494949Njàng - Téere kalaas - CPNjàng - Téere kalaas - CP
+
+12
+
+ll    bb     à       ó        é     
+
+d àll dàll
+s ébb sébb
+x óll xóll
+ŋ àbb ŋàbb
+j ébb jébb
+
+t óll tóll
+k àll màll
+j éll jéll
+x ëbb xëbb
+w óbb wóbb
+
+kóll àll càmm kóbb
+ñàbb dóbb téll gàll
+kéll xàll jàll génn
+ŋóbb wàll óll yàgg
+né cébb péll sóbb
+ràbb sàkk tolloo àbbati
+fànn xóll àddu bég
+àddina bélli jéllu xolli
+
+
+
+50 Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+12
+
+dëlle belli sémmiñ sàlli
+fànnoo àbbe jolli jàggi
+gémmiñ dëbbin génne sébbi
+sëllëx ŋàbbe tólle sàlloo
+tàbbee rubba màggal déggin
+féqu fàbbi sànnee ŋàlli
+ràllit déggoo déggal tànneef
+wàlle fàqat xàbboon gëmmaat
+
+yób bal yóbbal
+fàn noo fànnoo
+yàb bit yàbbit
+xàd di xàddi
+jél lin jéllin
+ól lay óllay
+wà qi wàqi
+làl li làlli
+
+fël le fëlle
+pól lu póllu
+séb bi sébbi
+ñeb be ñebbe
+wék ki wékki
+xàm me xàmme
+tàg gu tàggu
+wé qu wéqu
+
+
+
+51Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+12
+
+Sànnil sekkit wee ci póllu bi.
+Tëgg bi nàmm na sàllu sémmiñ. 
+Jëlal ràbb bënn këll bi, ñaw ko.
+Dafa sob rekk, dugg na ni Rubba.
+Tànnal robb bu rafet ba jéggi dayo.
+Sélli wut na paas ak yóbbal, àbb dàll.
+Bët sébbi na, àll tooy, sëb dina dëll.
+Su nee ràllit, foo tollu dégg làmmiñ wi. 
+Làbbaa yónni sàmm bi Dólli, ca nag ya.
+Silla tàbbal na póli bi ci teen bi.
+
+
+
+Njàng - Téere kalaas - CP52 Njàng - Téere kalaas - CP
+
+12
+Danu dugg ci gaal doon tukki, man ak 
+sama maam. Nu jéggi dex gu mag gi, 
+jëm ca wàllaa. Ba nu eggee, nuyoo, 
+tàbbi ci ab néeg di dallu.
+
+Nees tuut, coow la jolli, fekk sët yaa 
+nammoon maam.
+Mu yónnee beñe, daggat ko, jox kenn
+ku nekk. Gone ya bég, di tëgg, di 
+reetaan.
+
+
+
+53Njàng - Téere kalaas - CPNjàng - Téere kalaas - CP
+
+13
+
+dd   pp
+póliis bégal xàmme déwen
+yàbbi coll dàll tàbbi
+génne jàkka kéwel bóli
+wann gémmeñ tànnit ñibbi
+ball jóge ràll éggi
+màbb bów yóbbu gàbb
+màrto sàlli jéem xunn
+dëbb tàggu jommi kóbo
+
+u dd udd
+d al dal
+l égg légg
+w inn winn
+ë dd ëdd
+
+f od fod
+t oll toll
+x et xet
+m àdd màdd
+d em dem
+
+
+
+54 Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+13
+
+xàd di xàddi
+wed di weddi
+nop pi noppi
+bud di buddi
+gud di guddi
+sep pi seppi
+séd da le séddale
+top pa le toppale
+
+àdduna nappi xàddi biddiw
+noppi toppi juddu fuddën
+kàddu séddale àppal buddi
+soppi fuddu kuddu jàddal
+ràppal koppar beddi fippu
+keppu seppi kóppin teppi
+guddi noppal waddal pàppa
+sàppi weddi gàddu ñoddi
+
+
+
+55Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+13
+
+Xadi yeewu na di fuddu.
+Sooda waddal na kuddu gi.
+Usmaan dem na nappi ba ñëw.
+Teel a tëdd moo ko noppal.
+Yaayam fuddën na ay loxoom
+Juma seppi na jën yi ba noppi.
+Koppar yu bari la kóppin di jar.
+Liir bi juddu keroog lañuy tudd tey.
+Dem na ba sori, dëpp di seet kalpeem 
+bi wadd.
+Bul topp sa mer, bul xàddi, muñal rekk.
+
+
+
+56 Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+13
+Tëdd ci lal di xaar lekk fekk la fa jagul.
+Ku bëggul sonn, tedd di na la jafe.
+Xanaa gisoo jigeen ñii di xëy ci sedd bi, 
+wuti màdd di ko jaay.
+Kàdd garab la gu ñépp xam ca Kajoor.
+Nawet kese la ay xobam di wadd.
+Kàdd dina yokk dooley suuf.
+Ku bey dugub ak ñebbe ci këram lépp 
+dina sakkan.
+
+Xale bi dafa xëy xippi, xool gis mu leer, 
+mu jóg toog ci kaw lalam jàpp bopp bi. 
+Xam na ni xëdd weesu na te biir bi 
+dara nekku ci. Bool bi tege ci wetam, 
+pooji ginaar yu saf sàpp a ci nekk.  
+Tey de xolam seddul.
+
+Sunu waa kalaas ñépp a dugg kaar dem 
+jëli gaal ga jëm Gore.
+Kaso yu tuuti ya ñu daan tëj ràpp ña 
+ñu daan jàpp jooyloo nañu ma.
+La ca gënoon a tiis mooy gëdd ya ak 
+tilim ja ñu daan tëdd.
+
+
+
+57Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+14
+
+tt   cc
+kuddu weddi gàddu sàppi
+nappi fuddu seppi fuddën
+ràppal jàddal rëddal keppu
+toppi juddu juddu noppi
+seddal àppal guddi buddi
+xippi kuddu àdduna teppi
+koppar beddi waddal pàppa
+fuddën toppal àbbloo ñoddi
+
+à tt àtt
+l ett let
+g occ gocc
+u c uc
+ó tt ótt
+
+x ëtt xëtt
+é cc écc
+ee c eec
+b ëtt bëtt
+f itt fitt
+
+
+
+58 Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+14
+
+rit tax rittax
+nat tal nattal
+lét ti létti
+ràc cal ràccal
+tàc cu tàccu 
+noc ci nocci
+roc ci ku rocciku
+fàt ta li  fàttali
+
+rittax botti wattu bucci
+soccu futtal facc muttal
+bàccal tàccu futtiku metti 
+feccal fette nattal màttal
+létti woccu paccal roccil 
+fittax gattax rattal gàttal 
+sottal ràccal fàttali fattu
+nocci fattal wàccal maccal
+
+
+
+59Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+14
+
+Eleen dem na létti Nafi Ba.
+Sama rakk ji leegi la fattu. 
+Su gerte ñoree dañu koy wattu.
+
+Ku bëre ak Siidi dina la botti.
+Sàmm bi ratt na nag wi ba noppi.
+Laalo ji, ci cere ji dafa rittax lool.
+Sama rakk dafa feebar leegi la doon 
+woccu.
+Tey ci dibeer ji dinaa bàccal Kura ay 
+laltaay.
+Dafa tibb ci laax bi loxoom lakk ba futt.
+Sira dafa gàttal ay waxam ma gis ni 
+mer na.
+
+
+
+Njàng - Téere kalaas - CP60 Njàng - Téere kalaas - CP
+
+14
+Soo demee ca àll ba, ay gétti nag ñoo 
+fa nekk. Mën nañu faa gis Kuus, di nit 
+ku gàtt, di dëppoo këll. Soo ko, bettee, 
+tàccu ko dina tiit daw wacc këll bi. Soo 
+foree këll bi am alal ju bari.
+Ma lim ñetti cér ci garab : reen yi, dàtt 
+bi ak car yi. Ci reen yi la lekku garab 
+gi di jóge, jaar ci dàtt bi, dem ba ca 
+xob ya. Garab am na njariñ. Kon nanu 
+ko sàmm ba mu mucc ci lu koy yàq.
+Bukki natt na dooleem, bëgg a bëre ak 
+Ñey. Dina am ku ci am gàcce. Ku daan 
+ñépp a koy tàccu, mu soccu, wone ay 
+bëñam bàkku. Su ñibbee, ñu toggal ko 
+laax ràccal ko mu lekk ba suur. 
+Danuy feccal sunu maam su nu bëggee 
+mu defal nu ay maye. Biig danoo wax 
+ba Bukki sàccee xaali Lëg. Ba ko rab 
+yi jàppee, dañoo létt kawari boppam, 
+takk ko ci kow garab. Sunu maam ni nu 
+lii mooy wone ni sàcc baaxul.
+
+
+
+616161Njàng - Téere kalaas - CPNjàng - Téere kalaas - CP
+
+15
+
+dd   pp   tt   cc
+
+m àdd màdd
+s occ socc
+x épp xépp
+b ett bett
+x ótt xótt
+
+x ott xott
+j épp jépp
+t àpp tàpp
+s ecc secc
+w odd wodd
+
+rittax weddi sottal nocci
+soccu fuddu xucc betti
+xàll jàll jàddal tàppal
+kott soppali juddu bàccal
+létti dóbb téll feccal
+fettax fecci napp siddit
+tappale wàll óll àppat
+fàccee sippax bett soccet
+
+
+
+62 Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+putte ceddo tàllit guddi
+wetti waccu sippi rëccaat
+soppi rocci beppi detteel
+gàddaam nappi xuppe xeppi
+botti woddu bette weccet
+màtte ficci toppe kàccoor
+waddin jàppoo siddi koppar
+soccet xiddi kàccit kàttan
+
+15
+
+xàd di xàddi
+rop pi roppi
+àd du àddu
+àt te àtte
+boc ci bocci
+gàd du gàddu
+séd doo séddoo
+up pu uppu
+
+fàt te fàtte
+sëp pu sëppu
+réc cu réccu
+sot ti sotti
+noc ci nocci
+it te itte
+tep pi teppi
+tëd di tëddi
+
+
+
+63Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+putte ceddo tàllit guddi
+wetti waccu sippi rëccaat
+soppi rocci beppi detteel
+gàddaam nappi xuppe xeppi
+botti woddu bette weccet
+màtte ficci toppe kàccoor
+waddin jàppoo siddi koppar
+soccet xiddi kàccit kàttan
+
+15
+
+Ràccal laax bi ba mu sedd.
+Wàccal ma may la yàppu kóppin.
+Picc ma doon jooy kañ la noppi ?
+Takk na saaku pepp bi, ba fàccul.
+Wecc ma koppar yi ma Décce sédd.
+Guddi dafa jot, am muus di yoppu 
+jinax yi.
+Nanu jàpp nag wu gàtt wee, ratt ko.
+Supp bi saf na sàpp, wex xàtt kaani.
+
+Rama raxas na bool yi soog a seppi jën yi.
+
+Omar Ba wacc na téere bi seen kër.
+
+
+
+Njàng - Téere kalaas - CP64
+
+Tey, Meer dafa topp di wër gox bi. 
+Egsi na, wàcc dox, nun ñepp nu génn 
+di ko tàccu. Mu jox sunu muse mi ñu 
+tànnoon raaya. 
+
+Digal nanu nu jàppoo, bokk lepp, raw 
+ci natt yi. Jàpp nanu wax ji, dunu ko 
+fàtte, nooy roppi ñépp.
+Te kon dunu rus ba ni tott, ne yàcc. 
+Leegi nag, sunu wàccee, guddi gu jot 
+nu nafar. 
+
+Xale yépp farlu nañu ci def li ñu leen 
+digal. Ken ku nekk wacc luy po, di yër 
+say lesoŋ.Gépp gone gu ci saxoon dafa 
+mujj am lijaasa. Waajur yi bég, toggal 
+leen ñam yu ne gadd.
+
+Maam Daam wax na ne : Bu wenn 
+fepp ceeb wadd. Aw ñam kenn du ko 
+sàggane di ko tuur. Ku dëkke lekk di ko 
+waddal, dina ko reccu bés.
+
+15
+
+Njàng - Téere kalaas - CP
+
+
+
+65Njàng - Téere kalaas - CP
+
+óo  ée  ëe
+bàccal rittax paccal rocci
+woccu fàtte réccu fattu
+nattu sëllëx ŋàbbe metti
+nappi fuddu seppi sotti
+gàttal gàddu xàbboon létt
+feccal weddi xótte tàccu
+jàkkeer kéwel bóli màrto
+waddal jàggi sàppi ràppal
+
+16
+
+óo n óon
+s éen séen
+
+ëe w ëew
+j óo jóo
+
+ée g éeg
+
+c ëe cëe
+d óor dóor
+ée m éem
+ëe y ëey
+óo b óob
+
+Njàng - Téere kalaas - CP
+
+
+
+66 Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+16
+
+réeral fóotal déem sóobu
+yéemu téere géewal óomam
+déeg góom téeñ céeli
+jóoru léebu lóoral dóom
+léej wóolu léemu géej
+bóoli jéem dóore góolu
+yéene bëeram téenal wéeru
+kóoni móolu wéetaay sóoru
+
+kóo ni kóoni
+tée re téere
+bëe ram bëeram
+góo lu góolu
+gée wal géewal
+sóo ru sóoru
+dë fee nu dëfeenu
+dóo ra ti dóorati
+
+
+
+67Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+16
+
+Bóoli bi fees na dell ak beñe.
+Deel yéene sa moroom lu baax.
+Wéet baax na ci kuy nafar.
+Musaa wuti na kóoni ca àll ba.
+Xale bu yaru du dóore du saaga.
+Wóolu la moo tax ma wax la ko.
+Ñeex mi doy na bul lóoral cere ji.
+Góora, caatum Abi mi, dafa léej ba 
+jaaxal ñépp.
+Ku wéeru ci sa maam muy léeb, sooy 
+nelaw doo ko yëg.
+Góom bi Móodu am ci óom suba gu jot 
+dafa koy faj.
+
+
+
+6868
+
+16
+Jigeen a yor kër, soo ko seetloo bu 
+baax. Suba teel, mu ni ñokket,  
+jël paanam ak téeñam dem rooti.
+Su fa jógee taxani, ñëw taal togg añ.
+Jigeen ñi sonn nañu, kon góor ñi war 
+nañu leen a taxawu.
+
+Bëre dóor lu metti la.
+Ñiy bëre, su ñu demee tuuti, kenn 
+yóbbu sa moroom ardo.
+Su doon sama sago, bëre dóor du am.
+
+Góor ak jigeen dañuy lekk ceebu jën.
+Ceeb bi ñu sóor leegi mu ñor.
+Bu ñu ko yakkee, ma dóor ci ba suur.
+
+Su tawee, suufu ban bi dafay lóor.
+Oto bu ci jaar dinañu la puus.
+Yow miy dawal jéemal a moytu loolu.
+Jël yoon wu wóor daal moo gën 
+ci nawet.
+
+Njàng - Téere kalaas - CP Njàng - Téere kalaas - CPNjàng - Téere kalaas - CP
+
+
+
+69
+
+17
+
+Njàng - Téere kalaas - CP Njàng - Téere kalaas - CPNjàng - Téere kalaas - CP
+
+-
+bóoli léej óomam kóoni
+réeral sóobu céeli géej
+jóoru yéemu bëer sóoru
+dóom góolu léebu lóoral
+géej yéene wóolu léemu
+létt dóom ŋàdd xotti
+tàccu fàtte réccu fattu
+coppati feccal gàttal metti
+
+
+
+70 Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+17
+
+gal-gal rëq-rëq kër-kër raŋ-raŋ
+teŋ-teŋ gis-gis toŋ-toŋ këŋ-këŋ
+xam-xam rag-tag kur-kur pët-pët
+lam-lam loŋ-loŋ wis-wis way-jur
+tex-tex mën-mën kot-kot pat-pat
+tés-tés jam-jam tem-tem pël-pël
+tis-tis for-bët xew-xew dër-dër
+tëf-tëf pët-pët kur-kur bër-bër
+
+gal gal gal-gal
+teŋ teŋ teŋ-teŋ
+tex tex tex-tex
+tés tés tës-tës
+xam xam xam-xam
+loŋ loŋ loŋ-loŋ
+rëq rëq rëq-rëq
+kër kër kër-kër
+
+
+
+71Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+17
+
+Xale bu baax dayfay yaru ci way-juram.
+Yoonu raŋ-raŋ metti na ci tukki.
+Waa ji dafa koo gal-gal daaneel ko.
+Toŋ-toŋu daaw ba amoon na solu lool.
+Badara  dafa am ay jam-jam ci loxo bi.
+Tés-tési jigeen ñi ci céet gi mujj na metti.
+Sama pàppa yeew na xaru pël-pël ci 
+tabaski gi.
+Sa kur-kur ji bare na  mel ni jinax ci 
+paxam.
+Sàcc bi tiit na di pat-pati bi mu gisee  
+alkaati bi.
+Tis-tis yi tilimal nañu sama yére yu weex 
+yi te rafet.
+
+
+
+Njàng - Téere kalaas - CP72 Njàng - Téere kalaas - CP
+
+17
+Ami woll na dugub ji, mooñ, ko, tay 
+defar cere. Bi mu noppee mu ràcc cere 
+ji ci kow basaŋ gi. Tëcc na yàpp wi toj 
+na yax yi togg soos. Ngoon dinanu 
+reere cerey yàpp ju neex.
+Dàtt nanu boppu Ami ba mu rafet.
+Nattal nanu ko juróom meetaru piis. 
+Def na ñaari at tukkiwul. Wut na 
+yóbbalu boŋ-boŋ ak suusal. Dina teel a 
+xëy, tegu ci yoon wi.
+
+Tey lanuy set-setal sunu ekool.
+Muse nee na nu buddi ñax mi sax fépp 
+ci ëtt bi. Ku ci gën a sawar dina am 
+neexal.
+
+Seku mi jaaxal na ñépp. Dafay ubbi 
+téere di nafar. Dibeer ju jot, dafay 
+jàppale Koddu ci póot mi. Moo tax ku 
+ko sóoru xuloo ak xaritam Lóota.
+
+
+
+73Njàng - Téere kalaas - CPNjàng - Téere kalaas - CP
+
+18
+
+óo  ée  ëe  -
+gal-gal wonnal rëq-rëq sëkk
+bàkku móolu gis-gis felli
+ŋëbal wiiri daggat sakku
+toqu waaso ñibbi jommal
+ŋàbb jukki teŋ-teŋ àbb
+jokku dëggal yóbbaale bennoo
+wenn ogg tex-tex rag-tag
+daggoo weddi lam-lam loŋ-loŋ
+
+t óo tóo
+w ëe wëe
+j éex jéex
+
+óo m óom
+ëe x ëex
+
+p ée pée
+g óob góob
+s ëer sëer
+
+ée l éel
+óo t óot
+
+
+
+Njàng - Téere kalaas - CPNjàng - Téere kalaas - CP74 Njàng - Téere kalaas - CP
+
+réeral tóoju bóoli wej-wej
+pat-pati sóobu téenal ñaaw-neex
+tóokër móolu géer saab-saab
+ràll-ràll réeral bëeram lakk-lakk
+wéetaay bëer fóoxal kot-kot
+kot-kot ñóoxu bóof taw-féex
+féete déem jéex tem-temi
+neb-neb sóoru fet-fet mën-mën
+
+raŋ raŋ raŋ-raŋ
+bëe re bëere
+xew xew xew -xew
+wée re wéere
+takk takk takk-takk
+tem tem tem-tem
+jée ma ti jéemati
+dóo baa li dóobaali
+
+18
+
+
+
+757575Njàng - Téere kalaas - CP 75Njàng - Téere kalaas - CPNjàng - Téere kalaas - CP
+
+Sa gis-gis sore na lool.
+Sedd na ba Mataar di kot-koti.
+Sama rakk ree na bay kex-kexi.
+Boo amee xam-xam yeewu ci àdduna.
+Ut naa teŋ-teŋ ca màrse ba.
+Gone yi dem nañu ca déeg ba nappi jën.
+Ku mënul a féey warul a sóobu ci biir géej.
+Sa téere bi dafa seer de, kon sàmm
+ko bu baax.
+Bul dugal sa loxo ci dóom bi mën na
+laa lakk.
+Réeral na xaalis bi, looloo tax mu di
+ko jéex.
+
+18
+
+
+
+Njàng - Téere kalaas - CP76 Njàng - Téere kalaas - CP76 Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+Nawet bi àgg na. 
+Bey nanu ba noppi. 
+Sama yaay toolam bari na gerte. 
+
+Suba teel lanu dem ca seko ba.  Ba nu 
+àggee, ñu peese gerte gi.
+Ci saa si, ñu jox sama yaay xaalis bu 
+takku. Ci la ma xottil waks bu bees,  
+jox ko tajoor bi.
+
+Bi mu amee ñaari fan, nu jaaraat 
+palaasu Sow. Gis naa mu wékk ay ñaw 
+yu taaru. Sama yaay mottali ko desitu 
+xaalis bi, mu daldi may jox sama robb.
+
+Bi bésu kermees bi ñëwee, robb bi laa sol.
+Ñii di ma wax sañse bi rafet na.  
+Ñeneen ñi di ma wax lalal naa la.
+
+18
+
+
+
+77Njàng - Téere kalaas - CPNjàng - Téere kalaas - CP 77Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+mb  mp  nd  nj
+xam-xam xew-xew bóof kër-kër
+géey kàttan raŋ-raŋ toŋ-toŋ
+xeppi loŋ-loŋ tës-tës pët-pët
+natt bëer tàllit ficci
+jóox léebu ñóox kóom
+gal-gal teŋ-teŋ céet bette
+sëer koppar jam-jam wis-wis
+këer mën-mën màtte kóppin.
+
+mb e mbe
+é nj énj
+à mp amp
+i mb àmb
+
+nd o ndo
+
+nj óo njóo
+mb ë mbë
+ó mb ómb
+i mp imp
+a nd and
+
+19
+
+
+
+78 Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+pompe ndaje xumb fompal
+nàmpal simb njugub njàmbal
+mbaxal njuumte sempi làmb
+ndox waxande yendu mbote
+njaxas njàmpe mbalit njariñ
+ndóbin junj làmp sómbi
+mbana jàmbaar sump sompaat
+njamala ndogu njëmbët lëndëm
+
+mba xal mbaxal
+nda je ndaje
+sem pi sempi
+njàm pe njàmpe
+mba na mbana
+njà qa re njàqare
+nja ma la njamala
+xu mbu te xumbute
+
+19
+
+
+
+79Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+Taalal làmp bi dafa lëndëm kurus.
+Ndox mu sell mooy indi wér.
+Ndaje mi amoon kër Njaase xumb na.
+Fompal bu baax siis bi dafa tilim.
+Kumba togg na sómbi def ci meew ak 
+soow piir.
+Tey danuy woote simb, xumbal bu baax 
+sunu gox bi.
+Jàmbaar ca waar wa xam na njariñu  
+jëmbët salaat ak kaani.
+Feebaru njàmbal raaful de, ba leegi am 
+na xale yu mu dal.
+Li mbër yi fecc ci làmb ji du yaaba de, 
+gumbe lay niru.
+Doktoor nee na nàmpal sa doom ñaari at 
+yu mat sëkk mooy li gën.
+
+19
+
+
+
+80 Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+Tey sunu ekool dafay set-setal, an 
+mbalit mépp. Indi nanu pomp ngir 
+dàq yoo yi. Fépp fu am lënd dinanu ko 
+dindi. Kenn toogul, ñii ngi fomp, ñee  
+di bale.
+
+Làmb, a powu cosaan la.
+Dina xumbal gox, wone la amoon 
+démb. Xale yi dañu fay jele njarin.
+Muy lu nu war a dekkal. Mbër mu samp 
+ndënd sa moroom sempi.
+
+Ndogu li neex na ci kër maam Njéeme.
+Togg na def ci mbana, séddale boole 
+ci ndox mu sedd. Ku nekk lekk ba suur, 
+naan ba màndi, ñaanal ko mu dund lu 
+yàgg. Ndaje moomu at ba at la koy def.
+
+Jëmbat garab am na njariñ. Ku romb mën 
+a cee féexlu. Jur gi fa la ñuy nekk suba ak 
+ngoon. Ku xiif mën cee witt lekk ba suur, 
+muy sump, muy dànq walla muy dittax.
+
+19
+
+
+
+81Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+ng nk nc nt nq
+ndaje raŋ-raŋ fompal njaxas
+mën-mën njàmpe mbaxal toŋ-toŋ
+pët-pët mbote tés-tés mbana
+for-bët mbool njugub ndogu
+jam-jam nàmpal sempi mburu
+lëndëm indaale yendu njàmpe
+domp junjuŋ xumbute ndambe
+sompaat njariñ ndolent ndimbal
+
+ng a nga
+o nq onq
+à nk ànk
+ë nt ënt
+
+ng i ngi
+
+ó nt ónt
+é nk énk
+ë nc ënc
+i nq inq
+e ng eng
+
+20
+
+
+
+82 Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+sangu màngo jàng banku
+ngelaw bunt ŋankal gàncax
+tusngal tàngoor lanc jàngoro
+denc conco yëngal tënk
+njaxas ngénte yànq njariñ
+song tàngal tanqal lingeer
+mànkoo lëng sànke tànta
+wànq ngoon tànk bànqaas
+
+nge law ngelaw
+màn koo mànkoo
+con co conco
+ngén te ngénte
+tan qal tanqal
+sàn ke sànke
+xa la ngu xalangu
+sàn ku te cànkute
+
+20
+
+
+
+83Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+Tàngoor wi mooy ñoral màngo yi.
+Wax ma lu wànq di dox noor.
+Dafa ko song yëngal ko mu banku.
+Ci tàngoor wii, jarul ngay tàngal ndox 
+booy sangu.
+Ngelaw lee daaneel banti garabu 
+mbànte yi.
+Dinaa tënk wax ji ci sama làmmiñ.
+Bu sa bëñ yanqee demal gaaw kër 
+doktoor.
+Jarul a denc, joxal xale yi lëng, tàngal 
+ak dànq ñu lekk.
+Jànq bu pànk la waaye ñëme na song 
+liggeey te mën na jàng.
+Waa dëkk bi mànkoo nañu jàppale ko ci 
+ngénte li moo tax jooyul dara.
+
+20
+
+
+
+Njàng - Téere kalaas - CP84 Njàng - Téere kalaas - CP
+
+Ngóone dem na kër doktoor, ñu dindil 
+ko bëñ biy metti. Bëñ bi yanqul, dafa 
+bënn. Doktoor bindal na ko garab yi 
+mu war a jël.
+Su ginaar yi màggee, direktëer dafay 
+wax ñu jaay leen. Xaalis bi lanuy 
+defare bunt yi dàjjiku. Dinanu ci fey 
+itam kiy roñ mbalit mi.
+Baay Demba  ruuj na toolam moo tax 
+gàncax gi rafet. Xaalis bi mu dencoon 
+bànk la jënde tool. sànkul alalam. 
+Mbootaay gi mu bokk am na bànqaas 
+ci gox bi muy jiite. ku mën a taxawu 
+njaboot la. Looloo tax Yaay Binta 
+gërëm ko, ñaanal ko.
+
+20
+
+Mbote mi ci kër gi dayay fo ak xale yi saa 
+su nekk. Fànta mi koy yar lu mu denc 
+jende na ko meew def ci sankal di ko 
+nàmpal. Su maree mu tanqal ko ndox mu 
+naan. Ngoon gu jot mu ànd ak moom te 
+du ko takk.
+
+
+
+85Njàng - Téere kalaas - CPNjàng - Téere kalaas - CP
+
+mb   mp   nd   nj   ng   nk   nc   nt   nq
+mboq làmp mbaq ndaje
+domp njar samp ndombo
+jànj sumb ndëraan njàng
+tënk tàngoor lanc jàngoro
+sump ngonk mànkoo njàmbur
+dàmba ngénte yànq gàncax
+tanc tàngal sancaan njariñ
+conco yëngal tanqal lingeer
+
+mb ó mbó
+ng u ngu
+à nt ànt
+a nc anc
+nj é njé
+
+à mp amp
+o nq onq
+é nd end
+i ng ing
+
+mb a mba
+
+21
+
+
+
+Njàng - Téere kalaas - CPNjàng - Téere kalaas - CP86 Njàng - Téere kalaas - CP
+
+21
+
+lancal dëngal gental sempil
+ngistal pàntal rombal ndaje
+mbana mburu sàntaŋ xontal
+compal simpi nguri làngal
+mbëkkal mbàttu sampal lumpal
+lumpal santal gàntu sancati
+mbotti randale bindal xandal
+ngara indil lunkal bankal
+
+mbàt tu mbàttu
+sam pal sampal
+lan cal lancal
+mbot ti mbotti
+mbëk kal mbëkkal
+tan qa ti tanqati
+nda ja le ndajale
+ro mba ti rombati
+
+
+
+878787Njàng - Téere kalaas - CP 87Njàng - Téere kalaas - CPNjàng - Téere kalaas - CP
+
+21
+
+Gaalu Ngaala teer na ci tefes gi.
+Bu randoo rekk ñu teg fi dara.
+Anta gontali na Musaa ci wittum ñebbe mi.
+Toggkat yi teg nañu mbana yu rëy.
+Astu lonkoo na saagam waaxu
+dem jàngi.
+Xale yi muy àndal ñoo ko mag fuuf.
+Suba gu jot ma lekk mburu mu tàng.
+
+Dafa am nguri lu nekk ci sama néeg.
+
+Abdu dëngal na barigo bi di tanq ndox mi.
+
+Jigeen ji ñuy ngéntee ngi toog di nàmpal 
+doomam.
+
+
+
+Njàng - Téere kalaas - CP88 Njàng - Téere kalaas - CP88 Njàng - Téere kalaas - CP
+
+21
+Am na yeneen ñetti boroom kër yu dem 
+dëkki feneen. Bi waxtaan wi jeexee, ñu 
+gis ni ñàkk ndox moo waral ñooñu dem.
+Mbooloo woote ndaje di seet liy gental 
+dëkk bi.
+
+Nàmpal doom ak ween dafa baax
+ci wér-gi-yaramam. Xale bu ñuy jox 
+ween saa yu xiifee màggam dina gaaw. 
+Meewu yaay jàmm la koy indil di ko
+may doole. 
+Ku dem ci dëkku sàmm dinañu la 
+njaral. Soow mi lañuy dolli ndox boole 
+ci suukër. Nga jël mbàttu naan mu 
+neex lool. Booleel cerey mboq ak soow 
+mu ñu suukër, dara dàqu ko.
+
+Jigeen ñi su ñu amee ngénte dañu leen 
+di làngal. Seen xarit yi ñooy ñëw indil 
+leen ay ndawtal yu ànd ak xaalis.  
+Ci ngoon gi lay door ànd ak ay woy, 
+maye, tagg ak fecc ba mu guddi lool.
+
+
+
+89Njàng - Téere kalaas - CPNjàng - Téere kalaas - CPNjàng - Téere kalaas - CP
+
+22
+
+ññ - ŋŋ
+tànk songoo jonkon njulli
+sempi buntu janq gàncax
+dencaat ndaje xàmp lëngoo
+nombo santal gàntu sancal
+gunge ndijaay njàng dàmba
+mànkoo junj waxande xunt
+mbëkkal mbàttu sampal lumpal
+lumpal yéemu njuumte mën-mën
+
+e ññ eññ
+ó ñ óñ
+l eŋŋ leŋŋ
+d aŋ daŋ
+u ññ uññ
+
+i ñ iñ
+m éŋŋ méŋŋ
+w oŋ woŋ
+ë ññ ëññ
+a ñ añ
+
+
+
+90 Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+22
+
+meññeef doŋŋ wàññi suññeel
+faŋŋe waññiku ŋàññ meŋŋ
+xàññ fàŋŋ nàññ soññee
+meññent ràññiku xàŋŋ dàŋŋ
+péŋŋ ñéññ wuññi ràññee
+woññil dàŋŋe noŋŋ toŋŋ
+wàññiku léŋŋ gaññ meññloo
+soññaat ŋàññul ŋaññ waññi
+
+faŋ ŋe faŋŋe
+dàŋ ŋe dàŋŋe
+ràñ ñee ràññee
+wañ ñi waññi
+meñ ñeef meññeef
+kàŋ ŋe kàŋŋe
+joŋ ŋa ti joŋŋati
+wàñ ñi ku wàññiku
+
+
+
+91Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+22
+
+Toolu dër bi bari na ay meññeef.
+Ŋàññ sa moroom du jëf ju rafet.
+Buur baa ngi ni noŋŋ ci kow fasam.
+Màrse, jën yaa nga fa ni gàññ tey.
+Kuraŋ bi dellusi na ba néeg bi leeraat 
+nàññ.
+Seŋoor sunu njiitum réew ma woon ku 
+ràññiku la.
+
+Góor gu ne léŋŋ la waaye farloom des na 
+lool.
+
+Rakkam ji dafa ko topp mu ni ko mu 
+waññiku gaaw.
+Doktoor bi soññ nañu bu baax ci ñuy 
+fanaan ci sànke yi.
+
+Def na àngare ci tool bi ndax loolu mooy 
+tax mu gën a meññ
+
+
+
+92 Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+22
+Móodu góor gu tàyyeel la.
+Bu ñépp nee meŋŋ dem tool, fi mu 
+toog la naan noŋŋ, ñu koy soññ ak a 
+soññaat. Yenn saa yi sax dañu koy 
+ŋàññ muy door a jóg.
+
+Ngóone jigeen ju ñu ràññee la ci gox bi.
+Liggeey rekk la gëm, dafa koy def te di ci 
+soññe. Bu ñépp dee nelaw moom doŋŋ 
+mooy des ci ëtt bi di beñe. Fajar mu ne 
+toŋŋ ci sareet jëm màrse jaayi.
+Sama yaay am na tóokër bu naat 
+meññeef ya ni gàññ. Suba su nekk 
+dinaa fa dugg, roose ko. Yenn saa yi 
+ma teg fa sama baŋ ni noŋŋ ca kow.
+Di seetlu nag ndax amul lu meññ bees.
+Bukki dafa xiif te gisul yàpp.
+Biir bi di metti muy gaññ di jooy.
+Nees tuuti mu séen Suññeel di romb.
+Mu fëx topp ko, Suññeel gaaw banku.
+Xol ba jeex mu ñéññ, won ko gannaaw 
+ne meŋŋ.
+
+
+
+93Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+23
+
+jj   yy   ww
+noŋŋ meŋŋ meññent suññeel
+léŋŋ donj wàññiku àndaale
+nàññ mbote ràññiku soññaat
+fàŋŋ péŋŋ tanqamlu sanqaleñ
+xànjar waññ umpaañ waxande
+mbokk gaññ màndaxe xew-xew
+ndéef sempi njàmbat mbaxana
+ŋàññ doŋŋ màndute njëmbët
+
+o jj ojj
+x aj xaj
+u yy uyy
+ë y ëy
+ó ww óww
+
+é w éw
+f ejj fejj
+s ij sij
+à yy àyy
+
+oo y ooy
+
+
+
+94 Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+23
+
+xewwi tàwwi noyyi xàjjale
+bàyyima tàyyi yewwi bàyyi
+ijji fàww àjji xàwwiku
+wujje newwi jaww àjjuma
+sujjoot bijjaaw dàjji dijjal
+làyyi tijji béjjen xàwwi
+lajj yewwiku mujje kujje
+tàwwiku bàjjen bojjal tijjiku
+
+tày yi tàyyi
+tij ji tijji
+xew wi xewwi
+muj je mujje
+noy yi noyyi
+new wi newwi
+xàw wi ku xàwwiku
+dij ji le dijjile
+
+
+
+95Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+23
+
+Sama maam bëggul ku dóor bàyyima.
+Kuuy mi béjjen yi gudd na.
+Pàppaam mag la waaye bariwul
+bijjaaw noonu.
+Abiyoŋ ci jaww ji lay naaw ne picc.
+Demba dafa doon daw daanu, tànk bi 
+newwi.
+Nag wi ñu yeewoon yewwiku na, xale
+yi fëx.
+Ay gone waruñu di wujje ndax dafay jur 
+mbañeel ci nit.
+Àjjuma jii nu jëm fàww ma dellu dëkk 
+ba seeti mbokk ya.
+Dafa bëggoon a yéeg ci kow mbaar mi faf 
+xàwwiku daanu ci suuf.
+
+Muse wax na ko ba tàyyi mu bàyyi 
+waxtaan biir kalaas. 
+
+
+
+Njàng - Téere kalaas - CP96 Njàng - Téere kalaas - CP
+
+23
+Bàjjen Uley jaaykat bu mag bu farlu la.
+Àjjuma ju mujj ci weer wu nekk dafay 
+dem màrse Jawbe wuti fa gejj.
+Gejj yooyu lay peeseel yeneen jaaykat 
+yu ndaw yi ci kàrce bi.
+Dina leen ko bàyyee ay fan, bu ñu 
+jaayee fey ko mu dellu Jawbe.
+
+Wenn fas dafa nu romb, mu ngi soox 
+ndax tànk bu newwi.
+Waa ji ci kow sareet bi mu ngi koy dóor 
+rekk ne du bàyyi du tàyyi.
+Xamul ni sax fas wi dafa ame mettit, 
+xamul itam ni bàyyima yi dañu yore 
+bakkan di noyyi ni moom.
+
+Melax gi dafa ni ràyy ci jàww ji, muus 
+mi ni layy ni cëpp ci kër gi. Dënnu gi ne 
+xàyy ma daw dugg ca néeg ba làqu ca 
+ron lal ba. Taw bi sóob, muus miy noyyi 
+ca kaw di ŋeew-ŋeewi.
+
+
+
+97Njàng - Téere kalaas - CPNjàng - Téere kalaas - CP
+
+24
+
+ññ   ŋŋ   jj  yy  ww
+meññ fàŋŋe ñéññ soññee
+sujjoot newwi noyyi wujje
+xàwwi tijji bàjjen yewwi
+toŋŋ wuññi doŋŋ ràññee
+làyyi xàwwi xonq bojjal
+dijjal bàyyi noyyi wàññiku
+bàyyima toŋŋ tàwwi pëŋŋe
+wujje dijjal tijjiku yewwiku
+
+à ññ aññ
+ñ aa ñaa
+t oŋŋ toŋŋ
+ŋ eem ŋeem
+à jj àjj
+
+j ull jull
+o yy oyy
+y ëw yëw
+u ww uww
+w ii wii
+
+
+
+Njàng - Téere kalaas - CPNjàng - Téere kalaas - CP98 Njàng - Téere kalaas - CP
+
+24
+
+meŋŋ newwi gajj xàjjale
+wujje ràññiku yàwwi xàŋŋ
+tijjiku xàwwi àjjuma ijji
+dijjal bojjal béjjaaw yewwi
+bàyyi wuññi léŋŋ noyyi
+faŋŋe toŋŋ dàjji mujje
+soññe làwwi woññi tàwwi
+bàjjen noŋŋ xewwi wàññiku
+
+meñ ñent meññent
+wuj je wujje
+faŋ ŋe faŋŋe
+dàŋ ŋe dàŋŋe
+làw wi làwwi
+tij ji kat tijjikat
+woñ ñaa le woññaale
+yàw wi ku yàwwiku
+
+
+
+999999Njàng - Téere kalaas - CP 99Njàng - Téere kalaas - CPNjàng - Téere kalaas - CP
+
+24
+
+Sama doom ju góor ji ñemewul suññeel.
+Xàwwi suturas nit baaxul, bul ko def.
+Bàjjen Daba ñëw na tey seetsi nu.
+Gaañoom bi metti na ma ngay gaññ.
+Dëgg gu ne fàŋŋ kenn du ko jéem a nëbb.
+Xadi soññaat na leegi Aali ci liggeey bi.
+Baara, yéegal àjji bal bi ci garab gi.
+
+Nan bojj dugub ji ndax ëllëg nu togg ci.
+
+Waaru naa, xaalis bi ma yoroon réer 
+na meŋŋ.
+Nawet bi baax na, gerte gaa ngi ni gàññ.
+
+
+
+Njàng - Téere kalaas - CP100 Njàng - Téere kalaas - CP100 Njàng - Téere kalaas - CP
+
+24
+Nawet bi dafa baax ren.
+Ñax mi bari na lool.
+Demal yewwi fas wi, bàyyi ko mu fori.
+
+Tabaski gi agsi na xaat.
+Alaaji bàyyi na xel ci li ko war.
+Xar mi mu jënd ràññee nañu ko. 
+
+Tey ci àjjuma ji la céet gi. Woy yi jolli, 
+ñuy woy Mari ak Tóoli. Seen baay ak 
+seen yaay bég nañu. Amul xàjj ak seen, 
+ku leen jege ñu may la.
+
+Ginaar gi tostan na.
+Ay cuuj yu ni gàññ la am.
+Ñaari cuuj yi ni meŋŋ tax na ba Ablaay 
+di leen sàmm leegi. Su dul loolu, siiru 
+mi yóbbu leen ñoom ñépp.
+
+
+
+101Njàng - Téere kalaas - CPNjàng - Téere kalaas - CPNjàng - Téere kalaas - CP
+
+25
+
+h
+newwi nàññ bàjjen dàŋŋaaral
+ràññiku jaww faŋŋe tàyyi
+péŋŋ ijji waññ mujje
+bàyyi ràññee bojjal soññaat
+béjjenu bojjal léŋŋ béjjaaw
+soññee noyyi dàjji ràññatle
+pëŋŋe soññati toyy toŋŋoonte
+wuññi duññi pëŋŋe waŋŋeetu
+
+h a ha
+e h eh
+
+aa h aah
+h oo hoo
+h ii hii
+
+h ë hë
+h ó hó
+ee h eeh
+h uu huu
+h ëe hëe
+
+
+
+102 Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+hubbite hindaale halkande habale
+hàggali hàllarba heewati hàddina
+hutalsi hàtteji hilife hubale
+hoowale hóbbali heegukaay hamaana
+ahakañ hooteji haltine hàttekaay
+hemale hileeram hubale haajoom
+hutali lehalal bahalaat hañaale
+hokkatu hàjjuma hàttekat haajo
+
+le ha lal lehalal
+ha ñaa le hañaale
+hék ka ti hékkati
+hu tal si hutalsi
+hi li fe hilife
+hoo te kat hootekat
+hub bi te hubbite
+hàk ka ti hàkkati
+
+25
+
+
+
+103Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+Ajaa mu ngi lehal doomam ji.
+
+Homar defar na hoto fohekaay bu 
+taaru lool.
+
+Nit ku mën a yàq du gaaw a hoomle.
+Haadi bëgg na hàjji màngo waaye 
+ñemehut a yéeg.
+Maa ngi ñëw nu hànd may ma tuuti ma 
+hàggali.
+Muse wax na ni hàddina bi jëmmu 
+kuppe la hame.
+
+Hammadi mu ndaw moo dàq a futbal ci 
+kalaas bi yépp.
+Moom góor la gu ne léŋŋ waaye mënut 
+a fajal kenn haajo.
+Musaa bind na kàddu gi ci hàlluwaam ba 
+noppi jàng ko ci kow.
+
+Bésu ngénte bi hagsi na, Baay jënd nag 
+wu rëy lool heew ko.
+
+25
+
+
+
+Njàng - Téere kalaas - CP104 Njàng - Téere kalaas - CP
+
+Halima doomam ji dafa sibbiru. Hànd 
+na ak moom dem ca dispañseer ba. 
+Ba ñu hàggee, doktoor bi seet na ko, 
+teg loxoom ci jëham, daldi koy bindal 
+hordonaas. Ba mu noppee mu wax 
+Halima muy tëral xale bi ci biir sànke.
+
+Xale yi ñu ngi waajal hubbite ekool bi.
+Seen yaay dem na màrse hindil leen saag 
+yu rafet. Hawa moom robb bu taaru lañu 
+ko hutal. Suba ak jàmm ñoom ñépp hànd 
+jàngi.
+
+Gone yi dañoo hànd di dem. Màrse lañu 
+jubal, Hajaa topp na leen. Ba ñu hàggee 
+ñu jënd hay jën yu bari.  
+Ñu hegsi, wax Hajaa mu taal ñu lakk jën.
+
+Haali beykat bu jàmbaare la.
+Suba su ne, mu gàddu hileeram jëm tool.
+Buy liggeey dafay ñaq ba jëham 
+tooy xipp.
+Waaye bu jamonoy góob hegsee, 
+mu kontaan.
+
+25
+
+
+
+105Njàng - Téere kalaas - CP
+
+Sabab :
+Ginnaaw bi nga jàngee ab diir, seen madam walla muse jox na la 
+kërale yi ci suuf ngir nga jàng leen. 
+Ndigal :
+Biralal bu gaaw li ci kërale yi benn benn,ànd nga settantal ak bàyyi 
+xel ci tomb yi
+
+ta oq amb ŋó juu akk eem nàgg
+litt ri dé fóo sejj xeel penn ronn
+óyy xëg yiis aaf keel teng bucc àmm
+ecc ho oop iq eer ƞàmp béll naññ
+uŋŋ joo wur he ént tank hodd mbad
+ànc sée bë gée onk yoŋŋ ngaa dëww
+
+fare habale jubbanti ndikkaan
+bon rawaleji ràŋŋatiku xàwwi
+hay ramatu wàññeeku wél-wéli
+jox teqaliku tàndarma sopparñi 
+aaŋu sebetiji déwenati sawaradi
+póotit taqale waŋŋeetu fàttaliku
+
+Njàng - Téere kalaas - CP
+
+26
+
+
+
+106 Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+Lu baax masul a yomb.
+Fonk waajur, lu am solo la.
+Lu ne fàŋŋ, kenn du ko jéex.
+Nit ku  baax dafa war a am jom.
+
+Topp ndigal dina tax gone am li
+mu bëgg.
+
+Na mag ñi yërëm gone yi, gone yi  
+weg leen.
+
+Kafe gu tàng, mburu ak tuuti bëer la janq 
+bi ndékkee. 
+
+Yeewul njël, bul bàyyi ba jant ne dàŋŋ 
+ngay door a jóg. 
+
+Till ga génne ca kàmb ga daje na ak 
+jahaar ja, pënd ba jolli.
+Man héemu naa ci ki nga xam ne xiif tax 
+na muy tuñ-tuñi.
+
+26
+
+
+
+107Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+Mari ak Badu ay xale yu nangoo jàng lañu. 
+Suba teel lañuy yeewu, sangu, sol yére. 
+Su ñu duggee kalaas, dañuy déglu li seen 
+madam di wax, xool bu baax. Seetaan tele 
+du yàq seen njàng, ndax dañuy mokkal 
+seen mbind door a def leneen.
+Sama maam, ku am taxawaay la te njaxlaf. 
+Su dee dox, da ngay dégg tànk yi ci peroŋ 
+bi. Dafa am fulla, kenn yabu ko. Ñépp a ko 
+xam ci dimbali kuy laaj ak ku am jafe-jafe. 
+Ay xale ñoo fekk mbaamum jàmbur ne 
+dañu koy war. Am mag mu daje ak ñoom 
+tere leen. Ñu lànk, war mbaam-ngonk muy 
+noŋŋi-noŋŋi. Waaye, dafa daw ab diir, 
+waŋŋeetu, xale yu dëgër bopp ya jullóotu.
+
+26
+
+Tey de xaley koñ bi dañuy set-setal. Suba 
+teel, la ñépp dajaloo, yor jumtukaay yi ñu 
+war a liggeeye. Li naaj wi tàng lépp, taxul 
+ñu noppalu. Ruq yépp a set ; ñu tonni 
+mbalit mépp def ko ci póllu yu mag.
+
+
+
+108 Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+Téy, njël la seex yi Badu ak Mari yeewu. Ñu ngi waajal jàngi ekool 
+ndax tey lay ubbi. Seen yaay Astu moo leen jàppale ñu sangu ba set. 
+Démb la Badu dem watuji. Ayu-bés gi weesu la Mari yendu Sikilo kër 
+tànta Nafi mu létt ko ba mu rafet. 
+ 
+Seen pàppa Omar Ndaw moo leen di gunge ci ekool Waali Fata. Mu ne 
+leen nañu seetaat bu baax ndax seeni téere, kaye ak jumtukaay mat 
+nañu. 
+
+Badu sol na tiset bu baxa bu rafet ak dàll yu weex. Maree ngi sol 
+robbam bu taaru ànd ak ay dàll yu ñuul. Mu ngi bég lool, di muuñ. 
+Xale yi dinañu kontaan su ñu gisee seen ay moroom.
+
+Ubbite ekool
+
+27
+
+
+
+109Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+Laaj yi ak liggeey yi
+
+Bés
+
+Baat yu jafe yi
+
+njël : mooy waxtu wi jëkk ci bés buy tàmbali ; fajar ; lu teel ci suba si.
+gunge : ànd ak nit ku am fu mu jëm.
+jumtukaay : yu ñuy jëfandikoo ci liggeey.
+
+I. Ma tekki
+a. Ma róofale
+
+Jëfandikool baat yi ci tiket yi, nga defaraat kàddu gi ci sa kaye.
+
+b. Ma ràññee
+• Baat yu bokk tekki
+1. Bindal ci sa kaye/àrduwaas baat bu bokk tekki ak benn bu ne ci yii ci suuf.
+
+jàppale   tuuti
+• Baat yu woroo
+2. Bindal ci sa kaye/àrduwaas baat bu woroo ak benn bu ne ci yii ci suuf.
+
+yeewu   kaw
+
+1
+
+watuji. démb la dem Badu
+
+27
+
+II. Ma dégg li jukki bi ëmb 
+a. Ma tontu 
+
+1. Kan moo gunge xale yi ekool ?
+2. Ku doon sang xale yi ?
+3. Ñaari xale yi nu ñu tudd ?
+
+b. Ma tànn
+Bindal ci sa kaye/àrduwaas limu kàddu gi jub te dëppoo ak jukki bi. 
+
+1. Badu sol na xaftaan bu rëy te rafet.
+2. Badu sol na tiset bu baxa bu rafet.
+3. Badu sol na xaftaan bu xat lool te rafet.
+
+c. Ma seppi
+Seppil baat bi warul bokk ci mboole mi te bind ko ci sa àrduwaas.
+
+kontaan, bég, ree, muuñ, mer
+
+
+
+110 Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+I. Ma dégg li jukki bi ëmb
+a. Ma xam li nataal bi ëmb
+
+Tontul ci laaj yii :
+1. Ñaata nit ñoo nekk ci nataalu jukki bi ?
+2. Lu ñuy def ?
+
+b. Ma tontu
+Tontul ci laaj yii :
+
+1. Lu xale yi yor bi ñuy génn kër gi di jàngi ?
+2. Xale yi bëgguñu dellu ekool. Dëgg la am déet ? Lu tax ?
+
+c. Ma mottali
+Sottil ci sa kaye/àrduwaas kàddu yi te mottali leen ak baat yi war. 
+(ubbi, sangu, doon, rafet, ñakk, ne)
+
+Yaay Astu dafa nu …..nanu…..ba set.
+Muse nee na, nu ….. sunu téere. 
+Xale yi sol nañu yére yu ….. wuti ekool.
+
+d. Ma lëkkale kàddu ak nataal 
+Bindal ci sa kaye/àrduwaas limu kàddu gi mën a ànd ak nataal bi.
+
+1. Maree ngi mer, sol robbam, taxaw.
+2. Maree ngi bég, sol mbaxana, taxaw.
+3. Maree ngi bég, sol robbam bu gudd. 
+
+e. Ma wax li ma jàpp
+Waxal li nga jànge ci jukki bi.
+
+II. Ma dawal jukki bi
+Biralal jukki bi ci ñetti simili.
+
+III. Ma bind
+Bindal genn kàddu ci sa kaye/àrduwaas, nettali loo def ci bésu ubbite ekool.
+
+Bés 2
+
+27
+
+
+
+111Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+28
+
+Faana ak Abdu ay xarit lañu, ñoo bokk koñ. Suba gu jot, ñooy ànd 
+di jàngi. 
+Benn bés, Faana réeral jaaroom ci ëttu ekool bi, fa mu doon fowe, 
+ci waxtu dallu wi. Muy jéex ci suuf, di ko seet. Ci la Abdu egsee, laaj ko :
+
+ - Faana, lu tax ngay def sa loxo ci suuf si ?
+ - Sama jaaro moo wadd fii.
+ - Hée, sama yaay ne woon na kenn du def sa loxo ci suuf si. Dafa 
+
+bare ay doomi jàngoro te dafay indi feebar.
+ - Aa ! Xamuma ko woon.
+
+Noona, Abdu ni ko : « Demal raxas sa loxo. Dinaa wax sama yaay mu 
+jëndal la jaaro yu rafet ». 
+Ca ëllëg sa, mu indil ko jaaro yu yànj. Faana bég lool.
+
+Ci ëttu ekool bi
+
+
+
+112 Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+Laaj yi ak liggeey yi
+
+Bés
+
+Baat yu jafe yi
+
+dallu : noppalu boo defee dara ba sonn. Ci misaal, jàng ba sonn di noppalu.
+ëtt : bayaal bi ci biir ekool bi.
+yànj : rafet.
+
+I. Ma tekki
+a. Ma róofale
+
+Jëfandikool baat yi ci tiket yi, nga defaraat kàddu gi ci sa kaye.
+
+b. Ma ràññee
+• Baat yu bokk tekki
+1. Bindal ci sa kaye/àrduwaas baat bu bokk tekki ak benn bu ne ci yii ci suuf.
+
+wadd     xale
+• Baat yu woroo
+2. Bindal ci sa kaye/àrduwaas baat bu woroo ak benn bu ne ci yii ci suuf.
+
+réer     rafet
+
+1
+
+jàngi. ñooy Faana ak Abdu ànd
+
+28
+
+II. Ma dégg li jukki bi ëmb 
+a. Ma tontu 
+
+1. Kan mooy xaritu Faana ?
+2. Lan la Faana réerle ?
+3. Lan la Abdu mujj indil Faana ?
+
+b. Ma tànn
+Bindal ci sa kaye/àrduwaas limu kàddu gi jub te dëppoo ak jukki bi. 
+
+1. Faana réeral na jaaroom ci ekool bi.
+2. Faana réeral na jaaroom ci ëttu ekool bi.
+3. Faana réeral na jaaroom ci buntu ekool bi.
+
+c. Ma seppi
+Seppil baat bi warul bokk ci mboole mi te bind ko ci sa àrduwaas.
+
+réer, reer, seet, wadd, jéex
+
+
+
+113Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+28
+
+I. Ma dégg li jukki bi ëmb
+a. Ma xam li nataal bi ëmb
+
+Tontul ci laaj yii :
+1. Ci nataalu jukki bi, fan la xale yi nekk ?
+2. Lan la Faana di def foofu ?
+
+b. Ma tontu
+Tontul ci laaj yii :
+
+1. Lu tax Faana gisul jaaroom bi réer ?
+2. Lu seddal xolu Faana ?
+
+c. Ma mottali
+Sottil ci sa kaye/àrduwaas kàddu yi te mottali leen ak baat yi war. 
+(tere, feebar, ëtt, loxoom, jéex)
+
+Mu ngi………..ci suuf di seet jaaroom.
+Tilim dafay indi ………… .
+……….. nañu ko mu def ………….. ci suuf.
+
+d. Ma lëkkale kàddu ak nataal 
+Bindal ci sa kaye/àrduwaas limu kàddu gi mën a 
+ ànd ak nataal bi.
+
+1. Abdu ak Faana ñu ngi ci ëttu dispañseer bi.
+2. Abdu ak Faana ñu ngi ci ëttu ekool bi.
+3. Abdu ak Faana ñu ngi ci ëttu meeri bi.
+
+e. Ma wax li ma jàpp
+Waxal li nga jànge ci jukki bi.
+
+II. Ma dawal jukki bi
+Biralal jukki bi ci ñetti simili.
+
+III. Ma bind
+Bindal genn kàddu ci sa kaye/àrduwaas, nettali lu elew yi di def ci ëttu ekool bi 
+waxtu noppalu.
+
+Bés 2
+
+
+
+114 Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+Laaj yi ak liggeey yi
+
+I. Ma tekki
+a. Ma róofale
+
+Jëfandikool baat yi ci tiket yi, nga defaraat kàddu gu ci nekk ci sa kaye.
+
+b. Ma seppi
+Seppil ci mboole mu nekk, baat bi ci bokkul te bind ko ci sa kaye.
+
+ 
+
+1
+
+2
+
+  njël, yeewu, sangu, fowi, jàngi
+
+  jaaro, réer, dàll, ëtt bi, jéex
+
+1
+
+2
+
+ko.
+
+bég
+
+Mari
+
+lool.
+
+egsi,
+
+Mu
+
+laaj
+
+ngi
+
+29
+
+II. Ma fàttaliku la jukki ya ëmboon 
+
+a. Ma tontu
+Bindal ci sa kaye arafu tontu wi jub.
+
+Ci jukki bu jëkk bi :
+
+Laaj yi : Tontu yi :
+
+1. Ku dimbale Mari ak Badu 
+ñu sangu ?
+
+a. Tànta Nafi b. seen yaay c. seen mag
+
+2. Lu tax Badu ak Mari 
+di sangu
+
+a. ngir doxi b. bëgg a set c. bañ a tàrde
+
+
+
+115Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+29
+
+Laaj yi : Tontu yi :
+
+1. Lu Faana réeral ci ëttub 
+ekool bi ?
+
+2. Lu tax Abdu tere Faana 
+mu def loxoom ci suuf si ?
+
+a. boolam
+
+a. moytul ko feebar
+
+b. kayeem
+
+b. bañ ko
+
+c. jaaroom
+
+c. tooñ
+
+Ci ñaareelu jukki bi :
+
+b. Ma tànn
+Bindal ci sa kaye limu kàddu yi jub te dëppoo ak jukki yi nga jàngoon.
+
+1. Xale yi dinañu kontaan su ñu gisee seeni moroom.
+2. Dinaa wax sama yaay mu jëndal la jaaro yu rafet.  
+3. Xale yi du ñu kontaan su ñu gisee seeni moroom.
+
+4. Dinaa wax sama yaay mu jëndal la dàll yu rafet . 
+
+c. Ma wax li ma jàpp 
+
+Ñaari jukki yi nga jàng ci ayu-bés gi, yelul bu ci ne ay yoon. Soo noppee, nga wax li 
+nga ci jànge.
+
+III. Ma dawal jukki bi
+
+Ñaari jukki yi nga jàng ci ayu-bés gi, biralal bu ci nekk ñaari yoon. Yoon wu ci ne, 
+na nga settantal baat yi ak kàddu yi te bàyyi xel bu baax ci tomb yi.
+
+IV. Ma bind
+
+Bindal ñaari kàddu ci sa kaye tàggatu, nettali ci loo def ci bésu ubbite ekool yow ak 
+say xarit. 
+
+
+
+116 Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+Tey, kenn demul ekool, sama pàppa ne danuy dem Sikilo seeti Maam 
+Sàmba. Ey waay ! Maam Sàmba mooy sama pàppay yaay. Mu ngi dëkk 
+ak Ayda Wilaan sama maam ju jigeen, sama tànta ak ñaari doomam.
+Sama yaay dafa jël saag, def ci gerte, cere ak biteelu meew. Danu koy 
+yóbbul Maam Sàmba. Sama robb bu xonq bu gudd, rafet lool, laa sol. 
+Sama pàppa sol xaftaan bu wert. Sama yaay sol ndóbino bu xonq. 
+Bi nu eggee, Maam Sàmba dafa bég lool. Mu jël ma, teg ma ci 
+wetam, may ma tàngal. Man ak Maas, sama doomu tànta Nafi, danu 
+yendoo fo. Bi nu sonnee, nu ñëw toog, di noppalu. Sama tànta Nafi 
+may nu bisaab ; nu naan ba kontaan. Haa, kër Maam Sàmbaa neex !
+
+Kër Maam Sàmba
+
+30
+
+
+
+117Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+Laaj yi ak liggeey yi
+
+Bés
+
+Baat yu jafe yi
+
+xaftaan : mbubb mu gudd te góor ñi di ko faral di sol.
+ndóbino : mariñeer. Yére jigeen la bu ñuy boole ak sér. 
+bég : kontaan.
+
+I. Ma tekki
+a. Ma róofale
+
+Jëfandikool baat yi ci tiket yi, nga defaraat kàddu gi ci sa kaye.
+
+b. Ma ràññee
+• Baat yu bokk tekki
+1. Bindal ci sa kaye/àrduwaas baat bu bokk tekki ak benn bu ne ci yii ci suuf.
+
+bég     jël
+• Baat yu woroo
+2. Bindal ci sa kaye/àrduwaas baat bu woroo ak benn bu ne ci yii ci suuf.
+
+neex    yóbbu
+
+1
+
+ñaari amSama tànta la doom
+
+30
+
+II. Ma dégg li jukki bi ëmb 
+a. Ma tontu 
+
+1. Kan lañuy seeti ?
+2. Lan la pàppay kiy nettali sol ?
+3. Lu yaay ji def ci saag bi ?
+
+b. Ma tànn
+Bindal ci sa kaye/àrduwaas limu kàddu gi jub te dëppoo ak jukki bi. 
+
+1. Àttaaya la Nafi may xale yi.
+2. Maam Sàmba mooy pàppay yaayu xale yi.
+3. Pàppay xale yi yére yu mboq la sol.
+
+c. Ma seppi
+Seppil baat bi warul bokk ci mboole mi te bind ko ci sa àrduwaas.
+
+cere, meew, saag, gerte, bisaab
+
+
+
+118 Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+c. Ma mottali
+Sottil ci sa kaye/àrduwaas kàddu yi te mottali leen ak baat yi war. 
+   (xonq, wert, xaftaan, sol, summi)
+
+Pàppa Omar, …………… bu …………… la……………  
+
+d. Ma lëkkale kàddu ak nataal 
+Bindal ci sa kaye/àrduwaas limu kàddu gi mën a 
+ànd ak nataal bi.
+
+1. Nafi naan na bisaabu xale yi.
+2. Nafi mu ngiy may xale yi bisaab.
+3. Nafi may na xale yi salaat.
+
+e. Ma wax li ma jàpp
+Waxal li nga jànge ci jukki bi.
+Lan moo la gën a neex ci jikko yi ñu fésal ci jukki bi ?
+
+I. Ma dégg li jukki bi ëmb
+a. Ma xam li nataal bi ëmb
+
+Tontul ci laaj yii :
+1. Waxal ñan ñoo nekk ci nataal bi ?
+2. Lan la ku nekk di def ?
+
+b. Ma tontu
+Tontul ci laaj yii :
+
+1. Maam Sàmba dafa yàkkamti woon a gis njabootam. Waxal li koy wone.
+2. Maam Sàmba ku bëgg sëtam bi la ? Dëgg la am déet ?
+
+II. Ma dawal jukki bi
+Biralal jukki bi ci ñetti simili.
+
+III. Ma bind
+Bindal genn kàddu ci sa kaye/àrduwaas, nettali lu ñu la mas a defal bi nga demee sa 
+kër menn mbokk.
+
+Bés 2
+
+30
+
+
+
+119Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+31
+
+Benn bés, ginnaaw añ, xale yi dañu doon fo ak Duudu ; seen doomu 
+nijaay. Pàppaam Asan yónni ko, mu bañ. Dafa bëggoon mu jëndali ko 
+warga. Duudu ne tànkam dafay metti ; te fekk du woon dëgg.
+Ca ëllëg sa, jàngalekat ba, Madam Jàllo di wax ci mbirum njaboot ci 
+njàngum nekkin wu rafet. Mu ne leen : « Yaay ak pàppa dañuy def 
+lépp ngir nun, tàmbalee ko bi nu nekkee tuut-tànk. Kenn mënu leen a 
+fey. Li nu mën rekk, mooy di leen déggal, di leen toppatoo ».
+Bi Duudu déggee loolu, muy wax ci xelam : « Madam wax na dëgg ! 
+Kon dama war a déggal samay waajur te jox leen cer ».
+Bi mu ñibbisee, muy def li ko ay waajuram di sant. Seen xol seddaat 
+lool ci moom.
+
+Déggal waajur
+
+
+
+120 Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+Laaj yi ak liggeey yi
+
+Bés
+
+Baat yu jafe yi
+
+tuut-tànk : xale bu ndaw.
+déggal : defal nit li mu la sant te di bàyyi li mu la tere.
+jox cer : déggal, fonk.
+
+I. Ma tekki
+a. Ma róofale
+
+Jëfandikool baat yi ci tiket yi, nga defaraat kàddu gi ci sa kaye.
+
+b. Ma ràññee
+• Baat yu bokk tekki
+1. Bindal ci sa kaye/àrduwaas baat bu bokk tekki ak benn bu ne ci yii ci suuf.
+
+bañ    sant
+• Baat yu woroo
+2. Bindal ci sa kaye/àrduwaas baat bu woroo ak benn bu ne ci yii ci suuf.
+
+sedd    tàmbali
+
+1
+
+seddaat Asan Xolu na.
+
+31
+
+II. Ma dégg li jukki bi ëmb 
+a. Ma tontu 
+
+1. Lan la Duudu làyyi ba demul ci li ñu ko yónni ?
+2. Nan la jàngalekat bi tudd ?
+3. Lan moo seralaat xolu pàppay Duudu ?
+
+b. Ma tànn
+Bindal ci sa kaye/àrduwaas limu kàddu gi jub te dëppoo ak jukki bi. 
+
+1. Mbiskit la Asan yónni Duudu.
+2. Warga la Asan yónni Duudu.
+3. Warga ak liibaru suukar la Asan yónni Duudu.
+
+c. Ma seppi
+Seppil baat bi warul bokk ci mboole mi te bind ko ci sa àrduwaas.
+
+toppatoo, fonk, bañ, déggal, naw
+
+
+
+121Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+31
+
+I. Ma dégg li jukki bi ëmb
+a. Ma xam li nataal bi ëmb
+
+Tontul ci laaj yii :
+1. Kan la Duudu di nuyu ?
+2. Nan la koy nuyoo ?
+
+b. Ma tontu
+Tontul ci laaj yii :
+
+1. Jan jamono la Asan yónni woon Duudu ?
+2. Fan la madam Jàllo doon waxtaane ak Duudu ?
+
+c. Ma mottali
+Sottil ci sa kaye/àrduwaas kàddu yi te mottali leen ak baat yi war. 
+(waajur, dëgg, doom, cér, déet, wax, pàppa)
+
+Yaay ak ….. dañuy def lépp ngir …..
+Madam bi …. na …..de !
+Dama war a jox ….samay ….… .
+
+d. Ma lëkkale kàddu ak nataal 
+Bindal ci sa kaye/àrduwaas limu kàddu gi mën a ànd 
+ak nataal bi.
+
+1. Madam Jàlloo ngi bind ci kaye yi.
+2. Létti Madam Jàllo yi rafet nañu.
+3. Madam Jàlloo ngi waxtaan ak elew yi.
+4. Madam Jàlloo ngi génn kalaas bi. 
+
+e. Ma wax li ma jàpp
+Waxal li nga jànge ci jukki bi.
+
+II. Ma dawal jukki bi
+Biralal jukki bi ci ñetti simili.
+
+III. Ma bind
+Bindal genn kàddu ci sa kaye/àrduwaas, nettali lenn ci waxtaanu Madam jàllo 
+ci kalaas bi.
+
+Bés 2
+
+
+
+122 Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+32
+
+1
+
+2
+
+ gerte, cere, yére, bisaab, meew, tàngal
+
+ yaru, déggal, toppatoo, fonk, nelaw
+
+1
+
+2
+
+yóbbul 
+
+ bëggoon
+
+ Maam Sàmba
+
+warga.
+
+Dañuy
+
+Dafa
+
+meew
+
+mu jëndali ko 
+
+1. Kan lañu seeti Sikilo ? a. Maam Nogoy b. Maam Sàmba c. Yaay Ami
+
+2. Lu xale yi yendoo def ?
+
+a. Dañu tooggoon b. Dañu doon nelaw c. Dañu doon fo
+
+Laaj yi ak liggeey yi
+
+I. Ma tekki
+a. Ma róofale
+
+Jëfandikool baat yi ci tiket yi, nga defaraat kàddu gu ci nekk ci sa kaye.
+
+b. Ma seppi
+Seppil ci mboole mu nekk, baat bi ci bokkul te bind ko ci sa kaye.
+
+II. Ma fàttaliku la jukki ya ëmboon 
+
+a. Ma tontu
+Bindal ci sa kaye arafu tontu wi jub.
+
+Ci jukki bu jëkk bi :
+
+Laaj yi : Tontu yi :
+
+
+
+123Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+32
+
+1. Kuy waxtaane nekkin 
+wu rafet ?
+
+a. jaaykat bi   b. Madam Jàllo c. seen yaay
+
+2. Lu tax xale war a déggal 
+waajuram  ?
+
+a. ndax dañu 
+leen di nax  
+
+b. ngir xam 
+leen
+
+c. ndax ñoo 
+ko yar
+
+Laaj yi : Tontu yi :
+
+Ci ñaareelu jukki bi :
+
+b. Ma tànn
+Bindal ci sa kaye limu kàddu yi jub te dëppoo ak jukki yi nga jàngoon.
+
+1. Kenn mënul fey waajur.
+2. Sama pàppa sol xaftaan bu wert.  
+3. Kenn mënul xam waajur.
+
+c. Ma wax li ma jàpp 
+Ñaari jukki yi nga jàng ci ayu-bés gi, yelul bu ci ne ay yoon. Soo noppee, nga wax 
+li nga ci jànge.
+
+III. Ma dawal jukki bi
+
+Ñaari jukki yi nga jàng ci ayu-bés gi, biralal bu ci ne ñaari yoon. Yoon wu ci ne, na 
+nga settantal baat yi ak kàddu yi te bàyyi  xel bu baax ci tomb yi.
+
+IV. Ma bind
+
+Bindal ñaari kàddu ci sa kaye tàggatu, nettali lenn lu xale bu déggal 
+waajuram war a  def.
+
+
+
+124 Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+Danu sopp lool sunu maam Nogoy. Moom moo jur sunu pàppa. Dafay 
+kaf, di wax naan sama rakk Ñoxor mooy jëkkëram, man maay wujjam. 
+Suba su ne, bu nu yeewoo, dafa nuy laaj ndax nelaw nanu bu baax. 
+Bu nu sunu yaay dee soow, dafa koy metti lool. Sama yaay dafa ko 
+naan moom dafay yàq sët. Su déggee wax jooju, dafay dem, dugg ci 
+néegam, mer.
+Balaa nuy dem ekool, danuy dem néegam, tàggu ko. Mu may nu ku 
+nekk ñaar-fukk. Waaye du fàtte mukk ne nu : « Bu ngeen wàccee, bu 
+leen taxawaalu. Nangeen ñibbisi ci kër gi ».
+Dafa nuy faral di woo ci néegam bu guddi jotee. Nu ñëw, mu nuy 
+léebal ba nuy waaj a nelaw, nu dem tëri.
+
+Sama maam dafa tabe
+
+33
+
+
+
+125Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+Laaj yi ak liggeey yi
+
+Bés
+
+Baat yu jafe yi
+
+tabe : ku mën a joxe, kuy maye, kuy dimbalee. 
+sopp : bëgg.
+sët  : sa pàppay pàppa, sa pàppay yaay, sa yaayu yaay walla sa yaayu pàppa, 
+yow sëtam nga.
+
+I. Ma tekki
+a. Ma róofale
+
+Jëfandikool baat yi ci tiket yi, nga defaraat kàddu gi ci sa kaye.
+
+b. Ma ràññee
+• Baat yu bokk tekki
+1. Bindal ci sa kaye/àrduwaas baat bu bokk tekki ak benn bu ne ci yii ci suuf.
+
+kaf    taxawaalu
+• Baat yu woroo
+2. Bindal ci sa kaye/àrduwaas baat bu woroo ak benn bu ne ci yii ci suuf.
+
+tabe    guddi
+
+1
+
+maam danu Sunu bëgg
+
+33
+
+II. Ma dégg li jukki bi ëmb 
+a. Ma tontu 
+
+1. Kan la xale yi di tàggu sunuy dem ekool ?
+2. Fan lañu koy fekk ?
+
+b. Ma tànn
+Bindal ci sa kaye/àrduwaas limu kàddu gi jub te dëppoo ak jukki bi. 
+
+1. Maam ji dafay léebal sëtam yi ci biti.
+2. Maam ji dafay léebal sëtam yi ci këram.
+3. Maam ji dafay léebal sëtam yi ci néegam.
+
+c. Ma seppi
+Seppil baat bi warul bokk ci mboole mi te bind ko ci sa àrduwaas.
+
+bàjjan, maam, nijaay, béjjen. 
+
+
+
+126 Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+I. Ma dégg li jukki bi ëmb
+a. Ma xam li nataal bi ëmb
+
+Tontul ci laaj yii :
+1. Ñaata sët la maam ji am ?
+2. Lan la maam ji di defal sëtam yi ?
+
+b. Ma tontu
+Tontul ci laaj yii :
+
+1. Lu tax sët yi sopp seen maam ?
+2. Fan la ñuy jaaye xaalis bi leen seen maam may ?
+
+c. Ma mottali
+Sottil ci sa kaye/àrduwaas kàddu gi te mottali ko ak baat yi war. 
+(woo, nelaw, léebal, guddi, néegam )
+
+……….gu ne, maam ji dafay ………… sëtam yi ba ñu …………..
+
+d. Ma lëkkale kàddu ak nataal 
+Bindal ci sa kaye/àrduwaas limu kàddu gi mën a
+ànd ak nataal bi.
+
+1. Maam a ngi ànd ak sëtam yi dem ekool.
+2. Maam a ngi fo ak sëtam yi.
+3. Maam a ngi léebal sëtam yi.
+
+e. Ma wax li ma jàpp
+Waxal li nga jànge ci jukki bi.
+
+II. Ma dawal jukki bi
+Biralal jukki bi ci ñetti simili.
+
+III. Ma bind
+Bindal genn kàddu ci sa kaye/àrduwaas, nettali lenen loo xalaat ne mën na merloo 
+maamu xale yi.
+
+Bés 2
+
+33
+
+
+
+127Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+34
+
+Mari dafa dëkk ak pàppaam Omar, yaayam Astu, seexam Badu ak 
+rakkam Ñoxor. Bàjjanam Aana, nijaayam Asan ak maamam Nogoy 
+Njaay itam ci kër gi lañu dëkk.
+Yenn saa yi, Mari dafay sonal Badu. Rawatina bu ñuy futbal ñoom 
+ñaar. Waajuri Mari ay royukaay lañu. Dañu bëgg seeni doom, di leen 
+toppatoo bu baax. Te sax nag, kër gi yépp dañoo déggoo, di dimbalante, 
+bëggante.
+Yaa Astu dafay toggal waa kër gi togg yu neex. Bàjjan Aana moo koy 
+dimbale. Pàppa Omar, nijaay Asan, Mari ak Badu itam dinañu jàpp ci 
+liggeey yi. 
+Li gën a neex Mari nag mooy njogonal yi. Bàjjan Aana dafa leen di 
+defaral fataaya walla beñe. Pàppa Omar mooy àttaaya. Waa kër gi 
+yépp dañuy dajaloo. Su ngoonee, Maam Njaaya léebal leen.
+
+Waa kër Mari
+
+
+
+128 Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+Laaj yi ak liggeey yi
+
+Bés
+
+Baat yu jafe yi
+
+bëggante : ku nekk bëgg sa moroom.
+déggoo : ñu mën a ànd bokk ab liggeey walla ay xalaat.
+bàjjan : jigeen jiy magu baay walla rakki baay.
+
+I. Ma tekki
+a. Ma róofale
+
+Jëfandikool baat yi ci tiket yi, nga defaraat kàddu gi ci sa kaye.
+
+b. Ma ràññee
+• Baat yu bokk tekki
+1. Bindal ci sa kaye/àrduwaas baat bu bokk tekki ak benn bu ne ci yii ci suuf.
+
+yaay    dimbalante
+• Baat yu woroo
+2. Bindal ci sa kaye/àrduwaas baat bu woroo ak benn bu ne ci yii ci suuf.
+
+neex    dajaloo
+
+1
+
+lu neex. dafay Yaa Astu togg
+
+34
+
+II. Ma dégg li jukki bi ëmb 
+a. Ma tontu 
+
+1. Nu nijaayu Mari tudd ?
+2. Kan la Mari di àndal di futbal ?
+3. Yaayu Mari nu mu tudd ?
+
+b. Ma tànn
+Bindal ci sa kaye/àrduwaas limu kàddu gi jub te dëppoo ak jukki bi. 
+
+1. Mari moom njogonal dafa ko neex.
+2. Mari moom njogonal dina ko neex. 
+3. Mari moom njogonal masu ko neex.
+
+c. Ma seppi
+Seppil baat bi warul bokk ci mboole mi te bind ko ci sa àrduwaas.
+
+fataaya, matt, beñe, akara
+
+
+
+129Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+34
+
+I. Ma dégg li jukki bi ëmb
+a. Ma xam li nataal bi ëmb
+
+Tontul ci laaj yii :
+1. Ñan ñoo nekk ci nataal bi? ?
+2. Lan la ku ci nekk di def? ?
+
+b. Ma tontu
+Tontul ci laaj yii :
+
+1. Mari fu wéet la dëkk. Dëgg la am déet ? Lu la ko xamal ?
+2. Waxal ay baat walla ay kàddu yuy wone ni waa kër Mari dañuy jàppalante.
+
+c. Ma mottali
+Sottil ci sa kaye/àrduwaas kàddu gi te mottali ko ak baat yi war. 
+(dimbalante, bokk, xuloo, war)
+
+Ñu……………. dañu …………….a ………………..
+
+d. Ma lëkkale kàddu ak nataal 
+Bindal ci sa kaye/àrduwaas limu kàddu gi mën a 
+ànd ak nataal bi.
+
+1. Badoo génne kaasi àttaaya yi.
+2. Badoo toj kaasi àttaaya yi.
+3. Badoo daaneel kaasi àttaaya yi. 
+
+e. Ma wax li ma jàpp
+Waxal li nga jànge ci jukki bi.
+
+II. Ma dawal jukki bi
+Biralal jukki bi ci ñetti simili.
+
+III. Ma bind
+Bindal genn kàddu ci sa kaye/àrduwaas, nettali looy def soo reere ba noppi.
+
+Bés 2
+
+
+
+130 Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+35
+Laaj yi ak liggeey yi
+
+I. Ma tekki
+a. Ma róofale
+
+Jëfandikool baat yi ci tiket yi, nga defaraat kàddu gu ci nekk ci sa kaye.
+
+b. Ma seppi
+Seppil ci mboole mu nekk, baat bi ci bokkul te bind ko ci sa kaye.
+
+ 
+
+II. Ma fàttaliku la jukki ya ëmboon 
+
+a. Ma tontu
+
+Bindal ci sa kaye arafu tontu wi jub.
+
+Ci jukki bu jëkk bi :
+
+Laaj yi : Tontu yi :
+
+1
+
+2
+
+sunu
+
+ mooy
+
+Danu 
+
+àttaaya
+
+sopp lool
+
+Omar
+
+ Maam Nogoy
+
+Pàppa   
+
+1
+
+2
+
+ taxawaalu, gaawantu, wëreelu, wëndeelu
+
+ déggoo, bëggante, jàpp ci liggeey bi, téere 
+
+1. Kuy Maam Nogoy ?
+
+2. Lu tax Maam Nogoy du 
+wax dara xale yi ?
+
+a. Can la
+
+a. Bëggu leen. 
+
+b. Mooy yaayu 
+     pàppay xale yi.
+
+c. ku dëkk ca koñ 
+ba la
+
+b. ay sëtam 
+lañu.
+
+c. Da leen a 
+mere.
+
+
+
+131Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+35
+
+Laaj yi : Tontu yi :
+
+Ci ñaareelu jukki bi :
+
+b. Ma tànn
+Bindal ci sa kaye limu kàddu yi jub te dëppoo ak jukki yi nga jàngoon.
+
+1. Su déggee wax jooju, dafay dem, dugg ci néegam, mer.
+2. Su ngoonee, Maam Njaaya léebal xale yi.  
+3. Su déggee wax jooju, dafay dem, dugg ci néegam, kontaan.
+
+c. Ma wax li ma jàpp 
+Ñaari jukki yi nga jàng ci ayu-bés gi, yelul bu ci ne ay yoon. Soo noppee, nga wax li 
+nga ci jànge.
+
+III. Ma dawal jukki bi
+
+Ñaari jukki yi nga jàng ci ayu-bés gi, biralal bu ci ne ñaari yoon. Yoon wu ci ne, na 
+nga settantal baat yi ak kàddu yi te bàyyi xel bu baax ci tomb yi.
+
+IV. Ma bind
+
+Bindal ñaari kàddu ci sa kaye tàggatu, nettali nan nga nekke ak seen waa kër. 
+
+1. Kan mooy bàjjanu Mari 
+ak Badu ?
+
+2. Lu tax  kër gi am jàmm ?
+
+a.  Anta
+
+a. Dañuy xuloo.
+
+b. Faatu c. Aana
+
+b. dañoo  
+déggoo.
+
+c. Dañuy 
+tooñ.
+
+
+
+132 Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+Démb ci ngoon, taskatu xibaar bi dafa yëgle ne dañuy ñakk xale yi suba 
+ca dispañseer ba. Waajur yépp a war a yóbbu seeni doom, ñakki leen.
+Ba nu yeewoo, man ak sama seex Mari sangu nanu ba set. Ànd nanu 
+ak sama yaay ak sama pàppa. Sama yaay boot na Ñoxor, nu jëm 
+dispañseer ba. 
+Ñakk wi dafay aare ci tetaanoos. Tetaanoos dafa bon ci xale. Nit ñi 
+bare woon nañu fa lool. Xale yépp a tiitoon, bi ñu gisee ñakkkat yi. 
+Ñoxor tiit lool, di lox-loxi, ubbi gëtam yépp. Benn fajkat naan xale yi : 
+« Bu leen tiit, lii du metti ».
+Leegi nag, maa war a ñakku. Sama yaay jóg, téye ma, ñu jegeji taabal 
+ji ñuy ñakke. Ñakkkat bi jël sama loxo, ma gëmm samay gët. Tuuti 
+rekk la metti, mu ne ma : « Jógal, jeex na ! ».
+
+Bésub ñakk
+
+36
+
+
+
+133Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+Laaj yi ak liggeey yi
+
+Bés
+
+Baat yu jafe yi
+
+aar : fexe ba mbir walla nit dara du ko mën a laal, du ku mën a lor, gaañ walla yàq.
+taskatu xibaar : yëglekat.
+gët : bët yu bare. Missal : Ab bët, ay gët; bët bi, gët yi. Bëtam bi, gëtam yi.
+
+I. Ma tekki
+a. Ma róofale
+
+Jëfandikool baat yi ci tiket yi, nga defaraat kàddu gi ci sa kaye.
+
+b. Ma ràññee
+• Baat yu bokk tekki
+1. Bindal ci sa kaye/àrduwaas baat bu bokk tekki ak benn bu ne ci yii ci suuf.
+
+bon    yëgle
+• Baat yu woroo
+2. Bindal ci sa kaye/àrduwaas baat bu woroo ak benn bu ne ci yii ci suuf.
+
+suba    gëmm
+
+1
+
+gune dafay ci feebar. aar Ñakk
+
+36
+
+II. Ma dégg li jukki bi ëmb 
+a. Ma tontu 
+
+1. Ñan ñoo yóbbu xale yi dispañseer ?
+2. Nan la Ñoxor def ? Lu tax ?
+3. Lu xale yi def bi ñu yeewoo ?
+
+b. Ma tànn
+Bindal ci sa kaye/àrduwaas limu kàddu gi jub te dëppoo ak jukki bi. 
+
+1. Mag ñi ñakkuji nañu.
+2. Tetaanoos du feebar. 
+3. Xale yi ñakkuji nañu.
+
+c. Ma seppi
+Seppil baat bi warul bokk ci mboole mi te bind ko ci sa àrduwaas.
+
+ñakk, tetaanoos, fajkat, saar, opitaal, aar.
+
+
+
+134 Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+I. Ma dégg li jukki bi ëmb
+a. Ma xam li nataal bi ëmb
+
+Tontul ci laaj yii :
+1. Lu xew ci dispañseer bi ?
+2. Lu koy màndargaal ?
+
+b. Ma tontu
+Tontul ci laaj yii :
+
+1. Kiy nettali nu mu tudd ?
+2. Ñaata at la Ñoxor war a am ?
+
+c. Ma mottali
+Sottil ci sa kaye/àrduwaas kàddu yi te mottali leen ak baat yi war. 
+( jegeji, ñakku, maa, faj, sangu, ndax )
+
+………….ngi ……… taabal ji ………….maa war a ………. .
+
+d. Ma lëkkale kàddu ak nataal 
+Bindal ci sa kaye/àrduwaas limu kàddu gi mën a ànd 
+ak nataal bi.
+
+1. Raŋ nañu di ñakku.
+2. Raŋuñu di ñakku.
+3. Dañuy daw ñakku. 
+
+e. Ma wax li ma jàpp
+Waxal li nga jànge ci jukki bi.
+Lan mooy njariñu ñakk ?
+
+II. Ma dawal jukki bi
+Biralal jukki bi ci ñetti simili.
+
+III. Ma bind
+Bindal genn kàddu ci sa kaye/àrduwaas, nettali bésub ñakk ca ekool ba.
+
+Bés 2
+
+36
+
+
+
+135Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+37
+
+Céel lanu dugge ekool. Ekool ba dafa nekkoon ca wetu foraas ba. 
+Ca ndoorte la, amul woon sàkket. Ay gétt daan jaar ci biir di naani. 
+Booba, ca kalaas ba gën a ndaw lanu nekkoon. 
+Bi muse Maane ñëwee, jóge Tiwaawon, ci la indi yeneen coppite. 
+Li mu jëkk a def mooy woo ñépp, ne leen fokk ñu sàkket ekool bi. 
+Ci saa sa, ñu def ko. 
+Suba su nekk, dañu daan bale kalaas ya, an mbalit ma, tuuri. Alxemes 
+ju nekk, balaa njàng mi daan door, elew yépp, jigeen ak góor, dañu 
+daan ànd bale ëttu ekool ba ak peroŋ ya ba ñu set. Ba mu yàgg tuuti, 
+ñu jëmbat fa ay garab. Mujj gi, ñu am toolu ekool. 
+Ba mu amee at, sunu ekool bokk ca béreb ya gën a set ca Céel. Waajuri 
+elew ya dañu daan ñëw di waxtaan ak muse ba, di ko sargal. Nun 
+ñépp a bégoon ci sunu ekool boobu. At mooma lanu jóge Céel, man ak 
+sama seex Mari, sunuy waajur, dellu Kafrin. 
+
+Ekool bu set
+
+
+
+136 Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+Laaj yi ak liggeey yi
+
+Bés
+
+Baat yu jafe yi
+
+jëmbat : samp garab gu ndaw ngir saxalaat ko.
+coppite : doxalin wu bees.
+sargal : màggal, sant nit.
+
+I. Ma tekki
+a. Ma róofale
+
+Jëfandikool baat yi ci tiket yi, nga defaraat kàddu gi ci sa kaye.
+
+b. Ma ràññee
+• Baat yu bokk tekki
+1. Bindal ci sa kaye/àrduwaas baat bu bokk tekki ak benn bu ne ci yii ci suuf.
+
+door    an
+• Baat yu woroo
+2. Bindal ci sa kaye/àrduwaas baat bu woroo ak benn bu ne ci yii ci suuf.
+
+ndaw    ndoorte
+
+1
+
+jëmbat ekool. ci sunu garab Nanu                  
+
+37
+
+II. Ma dégg li jukki bi ëmb 
+a. Ma tontu 
+
+1. Ban dëkk la ekool bi nekkoon ?
+2. Nan la muse bi tuddoon ?
+3. Lan la muse bi jëkk a def ?
+
+b. Ma tànn
+Bindal ci sa kaye/àrduwaas limu kàddu gi jub te dëppoo ak jukki bi. 
+
+1. Bàyyima yi dañu daan naansi ci biir ekool bi.
+2. Bàyyima yi dañu daan jaar ci biir ekool bi. 
+3. Bàyyima yi dañu daan jaar ci ginnaaw ekool bi.
+
+c. Ma seppi
+Seppil baat bi warul bokk ci mboole mi te bind ko ci sa àrduwaas.
+
+sikkal, sargal, sant, gërëm, ñaanal
+
+
+
+137Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+37
+
+I. Ma dégg li jukki bi ëmb
+a. Ma xam li nataal bi ëmb
+
+Tontul ci laaj yii :
+1. Nan la ëttu ekool bi mel ci nataalu jukki bi ?
+2. Lan lañu samp ci càmmoon ?
+
+b. Ma tontu
+Tontul ci laaj yii :
+
+1. Nan la ekoolu Céel meloon lu jiitu muse Maane di fa dem ?
+2. Lan mooy wone ni waajuri elew yi ñu te bëgg ekool bi lañu ?
+
+c. Ma mottali
+Sottil ci sa kaye/àrduwaas kàddu yi te mottali leen ak baat yi war. 
+(jëmbat, waajur, toppatoo, bale, sànni mbalit, set)
+
+Nanuy …… sunu ekool ba mu ….. wecc.
+Nanuy ……… garab te di ko …………  bu baax.
+
+d. Ma lëkkale kàddu ak nataal 
+Bindal ci sa kaye/àrduwaas limu kàddu gi mën a 
+ànd ak nataal bi.
+
+1. Xale yaa ngi fo ci ëttu ekool bi.
+2. Xale yaa ngi bay ñax mi, di ko rato.
+3. Xale yaa ngi roose garab yi ci ekool bi. 
+
+d. Ma wax li ma jàpp
+Waxal li nga jànge ci jukki bi.
+
+II. Ma dawal jukki bi
+Biralal jukki bi ci ñetti simili.
+
+III. Ma bind
+Bindal genn kàddu ci sa kaye/àrduwaas, nettali lan ngeen di def ba seen ekool di set.
+
+Bés 2
+
+
+
+138 Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+38
+Laaj yi ak liggeey yi
+
+I. Ma tekki
+a. Ma róofale
+
+Jëfandikool baat yi ci tiket yi, nga defaraat kàddu gu ci nekk ci sa kaye.
+
+b. Ma seppi
+Seppil ci mboole mu nekk, baat bi ci bokkul te bind ko ci sa kaye.
+
+ 
+
+II. Ma fàttaliku la jukki ya ëmboon 
+
+a. Ma tontu
+Bindal ci sa kaye arafu tontu wi jub. 
+
+Ci jukki bu jëkk bi :
+
+Laaj yi : Tontu yi :
+
+1
+
+2
+
+nañu.
+
+Sunu
+
+Xale yi
+
+garab.
+
+ñakku
+
+bare na
+
+démb
+
+ekool
+
+1
+
+2  doktoor, asamaan, ñakk, dispañseer
+
+ Céel, Kafrin, Tiwaawon, Fatig
+
+1. Kan moo gën a tiit  
+ci xale yi ?
+
+2. Lan la xale bi yëg 
+ba muy ñakku ? 
+
+a. Mari
+
+a. mettit  
+
+b. Badu la
+
+b. mbégte
+
+c. Ñoxor la
+
+c. dara
+
+
+
+139Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+38
+
+Laaj yi : Tontu yi :
+
+Ci ñaareelu jukki bi :
+
+b. Ma tànn
+Bindal ci sa kaye limu kàddu yi jub te dëppoo ak jukki yi nga jàngoon.
+
+1. Bésub ñakk, bésub fo la.
+2. Bésub ñakk, bésub aaru la.  
+3. Ekool bu set moo jar a moytu.
+4. Ekool bu tilim jar na setal. 
+
+c. Ma wax li ma jàpp 
+
+Ñaari jukki yi nga jàng ci ayu-bés gi, yelul bu ci ne ay yoon. Soo noppee, nga wax li 
+nga ci jànge.
+
+III. Ma dawal jukki bi
+
+Ñaari jukki yi nga jàng ci ayu-bés gi, biralal bu ci ne ñaari yoon. Yoon wu ci ne, na 
+nga settantal baat yi ak kàddu yi te bàyyi xel bu baax ci tomb yi. 
+
+IV. Ma bind
+
+Bindal ñaari kàddu ci sa kaye ; nettali ci loo gis, loo dégg walla loo def ci bérabu 
+fajukaay.
+
+1. Lan la muse Mane soppi 
+ci ekool bi ?  
+
+2. Ndax waa dëkk bi dinañu 
+bàyyi muse Mane jóge ci 
+ekool bi ? 
+
+a. waxin  
+
+a. waaw   
+
+b. cet
+
+b. mukk
+
+c. jàmm
+
+c. dinanu am xel ñaar
+
+
+
+140 Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+Wiktoor ak Faana ci kalaasu ñoom Badu ak Mari lañuy jànge. Bés bu 
+nekk, dañuy sol yére yu set wecc. Cet googu, ci lañuy sax ba wàcc jot. 
+Bu ñu génnee waxtu noppalu, dañuy raxas seen ay loxo ba ñu set, 
+laata ñuy dellu kalaas.
+Benn bés, Muse Saaña ne leen nañu wax seen waa kalaas ni ñuy def 
+ba set saa su nekk. 
+Wiktoor ne : « Guddi gu nekk, sama yaay dafa may dimbale ma sangu 
+ba set. Su ma noppee raxas sama gémmiñ ».
+Faana ne : « Laataa may ñëw ekool, damay sangu, setal sama gémmiñ, sol 
+sama yére yu set. Sunu pàppa ak sunu yaay dañu nu wax ni nanu raxas 
+sunuy yoxo ak saabu, bu nu génnee ci wanag yi ak balaa nuy lekk ».
+Mari yékkati loxoom, ne : « Démb, Duudu sama doomu nijaay dafa fo 
+ci suuf si ba noppi, daal di lekk. Biiram dafa doon daw, di metti, muy 
+woccu ».
+Muse Saaña won na leen ni cet dafay aar nit ci tawat. 
+
+Cet
+
+39
+
+
+
+141Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+Laaj yi ak liggeey yi
+
+Bés
+
+Baat yu jafe yi
+
+sax : nekk ci dara diir bu yàgg.
+yoxo : loxo yu bare. Misaal : Ab loxo - ay yoxo, loxo bi - yoxo yi.
+tawat : jàngoro, feebar.
+
+I. Ma tekki
+a. Ma róofale
+
+Jëfandikool baat yi ci tiket yi, nga defaraat kàddu gi ci sa kaye.
+
+b. Ma ràññee
+• Baat yu bokk tekki
+1. Bindal ci sa kaye/àrduwaas baat bu bokk tekki ak benn bu ne ci yii ci suuf.
+
+laata   wanag
+• Baat yu woroo
+2. Bindal ci sa kaye/àrduwaas baat bu woroo ak benn bu ne ci yii ci suuf.
+
+set    sol
+
+1
+
+nekke googu lañuy cet
+
+39
+
+II. Ma dégg li jukki bi ëmb 
+a. Ma tontu 
+
+1. Kan la yaayam di dimbale mu sangu ba set ?
+2. Lu ñu war a def sunu génnee ci wanag, walla balaa ñuy lekk ?
+
+c. Ma seppi
+Seppil baat bi warul bokk ci mboole mi te bind ko ci sa àrduwaas.
+
+gémmiñ, bakkan, basaŋ, loxo, nopp, bët
+
+b. Ma tànn
+Bindal ci sa kaye/àrduwaas limu kàddu gi jub te dëppoo ak jukki bi. 
+
+1. Wiktoor du raxas gémmiñam.
+2. Wiktoor dafay setal gémmiñam.
+3. Wiktoor du toppatoo gémmiñam.
+
+
+
+142 Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+39
+
+I. Ma dégg li jukki bi ëmb
+a. Ma xam li nataal bi ëmb
+
+Tontul ci laaj yii :
+1. Ñan ñooy raxas seeni yoxo ?
+2. Ak lan lañuy koy raxase ?
+
+b. Ma tontu
+Tontul ci laaj yii :
+
+1. Wan waxtu mooy waxtu noppalu ?
+2. Duudu, lu mu bokk ak yaayu Mari ?
+
+c. Ma mottali
+Sottil ci sa kaye/àrduwaas kàddu yi te mottali leen ak baat yi war. 
+(ci, yaay, nelawe, dimbale, jànge)
+
+Wiktoor ak Faana ……. kalaas bi lañuy ………  .
+Sama ………. dafa may …….ma sangu.
+
+d. Ma lëkkale kàddu ak nataal 
+Bindal ci sa kaye/àrduwaas limu kàddu gi mën a 
+ànd ak nataal bi.
+
+1. Faana yékkati na àrduwaasam.
+2. Mari yékkati na loxoom.
+3. Wiktoor ak Faana yékkati nañu seen loxo. 
+
+e. Ma wax li ma jàpp
+Waxal li nga jànge ci jukki bi.
+
+II. Ma dawal jukki bi
+Biralal jukki bi ci ñetti simili.
+
+III. Ma bind
+Bindal genn kàddu nettali ak ci sa kaye/àrduwaas, wax njariñu cet.
+
+Bés 2
+
+
+
+143Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+40
+
+Daaw, mbasum ŋas dafa amoon ci dëkk bi. Yaay Astu yóbbu seex yi ñu 
+ñakkuji ca dispañseer ba. 
+Ba ñu àggee, ñu dégg yuuxuy yeneen xale ya. Loolu tiital leen. Yaay 
+Astu di dalal seen xel, naan leen, ñooñu ay tuut-tànk lañu, waaye 
+ñoom ñaar ay xale yu dëgër lañu. Teewul, xetu alkol ga nekk lu bees ci 
+ñoom, sonal leen. Loolu lépp fees seeni bopp, ñuy xalaat. 
+Ginnaaw ba, doktoor bu jigeen ñëw, reetaanloo Mari. Xelu Badu door 
+a dal. Doktoor ba jubal ca néeg ba ñuy faje. Yaa Astu jàpp ca loxo 
+Badu, ñu dugg ca néeg booba, ñoom tamit.
+Ba doktoor Sekk di seet Mari, di ko toppatoo, Badu di xool fu nekk. 
+Mu nga jaaxle ca pot yu bare ya, weer ya ak jumtukaay yu kéemaane 
+ya fa nekk.
+Mujj ga, lépp jaar yoon. Ñu ànd ak seen yaay, ñibbi seen kër ba ñu 
+ñakkoo ba noppi. Kenn du leen wàll ŋas.
+
+Ca dispañseer ba
+
+
+
+144 Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+40
+Laaj yi ak liggeey yi
+
+Bés
+
+Baat yu jafe yi
+
+ŋas : feebar bu yaramu xale bi di tàng mu am ay picc yu sew yu bare.
+lu jaar yoon : lu mel (aw) ni mu war a mel ; lu jub.
+mbas : feebaar bu dalandoo nit ñu baree-bari.
+
+I. Ma tekki
+a. Ma róofale
+
+Jëfandikool baat yi ci tiket yi, nga defaraat kàddu gi ci sa kaye.
+
+b. Ma ràññee
+• Baat yu bokk tekki
+1. Bindal ci sa kaye/àrduwaas baat bu bokk tekki ak benn bu ne ci yii ci suuf.
+
+tiit    jàpp
+• Baat yu woroo
+2. Bindal ci sa kaye/àrduwaas baat bu woroo ak benn bu ne ci yii ci suuf.
+
+dëgër   yóbbu
+
+1
+
+dispañseer. ñakkuji dañu  Badu ak Mari
+
+II. Ma dégg li jukki bi ëmb 
+a. Ma tontu 
+
+1. Mari ak Badu, kan moo ci gën a mag ?
+2. Lan la doktoor bu jigeen bi def ngir gone yi bañ a tiit ?
+3. Lan moo tiitaloon Badu ak Mari ?
+
+b. Ma tànn
+Bindal ci sa kaye/àrduwaas limu kàddu gi jub te dëppoo ak jukki bi. 
+
+1. Doktoor bi dafa ñakk Mari, lewwu ko, merloo ko.
+2. Doktoor bi dafa lewwu Mari muy jooy.
+3. Doktoor bi reetaanloo na Mari, yóbbu ko.
+
+c. Ma seppi
+Seppil baat bi warul bokk ci mboole mi te bind ko ci sa àrduwaas.
+
+ñakk, opitaal, doktoor, ŋas, màrse
+
+
+
+145Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+40
+
+I. Ma dégg li jukki bi ëmb
+a. Ma xam li nataal bi ëmb
+
+Tontul ci laaj yii :
+1. Fii ñu nekk fan la ?
+2. Ñan ñoo fa nekk ?
+
+b. Ma tontu
+Tontul ci laaj yii :
+
+1. Lu tax feebaru ŋas tasaaroo ci dëkk bi ?
+2. Mari ak Badu ku ci mag ? Noo ko xame ?
+
+c. Ma mottali
+Sottil ci sa kaye/àrduwaas kàddu yi te mottali leen ak baat yi war. 
+(xale,  ñibbi, seen yaay, ñakkoo,)
+
+Ñaari….ya…nañu seen kër, ba ñu….ba noppi.
+
+d. Ma lëkkale kàddu ak nataal 
+Bindal ci sa kaye/àrduwaas limu kàddu gi mën a 
+ànd ak nataal bi.
+
+1. Dafa ragal ñakku.
+2. Dafay daw ñakku.
+3. Dafa neme ñakku. 
+
+e. Ma wax li ma jàpp
+Waxal li nga jànge ci jukki bi.
+
+II. Ma dawal jukki bi
+Biralal jukki bi ci ñetti simili.
+
+III. Ma bind
+Bindal genn kàddu ci sa kaye/àrduwaas, nettali li nga gis bi nga jëkkee dem 
+dispañseer.
+
+Bés II
+
+
+
+146 Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+41
+Laaj yi ak liggeey yi
+
+I. Ma tekki
+a. Ma róofale
+
+Jëfandikool baat yi ci tiket yi, nga defaraat kàddu gu ci nekk ci sa kaye.
+
+b. Ma seppi
+Seppil ci mboole mu nekk, baat bi ci bokkul te bind ko ci sa kaye.
+
+ 
+
+II. Ma fàttaliku la jukki ya ëmboon 
+
+a. Ma tontu
+Bindal ci sa kaye arafu tontu wi jub. 
+Ci jukki bu jëkk bi :
+
+Laaj yi : Tontu yi :
+
+1
+
+2
+
+set. 
+
+Ñakku 
+
+yére
+
+dafay
+
+yu
+
+xale.
+
+Solal
+
+aar   
+
+1
+
+2
+
+ set, sangu, mbalit, raxas, bale
+
+ ŋas, alkol, tetaanoos, xureet, payis
+
+1. Kañ lanu war a raxas  
+sunuy loxo ak saabu ?
+
+2. Lan moo nuy musal ci 
+jàngoro yiy wàlle ? 
+
+a. Suba, 
+ngoon 
+ak guddi   
+
+a. ñakku   
+
+b. Su nu génnee 
+ci wanag yi ak 
+balaa nuy lekk
+
+b. set 
+
+c. Bu nu lekkee 
+ba nuppi
+
+c. tàggat sunu yaram
+
+
+
+147Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+41
+
+Laaj yi : Tontu yi :
+
+Ci ñaareelu jukki bi :
+
+b. Ma tànn
+Bindal ci sa kaye limu kàddu yi jub te dëppoo ak jukki yi nga jàngoon.
+
+1. Boo setee doo mucc mukk ci jàngoro.
+2. Boo tilimee doo mucc mukk ci jàngoro.  
+3. Sangu naa ba noppi, kenn duma wàll ŋas.
+4. Ñakku naa ba noppi, kenn duma wàll ŋas. 
+
+c. Ma wax li ma jàpp 
+
+Ñaari jukki yi nga jàng ci ayu-bés gi, yelul bu ci ne ay yoon. Soo noppee, nga wax li 
+nga ci jànge.
+
+III. Ma dawal jukki bi
+
+Ñaari jukki yi nga jàng ci ayu-bés gi, biralal bu ci ne ñaari yoon. Yoon wu ci ne, na 
+nga settantal baat yi ak kàddu yi te bàyyi xel bu baax ci tomb yi.
+
+IV. Ma bind
+
+Bindal ñaari kàddu ci sa kaye tàggatu, nettali loo gis ci ab dispañseer ?
+
+1. Man pexe la doktoor 
+bu jigeen bi def ba xelu 
+Badu dal ? 
+
+2. Ndax mën nanu wàll ŋas 
+xale bu ñakkuwul ? 
+
+a. Dafa 
+neexal 
+Badu.
+
+a. Waaw
+
+b. Dafa 
+reetaanloo 
+Mari. 
+
+b. Mukk
+
+c. Dafa may 
+Badu ay 
+boŋ-boŋ.
+
+c. Déedeet.
+
+
+
+148 Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+Ekool dafay tëj. Tey, lañuy neexal xale yi gën a jàng ci at mi. Mari, 
+Badu ak Duudu, ci ñaareelu kalaas bu ndaw bi lañu nekkoon. Maree 
+jiitu ci kalaas bi, dafa war a am neexal. Suba teel, la ñëw ekool, ànd 
+ak ñaari moroomam ak ay waajuram.
+Samp nañu ab tànt ci diggu ekool bi. Ñu taarale ko raaya réewum 
+Senegaal.
+Bi fukki waxtu di bëgg a jot, kilifa yi tàmbalee egsi. Mu am téere yu 
+ñu tegle ak yeneen neexal ci ay taabal. Xale yi bég, yàkkamti. Madam 
+yi ak muse yi di leen wattu, di leen jéem a dalloo. Ñenn ñi mel ni Mari 
+am lool mbégte, bi ñu xalaatee ne dinañu am neexal.
+Ministar bi nag moo jiite ndaje mi. Taxaw na ñu woy bàkku réew mi.
+Jékki-jékki rekk, bi ñuy limaate, ñu dégg turu Mari. Xolam tàmbalee tëf-tëfi. 
+Mu ñëw, Ministar bi jox ko neexalam. Mu ànd ak Ministar bi fotowu. 
+Booba la dellu fekki xaritam ya ak waajuram ya. Ci lañu ànd ñibbi ca 
+kër ga, bég lool.
+
+Bésub joxe neexal
+
+42
+
+
+
+149Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+Laaj yi ak liggeey yi
+
+Bés
+
+Baat yu jafe yi
+
+taarale : rafetal.
+raaya : daraapoo réew.
+tànt : mbaar.
+
+I. Ma tekki
+a. Ma róofale
+
+Jëfandikool baat yi ci tiket yi, nga defaraat kàddu gi ci sa kaye.
+
+b. Ma ràññee
+• Baat yu bokk tekki
+1. Bindal ci sa kaye/àrduwaas baat bu bokk tekki ak benn bu ne ci yii ci suuf.
+
+egsi    ñibbi
+• Baat yu woroo
+2. Bindal ci sa kaye/àrduwaas baat bu woroo ak benn bu ne ci yii ci suuf.
+
+tëj    tàmbali
+
+1
+
+ Woy                 réew                 nañu bàkku                mi.                                  
+
+II. Ma dégg li jukki bi ëmb 
+a. Ma tontu 
+
+1. Ñan ñoo nekkoon ci kalaas bu ndaw bi ?
+2. Yan xale ñoo jiituwul ci kalaas bi ?
+3. Kan moo jox Mari neexalam ?
+
+b. Ma tànn
+Bindal ci sa kaye/àrduwaas limu kàddu gi jub te dëppoo ak jukki bi. 
+
+1. Bi fukki waxtu ak ñaar jotee, kilifa yi tàmbalee egsi.
+2. Maree jiituwul ci kalaas bi. 
+3. Xale yi gën a jàng ci at mi dañuy am neexal.
+
+c. Ma seppi
+Seppil baat bi warul bokk ci mboole mi te bind ko ci sa àrduwaas.
+
+neexal, jàng, téere, kalaas, oto, tablo
+
+42
+
+
+
+150 Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+I. Ma dégg li jukki bi ëmb
+a. Ma xam li nataal bi ëmb
+
+Tontul ci laaj yii :
+1. Lan ñoo nekk ci nataal bi ?
+2. Xale bu jigeen bi, lan lay jot ?
+
+b. Ma tontu
+Tontul ci laaj yii :
+
+1. Lu tax ekool bi bare nit ?
+2. Mari dafa doon fecc bi ñu limee turam, dëgg la am déet ? Lu koy wone ci jukki bi ?
+
+c. Ma mottali
+Sottil ci sa kaye/àrduwaas kàddu yi te mottali leen ak baat yi war. 
+   (ci, samp, diggu, suba, bi )
+
+…teel, ñu ….tànt bi …..ekool….  .
+(jiite, tas,  mi,  Ministar)
+………bi moo ……ndaje……..  .
+
+d. Ma lëkkale kàddu ak nataal 
+Bindal ci sa kaye/àrduwaas limu kàddu gi mën a 
+ànd ak nataal bi.
+
+1. Samp nañu tànt ci biir ekool bi.
+2. Xale bu góor bi am na neexal.
+3. Xale bu jigeen bi moo woy. 
+
+e. Ma wax li ma jàpp
+Waxal li nga jànge ci jukki bi.
+
+II. Ma dawal jukki bi
+Biralal jukki bi ci ñetti simili.
+
+III. Ma bind
+Bindal genn kàddu ci sa kaye/àrduwaas, nga wax lu neexal ok elew yi raw di jariñ.
+
+Bés 2
+
+42
+
+
+
+Njàng - Téere kalaas - CP 151Njàng - Téere kalaas - CP
+
+43
+
+Sabab :
+Bi nga jàngee ab diir, war nga natt sa xam-xam. Jox nañu la jukki bi 
+ci suuf ak ay laaj.  
+Ndigal :
+Yelul jukki bi, jéem a dégg li ñu ci wax te tontu ci liggeey ak laaj yi. 
+
+Kalaasu Majigeen 
+Majigeen laa tudd. Sama kalaas bu bees bi dafa ma neex lool. 
+Mi ngi dend ak bu ñoom Badu. Dafa mag, yaa. Am na tablo bu wert 
+bu tafu ci miir bu mboq. Suba su nekk, ab elew dafay fomp tablo bi.
+Sunu muse dafa bind ci tablo bi ay araf ak ay lim. Ci ndeyjoor, dañu fa 
+def ay nataalu bàyyima kër. Ci càmmooñ, ñu def fa ay nataalu rabi àll.
+Am nanu ñaar-fukki taabal-baŋ yu toppante ci ñetti raŋ. Taabal bu 
+nekk ñaari elew a ci toog. Sama taabal mooy bi jëkk ci ñaareelu raŋ bi.
+Ci ginnaaw raŋ gu mujj bi, benn armuwaar bu ngandee fa ne. 
+Yaatuwaayam tollu na ni sama ñaari yoxo yu ma tàllal. Foofu la sunu 
+muse di denc ay jumtukaayu paj, ay téere ak ay fowukaay. Dañu leen 
+di jëfandikoo ci xam-xamu làkk.
+Suba su nekk, danuy setal sunu kalaas, balaa nuy tàmbali jàng. Su nu 
+noppee, raxas sunuy yoxo, laata nuy toog. 
+Sunu kalaas dafa set, féex, neex !
+
+I. Ma tekki
+a. Ma mottali
+
+1. Sottil kàddu gi te dugal ci baat yi war : bees, saf, loxo, kalaas.
+
+Kalaas bu ……….... bi dafa ko ………. .
+
+2. Sottil kàddu gi te dugal ci baat yi war : bees, setal, door, balaa.
+
+Danu war a ……….… sunu kalaas ……….... noo ………. njàng mi. 
+
+
+
+152 Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+43
+
+b. Ma róofale
+Jëfandikool baat yi ci tiket yi, nga defaraat kàddu yi ci sa kaye.
+
+1.  
+
+2.
+
+c. Ma ràññee
+• Baat yu bokk tekki                                
+Baat bu nekk ci yii ci suuf, bindal bu bokk tekki ak moom ci sa kaye.
+
+sàppe   jëkk 
+
+• Baat yu woroo
+Baat bu nekk ci yii ci suuf, bindal bu woroo tekkin ak moom ci sa kaye.
+
+dénc    yaatu
+
+II. Ma dégg li jukki bi ëmb
+a. Ma tontu
+
+Tontul laaj yii :
+1. Lan la muse bi bind ci tablo bi ?
+2. Lan moo nekk ci ginnaaw raŋ gu mujj gi ?
+3. Majigeen elew la walla jàngalekat la ? Lu la ko xamal ?
+4. Ñaata elew ñoo nekk ci kalaasu ñoom Majigeen ?
+
+b. Ma tànn 
+Bindal ci sa kaye limu kàddu gi jub te dëppoo ak jukki bi.
+
+1. Suba su nekk, elew yi woy bàkku réew mi.
+2. Suba su nekk, muse tànn benn elew mu fomp taabal ji.
+3. Ab elew dina fomp tablo bi suba su nekk.
+
+III. Ma dawal jukki bi
+Biralal jukki bi te mu ànd ak nga settantal baat yi ak kàddu yi. Na nga bàyyi xel it bu 
+baax ci tomb yi.
+
+set kalaas bi Sunu  dafa  wecc.
+
+ ci kanam                 Majigeen Taabal-baŋu  féete. la
+
+
+
+153Njàng - Téere kalaas - CP
+
+10
+
+153Njàng - Téere kalaas - CP
+
+44
+
+Tey, sama rakk lañuy ngénte. Sama pàppa jënd na kuuy mu weex mu 
+ngande. Dafa am béjjen yu rëy te lunk.  
+Ci wetu waañ wi, ay mbana yu fees ak laax ñoo tege ci kow ay taal. 
+Aka xeeñ neex ! 
+Sama yaay moom def na darab bu bees ci lalam. Solal na sama rakk 
+yére bu rafet bu baxa. Dafa ko laxase séru rabal. 
+Fukki waxtu ci suba jot na, dañuy tudd leegi. Bàjjan Aana moo téye 
+liir bi, toog ci basaŋ, jàkkaarloo ak ilimaan ji. Sama yaay moo toog ci 
+wetam, sol mbubbam mu rafet, mu ànd ak musóor ga. 
+Ilimaan ji sëgg na ci liir bi, am baat yu mu wax ci suuf. Bi mu noppee, 
+dafa wax ci kow : « tudde nañu ko Ñoxor ».
+Nees kiisi, ñu séddale laaxi ndékki yi ci palaat yu weex. Ceebu yàpp 
+lañu joxe añ. Ñu noppi, séddale ay mbuus yu def ndox, liminaat ak 
+ay meññeef. 
+Ngénte li neexoon na lool.
+
+Ngénte ca kër ñoom Mari
+
+
+
+154 Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+44
+Laaj yi ak liggeey yi
+
+Bés
+
+Baat yu jafe yi
+
+mbana : cin lu réy lu nuy togge (bu xew amee).
+rabal : piis bu ñu ràbb ak loxo.
+meññeef : doom yu dem ba ñor ci garab.
+
+I. Ma tekki
+a. Ma róofale
+
+Jëfandikool baat yi ci tiket yi, nga defaraat kàddu gi ci sa kaye.
+
+b. Ma ràññee
+• Baat yu bokk tekki
+1. Bindal ci sa kaye/àrduwaas baat bu bokk tekki ak benn bu ne ci yii ci suuf.
+
+rafet   téye
+• Baat yu woroo
+2. Bindal ci sa kaye/àrduwaas baat bu woroo ak benn bu ne ci yii ci suuf.
+
+kow   sol
+
+1
+
+neexoon                   lool. na                  Ngénte li                    
+
+II. Ma dégg li jukki bi ëmb 
+a. Ma tontu 
+
+1. Lan la pàppa xale yi jënd ?
+2. Kan moo téye liir bi ?
+3. Kan lañu tudde liir bi ?
+
+b. Ma tànn
+Bindal ci sa kaye/àrduwaas limu kàddu gi jub te dëppoo ak jukki bi. 
+
+1. Ceebu jën ak domodaa lañu joxe añ.
+2. Ceebu soosu yàpp ak suweer lañu joxe añ. 
+3. Ceebu yàpp lañu joxe añ.
+
+c. Ma seppi
+Seppil baat bi warul bokk ci mboole mi te bind ko ci sa àrduwaas.
+
+baxa, xonq,  weex, béjjen
+
+
+
+155Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+44
+
+I. Ma dégg li jukki bi ëmb
+a. Ma xam li nataal bi ëmb
+
+Tontul ci laaj yii :
+1. Ban xew-xew la nataal bi màndargaal ?
+2. Lan la yaay ji def ?
+
+b. Ma tontu
+Tontul ci laaj yii :
+
+1. Liir bi jigeen la walla góor la ? Lu koy wone ?
+2. Ndax laax yi ak añ bi ñoo bokk waxtu wi nu leen di séddale ?
+3. Ndax ngénte li amoon na làng ca ngoon ga ?
+
+c. Ma mottali
+Sottil ci sa kaye/àrduwaas kàddu yi te mottali leen ak baat yi war. 
+(bi, laax, béjjen, ndax, weex, téye)
+
+Xar mi dafa am ……. yu rëy te lunk.
+Bàjjan ……………..moo …………. liir bi.
+Ñu séddale ….. yi ci palaat yu …….  .
+
+d. Ma lëkkale kàddu ak nataal 
+Bindal ci sa kaye/àrduwaas limu kàddu gi mën a ànd ak 
+nataal bi.
+
+1. Nit ñaa ngi taxaw di lekk laax.
+2. Nit ñaa ngi toog di lekk laax.
+3. Nit ñi lekkuñu laax.
+
+e. Ma wax li ma jàpp
+Waxal li nga jànge ci jukki bi.
+Lan mooy njariñu ñakk ?
+
+II. Ma dawal jukki bi
+Biralal jukki bi ci ñetti simili.
+
+III. Ma bind
+Bindal genn kàddu ci sa kaye/àrduwaas, melool li ñu solal liir bi ci ngénte li.
+
+Bés 2
+
+
+
+156 Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+45
+
+Ekool Waali Fata dafay amal ab kermees. Def nañu ay mbaar ca ëtt bu 
+yaatu ba. Ca biir, mu am ay po yu bare ak ay lekk. Mari ak ay xaritam 
+bëgg nañu fo te gàddu it ay ndam. 
+Mari ne : « Damay dem ca rawante saaku ba ! ».
+Noona, mu dugg ci benn saaku, tàmbalee tëb, moom aki xaritam. Moo 
+jëkk a àgg, am benn poñ.
+Leegi, ci powu buum mi lañu dem. Mari aki xaritam di xëcc buum gi 
+ci wet gii, Badu ak yeneeni xale di xëcc ca wet ga ca des. Ñoom Badu 
+mujj ne mbëpp ci suuf. Ñàkk nañu ! Ginnaaw bi, Wiktoor ne Mari : 
+« Xoolal ! ». Ci la ko joxoñe powum ndox ak doomi siddeem mu xumb. 
+Xale yi di fo, di tëb, bég lool. Ñoom Mari am fa sax ndam.
+Leegi nag, mi ngi guddi, waxtu dem wuti liminaat ju sedd ak lekk yu 
+neex jot na. Xale ya dem am lu ñu fa ñam.  
+Bii kermees a xumb te neex !
+
+Kermeesu ekool
+
+
+
+157Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+45
+Laaj yi ak liggeey yi
+
+Bés
+
+Baat yu jafe yi
+
+gàddu : jël, fab.
+joxoñ : wone dara ak sa baaraam.
+mbëpp : daanu bu gaaw, tekk sa ñaari yoxo (loxo) ci suuf.
+
+I. Ma tekki
+a. Ma róofale
+
+Jëfandikool baat yi ci tiket yi, nga defaraat kàddu gi ci sa kaye.
+
+b. Ma ràññee
+• Baat yu bokk tekki
+1. Bindal ci sa kaye/àrduwaas baat bu bokk tekki ak benn bu ne ci yii ci suuf.
+
+xëcc    ñam
+• Baat yu woroo
+2. Bindal ci sa kaye/àrduwaas baat bu woroo ak benn bu ne ci yii ci suuf.
+
+sedd    kontaan
+
+1
+
+rawante                   dem Damay saaku ba. ca
+
+II. Ma dégg li jukki bi ëmb 
+a. Ma tontu 
+
+1. Man po la Mari doon def ?
+2. Lan lañu defar ca ëttu ekool ba ?
+3. Ku Mari bokkaloon doon xëcc buum ga ?
+
+b. Ma tànn
+Bindal ci sa kaye/àrduwaas limu kàddu gi jub te dëppoo ak jukki bi. 
+
+1. Ñoom Badu ànd nañu toog ci suuf.
+2. Ñoom Badoo ànd ne mbëpp ci suuf. 
+3. Ñoom Badu mujj nañu di bërëŋu ci suuf.
+
+c. Ma seppi
+Seppil baat bi warul bokk ci mboole mi te bind ko ci sa àrduwaas.
+
+po, xumb, ekool, sareet, kermees
+
+
+
+Njàng - Téere kalaas - CP158 Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP158
+
+10
+
+Njàng - Téere kalaas - CP
+
+I. Ma dégg li jukki bi ëmb
+a. Ma xam li nataal bi ëmb
+
+Tontul ci laaj yii :
+1. Nu ëttu ekool bi mel ci nataal bi ?
+2. Ñaari xalé yi ci càmmoon ci nataal bi ci la lañu dugg?
+3. Ndax am na yeneen xale ? Lan lañuy def ?
+
+b. Ma tontu
+Tontul ci laaj yii :
+
+1. Ñoom Mari dañu lajj walla dañu am ndam ? Lu koy firndeel ?
+2. Lu waral kermeesu ekool bi neex ?
+3. Mari dafa yéex lool. Dëgg la am déet ? Luy firndeel sa tontu ?
+
+c. Ma mottali
+Sottil ci sa kaye/àrduwaas kàddu yi te mottali leen ak baat yi war. 
+( buy, ndox, joxoñ, doomi, bég, tëb, )
+
+Wiktoor…..na Mari powum….ak …siddeem.
+Xale yi dañu …..,di fo, di…., di ree.
+
+d. Ma lëkkale kàddu ak nataal 
+Bindal ci sa kaye/àrduwaas limu kàddu gi mën a ànd ak 
+nataal bi.
+
+1. Xale yaa ngi rawante 
+2. Xale yaa ngi tëb.
+3. Ki sol lu ñuul moo raw.
+
+e. Ma wax li ma jàpp
+Waxal li nga jànge ci jukki bi.
+
+II. Ma dawal jukki bi
+Biralal jukki bi ci ñetti simili.
+
+III. Ma bind
+Bindal genn kàddu ci sa kaye/àrduwaas, melool kermees walla xumbte boo mas a fekke. 
+
+Bés 2
+
+45
+
+
+
+159Njàng - Téere kalaas - CPNjàng - Téere kalaas - CP 159Njàng - Téere kalaas - CPNjàng - Téere kalaas - CP
+
+46
+Laaj yi ak liggeey yi
+
+I. Ma tekki
+a. Ma róofale
+
+Jëfandikool baat yi ci tiket yi, nga defaraat kàddu gu ci nekk ci sa kaye.
+
+b. Ma seppi
+Seppil ci mboole mu nekk, baat bi ci bokkul te bind ko ci sa kaye.
+
+ 
+
+II. Ma fàttaliku la jukki ya ëmboon 
+
+a. Ma tontu
+Bindal ci sa kaye arafu tontu wi jub. 
+Ci jukki bu jëkk bi :
+
+Laaj yi : Tontu yi :
+
+1
+
+2
+
+ceebu 
+
+dafa 
+
+lañu
+
+neexoon
+
+joxe
+
+kermees bi
+
+soos
+
+Sunu
+
+1
+
+2
+
+ kuuy, xar, wajan, tëng, béjjen
+
+ bég, reetaan, nelaw, fo, tëb
+
+1. Kan moo téye liir bi ?
+
+2. Nan la darab bi ñu  
+lal mel ?
+
+a. ilimaan ji la 
+
+a.  Dafamàgget   
+
+b. yaay jila
+
+b. Dafa ñaaw
+
+c. bàjjan bi la
+
+c. Dafa bees
+
+
+
+Njàng - Téere kalaas - CP160 Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP160 Njàng - Téere kalaas - CP
+
+46
+
+Laaj yi : Tontu yi :
+
+Ci ñaareelu jukki bi :
+
+b. Ma tànn
+Bindal ci sa kaye limu kàddu yi jub te dëppoo ak jukki yi nga jàngoon.
+
+1. kuuy mu ngande te am béjjen la pàppa xale yi jënd.
+2. kuuy mu ngande te am béjjen la ilimaan indaale.  
+3. Ci kermees bi, def nañu powu buum ak rawante saaku.
+
+c. Ma wax li ma jàpp 
+
+Ñaari jukki yi nga jàng ci ayu-bés gi, yelul bu ci ne ay yoon. Soo noppee, nga wax li 
+nga ci jànge.
+
+III. Ma dawal jukki bi
+
+Ñaari jukki yi nga jàng ci ayu-bés gi, biralal bu ci ne ñaari yoon. Yoon wu ci ne, na 
+nga settantal baat yi ak kàddu yi te bàyyi xel bu baax ci tomb yi.
+
+IV. Ma bind
+
+Bindal ñaari kàddu ci sa kaye tàggatu, melool ci xew-xewu kermees bi.
+
+1. Lan la ekool bi di amal 
+jamonoy bër ? 
+
+2. Kan lanuy jox neexal ci 
+po mi ? 
+
+a. simb b. ngonnal c. kermees
+
+a. Ku bokk 
+ci po mi.
+
+b. Ku am 
+ay poñ.
+
+c. Ku def ay 
+po yu bare.
+
+
+
+161Njàng - Téere kalaas - CPNjàng - Téere kalaas - CP 161
+
+10
+
+Njàng - Téere kalaas - CPNjàng - Téere kalaas - CP
+
+47
+
+Téy ci suba, madam Jàllo xamal na xale yi fi mu jóge. Muy dëkk bu ñuy wax 
+Jaafara. Dëkku nappkat la bu nekk ci wetu ag dex. Ekool ba dafa bees. 
+Jaafara amul tali godoroŋ. Wenn xàll doŋŋ, wu yaatu am suuf, moo 
+jaar ci digg ba. 
+Yenn garab yu sëq yu néew lañu jëmbat ci yenn mbedd yi. Am na 
+yeneen ci biir kër yi, dende ak garabi ron yu àgg ca kaw. Ngelaw lu féex 
+liy jóge ci dex gi mooy wàññi tàngaayu bëccëg bi. Dëkk bi amul coow. 
+Suba si, doo fi dégg xaj yuy baw walla nag yuy nàññ walla mbaam yuy 
+ŋaax. Mala yi, ca àll ba lañuy yendu.
+Leeg-leeg rekk, nga dégg mbote yi yeewe ci kër yi di meem. Bëccëg bi, 
+ay góor yu mage dinañu toog ci suufu mbaar yi, di defaraat ay mbaal. 
+Jigeen ñi ñoom dañuy defar keccax. Góor ñi ak jigeen ñi tollu ci seen 
+digg doole dañuy dem nappi. Bu ñu dellusee, séddale jën yi. Ci waxtu 
+woowu, la toggum reer di soog a door. 
+Dëkk bu ndaw la, wànte béreb bu neex a nekk la.
+
+Dëkk bu dal
+
+
+
+162 Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+Laaj yi ak liggeey yi
+
+Bés
+
+Baat yu jafe yi
+
+xàll : yoon wu mag te yaa.
+nàññ : yuuxu. Nag mooy nàññ.
+féex : sedd.
+
+I. Ma tekki
+a. Ma róofale
+
+Jëfandikool baat yi ci tiket yi, nga defaraat kàddu gi ci sa kaye.
+
+b. Ma ràññee
+• Baat yu bokk tekki
+1. Bindal ci sa kaye/àrduwaas baat bu bokk tekki ak benn bu ne ci yii ci suuf.
+
+wetu    door
+• Baat yu woroo
+2. Bindal ci sa kaye/àrduwaas baat bu woroo ak benn bu ne ci yii ci suuf.
+
+tabax   penku
+
+1
+
+47
+
+ba àll  yendu. ca yalañuy Mala
+
+II. Ma dégg li jukki bi ëmb 
+a. Ma tontu 
+
+1. Kan moo dëkk Jaafara ?
+2. Kañ la ñi nappiwoon di dellusi ?
+3. Bëccëg bi, fu mag ñi di toog ?
+
+b. Ma tànn
+Bindal ci sa kaye/àrduwaas limu kàddu gi jub te dëppoo ak jukki bi. 
+
+1. Dëkk bi sore na dex gi.
+2. Dëkk bi dafa bari coow. 
+3. Dëkk bi ci wetu dexla nekk.
+
+c. Ma seppi
+Seppil baat bi warul bokk ci mboole mi te bind ko ci sa àrduwaas.
+
+guddi, suba, faju, waxtu, fajar, ngoon
+
+
+
+163Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+47
+
+I. Ma dégg li jukki bi ëmb
+a. Ma xam li nataal bi ëmb
+
+Tontul ci laaj yii :
+1. Nu dëkk bi mel ci wallu garab ?
+2. Lanmooy firndeel ci nataal bi ne dëkku nappkat la?
+
+b. Ma tontu
+Tontul ci laaj yii :
+
+1. Lu tax dëkk bi bariwul yuuxuy mala ?
+2. Lan moo tax Jaafara féex ?
+
+c. Ma mottali
+Sottil ci sa kaye/àrduwaas kàddu yi te mottali leen ak baat yi war. 
+   (amul, godoroŋ, xàll)
+
+Jaafara…..............tali............  .     
+(àgg,  gaal,  ron,  gi)
+garabi ……. yi dañu………ca kaw. 
+
+d. Ma lëkkale kàddu ak nataal 
+
+Bindal ci sa kaye/àrduwaas limu kàddu gi mën a 
+ànd ak nataal bi.
+
+1. Bu ñu dellusee séddale jën yi.
+2. Dëkk bu ndaw a ci wetu ndex.
+3. Ekool bi dafa bees.
+
+e. Ma wax li ma jàpp
+Waxal li nga jànge ci jukki bi.
+II. Ma dawal jukki bi
+Biralal jukki bi ci ñetti simili.
+
+III. Ma bind
+Bindal genn kàddu ci sa kaye/àrduwaas, melool seen dëkk.  
+
+Bés 2
+
+
+
+164 Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+48
+
+Ci guney gox bi, waa kër Omar wuute nañu lool ak waa kër Makura. 
+Ñooñu dañu doy waar lool, dëgër bopp. Badu moom, doomu Omar, 
+juroom-ñetti at rekk la am, waaye ñépp a ko xam ci yaru. Dafa déggal 
+ay waajuram. Su génnee këram, noonu lay mel itam ak mag ñi. 
+Moom ak seexam Mari bokk nañu ci ñi dàq a jàng ci seen kalaas. 
+Su wàccee ekool, du nekk di wëraalu ci mbedd yi. Su ko xaritam yi 
+bëggee téye ci futbal bi, dafa leen naan, dafay jàngi ay lesoŋam. 
+Su ekool tëjee, Duudu dafay dem Kawlax, ca nijaayam. Badu ak Mari 
+dañuy des ak seeni waajur. Dañu leen di dimbale ci tool yi, ndax ñoom 
+dañoo amul surga.
+Mari mooy téye jumtukaay yu woyof yi. Badu dem kër ga, jëli añ. 
+Bés yi ñu demul tool, dañuy nafar ci seeni téere. Badu xale bu baax 
+la, bu yaru te nite. Dafa am yërmànde ci baayam, fonk yaayam. 
+Dafa leen di dimbale ci liggeeyu kër gi ni ko seexam bu jigeen bi 
+di defe.
+
+Xale bu jar a roy
+
+
+
+165Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+48
+Laaj yi ak liggeey yi
+
+Bés
+
+Baat yu jafe yi
+
+surga : nit ku koy jàppale ci liggeeyi tool bi.
+yërmànde : xol bu baax.
+nite : nit kuy def lu ñépp di kontaan.
+
+I. Ma tekki
+a. Ma róofale
+
+Jëfandikool baat yi ci tiket yi, nga defaraat kàddu gi ci sa kaye.
+
+b. Ma ràññee
+• Baat yu bokk tekki
+1. Bindal ci sa kaye/àrduwaas baat bu bokk tekki ak benn bu ne ci yii ci suuf.
+
+wakaas   dellu
+• Baat yu woroo
+2. Bindal ci sa kaye/àrduwaas baat bu woroo ak benn bu ne ci yii ci suuf.
+
+bëccëg   reew
+
+1
+
+Badu ak Mari seeni waajur. dañuy des ak
+
+II. Ma dégg li jukki bi ëmb 
+a. Ma tontu 
+
+1. Kan mooy dem kër ga, jëli añ ?
+2. Ñaata at la Badu am ?
+3. Waa kër Makura ñan lañu la wuuteel ci koñ bi ?
+
+b. Ma tànn
+Bindal ci sa kaye/àrduwaas limu kàddu gi jub te dëppoo ak jukki bi. 
+
+1. Dafa am yërmànde ci maamam ju màggat ji.
+2. Dafa am yërmànde ci baayam ak a yaayam. 
+3. Dafa am yërmànde ci magam ju màggat ji.
+
+c. Ma seppi
+Seppil baat bi warul bokk ci mboole mi te bind ko ci sa àrduwaas.
+
+taxawaalu, dimbale, yërëm, fonk 
+
+
+
+Njàng - Téere kalaas - CP166 Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP166
+
+10
+
+Njàng - Téere kalaas - CP
+
+48
+
+I. Ma dégg li jukki bi ëmb
+a. Ma xam li nataal bi ëmb
+
+Tontul ci laaj yii :
+1. Kan ak kan ñoo nekk ci nataal bi ?
+2. Xale bu góor bi lan lay def ?
+3. Lan moo dàqal Badu futbal ?
+
+b. Ma tontu
+Tontul ci laaj yii :
+
+1. Ban liggeey la baayu Badu di def ?
+2. Diggante Duudu ak Badu ku ci gën a yërëm say waajur ?
+3. Lu waral Mari ak Badu di jàng ci wakaas yi ?
+
+c. Ma mottali
+Sottil ci sa kaye/àrduwaas kàddu yi te mottali leen ak baat yi war. 
+   (Badu, Mari, tool, des)
+
+…....ak…....danuy..........seen kër.
+   (liggeey, dimbale, baayam)
+
+Dafa fonk yaayaam ak…., di leen …….  . 
+
+d. Ma lëkkale kàddu ak nataal 
+
+Bindal ci sa kaye/àrduwaas arafu kàddu gi mën a ànd 
+ak nataal bi.
+
+1. Badu mu ngi jàppale pàppaam.
+2. Badu jàppale wul pàppaam.
+1. Badu mu ngi jàppale yaayam.
+
+e. Ma wax li ma jàpp
+Waxal li nga jànge ci jukki bi.
+
+II. Ma dawal jukki bi
+Biralal jukki bi ci ñetti simili.
+
+III. Ma bind
+Bindal genn kàddu ci sa kaye/àrduwaas, melool nit koo xam.  
+
+Bés 2
+
+
+
+167Njàng - Téere kalaas - CPNjàng - Téere kalaas - CP 167Njàng - Téere kalaas - CPNjàng - Téere kalaas - CP
+
+49
+Laaj yi ak liggeey yi
+
+I. Ma tekki
+a. Ma róofale
+
+Jëfandikool baat yi ci tiket yi, nga defaraat kàddu gu ci nekk ci sa kaye.
+
+b. Ma seppi
+Seppil ci mboole mu nekk, baat bi ci bokkul te bind ko ci sa kaye.
+
+ 
+
+II. Ma fàttaliku la jukki ya ëmboon 
+
+a. Ma tontu
+Bindal ci sa kaye arafu tontu wi jub. 
+Ci jukki bu jëkk bi :
+
+Laaj yi : Tontu yi :
+
+1
+
+2
+
+ amul 
+
+ak 
+
+bi
+
+ñu
+
+Dëkk
+
+Badu
+
+coow.
+
+Mari
+
+1
+
+2
+
+mbaal, tool, keccax, jën, nappkat
+
+Kaye, lesoŋ, kalaas, futbal, ekool
+
+1. Ñi dëkk Jaafara lu ñuy 
+liggeey ?
+
+2. Su oto di dem Jaafara 
+yoon wu mel nan lay jaar ?
+
+a. mbey  
+
+a. Tali lay jaar
+
+b. Gàmm
+
+b. Xàll lay jaar
+
+c. napp
+
+c. Dex lay jaar
+
+lañu. yaru
+
+
+
+Njàng - Téere kalaas - CP168 Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP168 Njàng - Téere kalaas - CP
+
+Laaj yi : Tontu yi :
+
+Ci ñaareelu jukki bi :
+
+b. Ma tànn
+Bindal ci sa kaye limu kàddu yi jub te dëppoo ak jukki yi nga jàngoon.
+
+1. Jaafara dëkk bu am liggeey la.
+2. Mari mooy magi Badu.  
+3. Jaafara kenn du fa dégg coow.
+4. Badu mooy seexu Mari.
+
+c. Ma wax li ma jàpp 
+
+Ñaari jukki yi nga jàng ci ayu-bés gi, yelul bu ci ne ay yoon. Soo noppee, nga wax li 
+nga ci jànge.
+
+III. Ma dawal jukki bi
+
+Ñaari jukki yi nga  jàng ci ayu-bés gi, biralal bu ci ne ñaari yoon. Yoon wu ci ne, na 
+nga settantal baat yi ak kàddu yi te bàyyi xel bu baax ci tomb yi.
+
+IV. Ma bind
+
+Bindal ñaari kàddu ci sa kaye tàggatu, melool benn dëkk bu dal.
+
+1. Gox bi Badu dëkk lu ñu 
+ko xamal ?
+
+2. Lu waral Badu di jàngi 
+bañ a dem futbali ?
+
+a. reew
+
+a. tàyyeel 
+
+b. yar 
+
+b. bëgg a am xaalis  
+
+c. noppi
+
+c. bëgg a jiitu
+
+49
+
+Njàng - Téere kalaas - CP
+
+
+
+169Njàng - Téere kalaas - CPNjàng - Téere kalaas - CP 169
+
+10
+
+Njàng - Téere kalaas - CPNjàng - Téere kalaas - CP
+
+50
+
+Sunu gox am na menn pénc ca digg ba. Ñi dëkk ci gox bi dañu fay ñëw 
+di feexlu ak seen ay doom. Ci buntu bayaal bi, ci sa ndeyjoor, dañu fa 
+def ay baŋ ak jumtukaayi powum xale. Ci sa càmmooñ, ñu def fa benn 
+bayaal bu naat. Ci diggu baayal bi, am na  guy gu mag gu am ay tóor-
+tóor yu mboq ak yu weex. Yenn elewi sunu ekool dañuy wax ne, su 
+tóor-tóori garab yi génnee, loolu mooy méngoo ak njeextel at mi.
+Ci yoon yi, ay tóor-tóor yu rafet ngay gis, ñuy naaw tiim tooli bisaab yi.
+Am na itam ay njëmbati naana, ngun-ngun, persi ak salaat yu fa 
+jigeeni kaàrce bi def. 
+Dañu leen di jaay. Xaalis bi ñu ciy am lañuy defare béreb bi. Picc yi 
+dañuy tàgg ci kow garab yi. Suba gi, su lépp nee tekk, dañu leen di 
+dégg ñuy woy. Xet gu neex ak péex mu sedd nga fay yëg. Rawatina su 
+sàrdiñee bi di suuxat garab yi. Bu guddee, làmp yi tàngaayu jant bi di 
+taal ñooy leeral bayaal bi ak leer gu neex ci bët. 
+Fii moo ne selaw te neex !
+
+Gox bu naat
+
+Njàng - Téere kalaas - CP
+
+
+
+170 Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+Laaj yi ak liggeey yi
+
+Bés
+
+Baat yu jafe yi
+
+bayaal bi : palaas bu yaatu buy  faral di nekk ci diggu dëkk
+méngoo : niroo, tolloo.
+ngun-ngun : xeetu ñax la gu am xet gu neex, mel ni naanaa.
+
+I. Ma tekki
+a. Ma róofale
+
+  Jëfandikool baat yi ci tiket yi nga defaraat kàddu gi ci sa kaye.
+
+b. Ma ràññee
+• Baat yu bokk tekki
+1. Bindal ci sa kaye/àrduwaas baat bu bokk tekki ak benn bu ne ci yii ci suuf.
+
+suuxat    méngoo
+• Baat yu woroo
+2. Bindal ci sa kaye/àrduwaas baat bu woroo ak benn bu ne ci yii ci suuf.
+
+selaw   njeexte
+
+1
+
+50
+
+Gox am bi am na
+
+II. Ma dégg li jukki bi ëmb 
+a. Ma tontu 
+
+1. Lu am ci diggu gox bi ?
+2. Fan la picc yi di tàgg ?
+3. Bëccëg bi fu mag ñi di toog ?
+
+b. Ma tànn
+Bindal ci sa kaye/àrduwaas limu kàddu gi jub te dëppoo ak jukki bi. 
+
+1. Gox bi naatul.
+2. Xaalis bi ñu ci ame duñu ko defare béreb bi. 
+3. Xet gu neex ak péex mu sedd nga fay yëg.
+
+c. Ma seppi
+Seppil baat bi warul bokk ci mboole mi te bind ko ci sa àrduwaas.
+
+tàngaay, ngelaw lu neex,  péex, sedd
+
+
+
+171Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+50
+
+I. Ma dégg li jukki bi ëmb
+a. Ma xam li nataal bi ëmb
+
+Tontul ci laaj yii :
+1. Nan la gox bi mel ci nataal bi?
+2. Lu  fa am ci nataal bi?
+
+b. Ma tontu
+Tontul ci laaj yii :
+
+1. Gox bi nu mu mel ?
+2. Noo xalaat ni moom lañuy def ba mu mel noonu ?
+3. Gox bu neex a dëkk lañuy misaal ; lu koy wone ?
+
+c. Ma mottali
+Sottil ci sa kaye/àrduwaas kàddu yi te mottali leen ak baat yi war. 
+   (Picc yi, kow, garab, tàgg)
+
+…dañuy …ci …  … yi.
+(gox, sunu, pénc, am)
+Ci …diggu…, …na menn…   .
+
+d. Ma lëkkale kàddu ak nataal 
+
+ Bindal ci sa kaye/ àrduwaas arafu kàddu gi mën a ànd 
+ ak nataal bi.
+
+1. Ci sunu diggu gox, am na am picc.
+2. Picc yi dañuy tàgg ci kow garab yi.
+3. Ci sa cammooñ, am na bayaal bu naat.
+
+e. Ma wax li ma jàpp
+Waxal li nga jànge ci jukki bi.
+
+II. Ma dawal jukki bi
+Biralal jukki bi ci ñetti simili.
+
+III. Ma bind
+Bindal genn kàddu ci sa kaye/ àrduwaas, nga melool sa koñ.  
+
+Bés 2
+
+
+
+172 Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+51
+
+Golo yi sax jommi nañu
+Benn bés, Golo gu jigeen ak Golo gu góor dañu rëcce ca pàkku rabu àll 
+ba ca Aan. Noona, ñu ne : « Xaaral nu dem seeti ni nit ñi di dunde fa 
+ñu dëkk. Nun kat xamunu lu dul sunu pàkk bu xat bi. ». 
+Naka ñu génn rekk, gis dëkk bi ni mu tilime. Ñuy dox ci mbedd yi, gis 
+mbuusi palaastig yi ne gàññ. Yii di naaw, yii di tag ci banti garab yi, 
+yee ngelaw di leen dajale ba ñu def jal yu tilim te ñaaw. 
+Ñu dox tuuti, jaar ci yoon wu nekk ci seen ndeyjoor. Foofa la ñu gis ay 
+neefarey fas yu xasaw, tasaaroo ci guddaay bu ëpp téeméeri meetar. 
+Li leen gën a waaruloo mooy jali mbalit yi nekk ci wetu otoruut bi. Mu 
+di ay kartoŋ yu jalu, desiti lekk yu tàmbalee nëb, ay ndab yu yàqu. 
+Weñ yi di naaw fu ne. Am na ay sax yu ngànde yu tag ci yenn jali lekk 
+yi. 
+Golo yi jaaxle, ne : « Waaw, lu nu doon xoole ba nit ñu tilime nii dugal 
+nu, tëj nu ci biir kaaf ? Jommi wu leen ? ».
+
+
+
+173Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+51
+Laaj yi ak liggeey yi
+
+Bés
+
+Baat yu jafe yi
+
+gàññ (ne) : lu bare lool.
+neefare : puubu bàyyima, fii puubu fas la.
+kaaf : fi ñuy denc mala yi ak rabi àll yi, fii mooy fi ñuy denc golo.
+
+I. Ma tekki
+a. Ma róofale
+
+Jëfandikool baat yi ci tiket yi nga defaraat kàddu gi ci sa kaye.
+
+b. Ma ràññee
+• Baat yu bokk tekki
+1. Bindal ci sa kaye/àrduwaas baat bu bokk tekki ak benn bu ne ci yii ci suuf.
+
+xaar   mbedd
+• Baat yu woroo
+
+1. Bindal ci sa kaye/àrduwaas baat bu woroo ak benn bu ne ci yii ci suuf.
+tëj    xool
+
+1
+
+lañu pàkku Golo yi Aan dëkk.
+
+II. Ma dégg li jukki bi ëmb 
+a. Ma tontu 
+
+1. Fan la golo yi nekkoon ?
+2. Lan la golo yi gis ci biti ?
+3. Lan moo leen gën a waaruloo bi ñu génnee ?
+
+b. Ma tànn
+Bindal ci sa kaye/àrduwaas limu kàddu gi jub te dëppoo ak jukki bi. 
+
+1. Naka ñu génn rekk, gis dëkk bi ni mu sete.
+2. Naka ñu génn rekk, gis dëkk bi ni mu tilime. 
+3. Naka ñu génn rekk, gis dëkk bi ni mu xumbe.
+
+c. Ma seppi
+Seppil baat bi warul bokk ci mboole mi te bind ko ci sa àrduwaas.
+
+ekool, mbalit, mbuusi palaastig, tilim
+
+
+
+Njàng - Téere kalaas - CP174 Njàng - Téere kalaas - CP174
+
+1051
+
+I. Ma dégg li jukki bi ëmb
+a. Ma xam li nataal bi ëmb
+
+Tontul ci laaj yii :
+1. Ñan ñoo nekk ci nataalu jukki bi ?
+2. Lu ñuy def ?
+
+b. Ma tontu
+Tontul ci laaj yii :
+
+1. Jan jamono la golo yi rëcce ci pàkku rabu àll yi?
+2. Ndax golo yi jot nañu tuuri mbalit mi ?
+3. lan moo waral ñu tudde jukki bi «Golo yi sax jommi nañu» ?
+
+c. Ma mottali
+Sottil ci sa kaye/àrduwaas kàddu yi te mottali leen ak baat yi war. 
+(sete, sànni, sax, tilime, lekk, nëb)
+
+Gisal dëkk bi ni mu ……...  .
+Ci wetu otoruut bi, nit ñi …….. nañu fa desiti lekk yu …...  .
+Ay …… yu ngànde tag nañu ci jali ……. yi.
+
+d. Ma lëkkale kàddu ak nataal 
+
+ Bindal ci sa kaye/àrduwaas arafu  kàddu gi mën a 
+ ànd ak nataal bi.
+
+1. Golo gu jigeen ak golo gu góor ñoo ngi doxantu 
+ ci mbedd mi, taf seeni bakkan.
+2. Golo gu jigeen ak golo gu góor jaaxle nañu ci  
+ jalu mbalit mi ci mbedd mi. 
+3. Golo gu góor ak golo gu jigeen ñoo ngi bale  
+ mbalit mi ci mbedd mi.
+
+e. Ma wax li ma jàpp
+Waxal li nga jànge ci jukki bi.
+
+II. Ma dawal jukki bi
+Biralal jukki bi ci ñetti simili.
+
+III. Ma bind
+Bindal genn kàddu ci sa kaye/àrduwaas, buy melool tilim ji ci mbedd mi.
+
+Bés 2
+
+Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+
+
+175Njàng - Téere kalaas - CPNjàng - Téere kalaas - CP 175
+
+52
+Laaj yi ak liggeey yi
+
+I. Ma tekki
+a. Ma róofale
+
+Jëfandikool baat yi ci tiket yi, nga defaraat kàddu gu ci nekk ci sa kaye.
+
+b. Ma seppi
+Seppil ci mboole mu nekk, baat bi ci bokkul te bind ko ci sa kaye.
+
+ 
+
+II. Ma fàttaliku la jukki ya ëmboon 
+
+a. Ma tontu
+Bindal ci sa kaye arafu tontu wi jub. 
+Ci jukki bu jëkk bi :
+
+Laaj yi : Tontu yi :
+
+1
+
+2  di wërdañoo rëcc Golo yi
+
+jant bilàmp yi Ci tàngaayu la di dox.
+
+dëkk bi.
+
+1
+
+2
+
+ xat, pàkk, tej, jaaxle, lfo
+
+sax, wér, mbalit, gunoor, weñ
+
+1. Ñaata golo ñoo rëcce  ci 
+pàkk bi ?
+
+2. Nu golo yi defe woon ne 
+na la dëkku nit ñi mel?
+
+a. ñett
+
+a. tilim
+
+b. benn  
+
+b. set, rafet
+
+c. ñaar
+
+c. ñaaw
+
+Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+
+
+Njàng - Téere kalaas - CP176 Njàng - Téere kalaas - CP176
+
+52
+
+Laaj yi : Tontu yi :
+
+Ci ñaareelu jukki bi :
+
+b. Ma tànn
+Bindal ci sa kaye limu kàddu yi jub te dëppoo ak jukki yi nga jàngoon.
+
+1. Mbalit yi ñooy jali kartoŋ, desiti lekk yu nëb, ak ndab yu yàqu.
+2. Ay tóor-tóor yu ñaaw ngay gis.  
+3. Mbalit yi ñooy jali kartoŋ, desiti lekk ak welo yu yàqu.
+4. Ci yoon yi, ay tóor-tóor yu rafet ngay gis ñuy naaw.
+
+c. Ma wax li ma jàpp 
+
+Ñaari jukki yi nga jàng ci ayu-bés gi, yelul bu ci ne ay yoon. Soo noppee nga wax li 
+nga ci jànge.
+
+III. Ma dawal jukki bi
+
+Ñaari jukki yi nga jàng ci ayubés gi, biralal bu ci ne ñaari yoon. Yoon wu ci ne, na nga 
+settantal baat yi ak kàddu yi te bàyyi xel bu baax ci tomb yi. 
+
+IV. Ma bind
+
+Bindal ñaari kàddu ci sa kaye tàggatu, melool naka la kàrce bi nga bëgg war a mel.
+
+1. Ñan ñooy jaay lujum yiy 
+ñore ci tool bi ?  
+
+2. Lan mooy wone ni gox bi 
+neex na ci xale yi ?
+
+a. góor ñi
+
+a. baŋ yi
+
+b. jigeen ñi  
+
+b. fowukaay yi
+
+c. xale yi
+
+c. làmp yi
+
+Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+
+
+177Njàng - Téere kalaas - CPNjàng - Téere kalaas - CP 177
+
+1053
+
+Woppu-yaha wóorul
+
+Ay at a ngii, sàmmkat yi ci dëkki kaw gi dañuy jël ab oto bu ñu tudde 
+oto Woppu-yaha, di dem luuma ak luuma. Dañu leen di jariñoo ngir 
+tukki ak def bagaas. Bi ñu koy jënd, benn kabin rekk lay am, ànd ak 
+genn kees gu yaa ci ginnaaw. 
+Dañu leen di soppi neneen, ngir dem ci màrse yi ak dugal ci njaay mi. 
+Dañu ciy yokk ay baŋ ak mbaar. Su ñuy tukki, mala yi, nit ñi ak bagaas 
+yépp ay jaxasoo ci biir kees gi. Loolu wóorul dara. 
+Yenn saa yi, nit ñi booru, yéeg ci kaw kabin yi, toog ca. 
+Su ñuy dem luuma, xar ak béy lañuy def ci biir kees gi, ngir jaayi leen. 
+Bu ñuy ñibbisi, ay saaku njaay ñoo fay nekk. Lépp lañuy boole, suukar, 
+ceeb ak ay saaku lekku mala.
+Li ci gën a yéeme mooy ci oto yooyu la jigeen ñi, liir yi, xale yi, mag 
+ak màggat, sàmmkat yi am ak yi ñàkk, ñépp ñooy bokk toog. Wóorul 
+dara nag, ndax dafay faral di indi aksidaŋ. Looloo tax, lu nu yàkkamti 
+it, sama pàppa dafa naan du ci dugal mukk doomam.
+
+Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+
+
+178 Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+Laaj yi ak liggeey yi
+
+Bés
+
+Baat yu jafe yi
+
+Woppu-yaha : « bàyyil mu dem » ; baatu làkku Pulaar la.
+luuma : màrse yu ñuy amal ci dëkki kow yi.
+yàkkamti : di gaawtu ci looy def.
+
+I. Ma tekki
+a. Ma róofale
+
+Jëfandikool baat yi ci tiket yi nga defaraat kàddu gi ci sa kaye.
+
+b. Ma ràññee
+• Baat yu bokk tekki
+1. Bindal ci sa kaye/àrduwaas baat bu bokk tekki ak benn bu ne ci yii ci suuf.
+
+yéeg    toog
+• Baat yu woroo
+2. Bindal ci sa kaye/àrduwaas baat bu woroo ak benn bu ne ci yii ci suuf.
+
+dugg    dem
+
+1
+
+53
+
+dañu ciy tukki Woppu-yaha ay bagaas. di ci def  
+
+II. Ma dégg li jukki bi ëmb 
+a. Ma tontu 
+
+1. Fan la mala yi di nekk ci oto Woppu-yaha bi ?
+2. Lu pàppay xale yi wax ci Woppu-yaha ?
+3. Lu ñuy yokk ci oto Woppu-yaha bi ?
+
+b. Ma tànn
+Bindal ci sa kaye/àrduwaas limu kàddu gi jub te dëppoo ak jukki bi. 
+
+1. Nit ñi xar yi béy yi ak bagaas yi ñooy jaxasoo ci oto bi.
+2. Nit ñi xar yi sëllu yi ak saaku yi ñooy jaxasoo ci oto bi. 
+3. Nit ñi nag yi béy yi ak bagaas yi ñooy jaxasoo ci oto bi.
+
+c. Ma seppi
+Seppil baat bi warul bokk ci mboole mi te bind ko ci sa àrduwaas.
+
+xar, nag, sareet, béy, gëleem.
+
+
+
+179Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+53
+
+I. Ma dégg li jukki bi ëmb
+a. Ma xam li nataal bi ëmb
+
+Tontul ci laaj yii :
+1. Lu xale yi nekk ci nataalu jukki bi di def ?
+2. Naka la nit ñi nekke ci oto bi ?
+3. Fan la jur gi nekk ci oto bi ?
+
+b. Ma tontu
+Tontul ci laaj yii :
+
+1. Lu waral tukki ci oto Woppu-yaha wóorul ?
+2. Lu tax béy yi ak xar yi waruñu woon a nekk ak nit ñi ?
+3. Lu tax pàppay xale yi du dugal doomam ci Woppu-yaha ?
+
+c. Ma mottali
+Sottil ci sa kaye/àrduwaas kàddu yi te mottali leen ak baat yi war. 
+
+   (soppi, nit, dugal, dem)
+Dañu leen di..…neneen ngir…..ci seen ay xar .
+Mala yi ak…ñi ñooy nekk ci biir oto bi.
+
+d. Ma lëkkale kàddu ak nataal 
+
+Bindal ci sa kaye/ àrduwaas arafu  kàddu gi 
+mën a ànd ak nataal bi.
+
+1. Xar maa ngi ci kow oto bi.
+2. Jigeen a ngi ci biir oto bi.
+3. Nit a toog ci kow oto bi.
+
+e. Ma wax li ma jàpp
+Waxal li nga jànge ci jukki bi.
+
+II. Ma dawal jukki bi
+Biralal jukki bi ci ñetti simili.
+
+III. Ma bind
+Bindal ci sa kaye genn kàddu guy melool oto Woppu-yaha. 
+
+Bés 2
+
+
+
+180 Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+Tukki ak sareet
+Ayubés gu nekk, dëkk bi dafay am màrse bu ñuy tudde luuma. 
+Tey dibeer la, mooy bésu luuma fii ci Mbirkilaan. Sareet yaa 
+ngiy ñëw, di jóge fu nekk, ci dëkk yi ko wër yépp. Yenn sareet yi 
+fas yee leen di xëcc, yeneen ñu takk leen ci ay mbaam. Sareet 
+yi dañu fees dell ak xeeti njaay yu nekk : dugub, ñebbe, ceeb, 
+ganaar, ak ay béy. Sareet yi lu ñu fees-fees ak ay bagaas, du 
+tere ñu yeb ca ay nit. Am na ñu toog ci wet yi, seen tànk di lang. 
+Dawalkati sareet yi ñooy toog ci kanam. Am na sax ay dawalkat  
+yuy dox di dawal ndax sareet yu fees. Ñeneen ñi sax dañuy dawandoo 
+ak seen sareet. Yoon yi baaxul nag tax na ba yenn saa yi bagaas 
+daanu. Yenn saa yi sax nit ñi ñooy daanu. Am na ay fas yuy màmm. 
+Su ko defee , sareet yi këppu ci yoon wi. Ñiy daanu dañuy gaañu yenn 
+saa yi.
+Su ngoon jotee, sareet yi dañuy delluwaat, ñibbi. Waaye daal,  
+lu wóoradi la.
+
+54
+
+
+
+181Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+54
+Laaj yi ak liggeey yi
+
+Bés
+
+Baat yu jafe yi
+
+Mbirkilaan : Turu dëkk la, soriwul Kafrin.
+màmm : Fas wuy daw te kenn manu koo  taxawloo.
+
+I. Ma tekki
+a. Ma róofale
+
+  Jëfandikool baat yi ci tiket yi nga defaraat kàddu gi ci sa kaye.
+
+b. Ma ràññee
+• Baat yu bokk tekki
+1. Bindal ci sa kaye/àrduwaas baat bu bokk tekki ak benn bu ne ci yii ci suuf.
+
+këppu   yeb
+• Baat yu woroo
+2. Bindal ci sa kaye/àrduwaas baat bu woroo ak benn bu ne ci yii ci suuf.
+
+kanam   ñëw
+
+1
+
+luuma Dibeermooy Mbirkilaan.
+
+II. Ma dégg li jukki bi ëmb 
+a. Ma tontu 
+
+1. Ban bés mooy luuma Mbirkilaan ?
+2. Yan njaay ñoo am ci sareet yi ?
+3. Kañ la sareet yi di delluwaat ?
+
+b. Ma tànn
+Bindal ci sa kaye/àrduwaas limu kàddu gi jub te dëppoo ak jukki bi. 
+
+1. Tukki ci sareet bu sëf bagaas yu bari wóor na.
+2. Ñiy daanu dañuy gaañu yenn saa yi. 
+3. Luuma Mbirkilaan talaata la.
+
+c. Ma seppi
+Seppil baat bi warul bokk ci mboole mi te bind ko ci sa àrduwaas.
+
+dugub, ceeb, fas, ñebbe, gerte, mboq
+
+
+
+182 Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP182
+
+1054
+
+I. Ma dégg li jukki bi ëmb
+a. Ma xam li nataal bi ëmb
+
+Tontul ci laaj yii :
+1. Lu nekk ci nataal bi ?
+2. Lan ngay ragal ci sareet yi ?
+
+b. Ma tontu
+Tontul ci laaj yii :
+
+1. Loo xalaat ci sareet yi ñu def ay nit ak ay njaay ?
+2. Lu nu war a moytu ci sareet yu fees yi ?
+3. Lan nga xalaat ne moo ko mën a dindi ?
+
+c. Ma mottali
+Sottil ci sa kaye/àrduwaas kàddu yi te mottali leen ak baat yi war. 
+   (saa, daanu, gaañu)
+
+Ñiy …… dañuy …… yenn …. yi.
+(xeeti, yi, yu, fees)                                       
+Sareet …. dañu ….. ak …. njaay …. nekk .
+
+d. Ma lëkkale kàddu ak nataal 
+
+ Bindal ci sa kaye/ àrduwaas arafu  kàddu gi
+ mën a ànd ak nataal bi.
+
+1. Nit ñi langaluñu seen i tànk.
+2. Am na ñu toog ci wet yi, seen tànk di lang.
+3. Nit ñi dañu taxaw ci kow sareet bi.
+
+e. Ma wax li ma jàpp
+Waxal li nga jànge ci jukki bi.
+
+II. Ma dawal jukki bi
+Biralal jukki bi ci ñetti simili.
+
+III. Ma bind
+Bindal genn kàddu ci sa kaye/àrduwaas, melool ci ab sareet.  
+
+Bés 2
+
+Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+
+
+183Njàng - Téere kalaas - CP 183Njàng - Téere kalaas - CP 183
+
+Laaj yi ak liggeey yi
+
+I. Ma tekki
+a. Ma róofale
+
+Jëfandikool baat yi ci tiket yi, nga defaraat kàddu gu ci nekk ci sa kaye.
+
+b. Ma seppi
+Seppil ci mboole mu nekk, baat bi ci bokkul te bind ko ci sa kaye.
+
+ 
+
+II. Ma fàttaliku la jukki ya ëmboon 
+
+a. Ma tontu
+Bindal ci sa kaye arafu tontu wi jub. 
+Ci jukki bu jëkk bi :
+
+Laaj yi : Tontu yi :
+
+1
+
+2
+
+fees na 
+
+kabin bi
+
+bi
+
+toog.
+
+Sareet
+
+Ci kaw
+
+dell.
+
+la
+
+1
+
+2
+
+ mbaam, daanu, làmp, màmm, fas
+
+ bagaas, kees, kabin, oto, neex
+
+1. Fan la dawalkat bi di 
+toog ?
+
+2. Fasu sareet nu muy war 
+a mel ?
+
+a. ci digg bi  
+
+a. tuuti
+
+b. ci ginnaaw
+
+b. am doole
+
+c. ci kanam
+
+c. sew
+
+55
+
+Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+
+
+Njàng - Téere kalaas - CP184 Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP184 Njàng - Téere kalaas - CP
+
+55
+
+Laaj yi : Tontu yi :
+
+Ci ñaareelu jukki bi :
+
+b. Ma tànn
+Bindal ci sa kaye limu kàddu yi jub te dëppoo ak jukki yi nga jàngoon.
+
+1. Yoon yi dañoo baax ba yenn saa yi bagaas yi daanu.
+2. Su ñuy tukki, mala yi, nit ñi ak bagaas yépp ay jaxasoo.  
+3. Yoon yi baaxul tax na ba yenn saa yi bagaas yi dañuy daanu.
+4. Su ñuy tukki, mala yi, nit ñi ak jur gi duñu jaxasoo.
+
+c. Ma wax li ma jàpp 
+
+Ñaari jukki yi nga jàng ci ayu-bés gi, yelul bu ci ne ay yoon. Soo noppee, nga wax li 
+nga ci jànge.
+Waxal li nga jànge ci jukki yi.
+
+III. Ma dawal jukki bi
+
+Ñaari jukki yi nga  jàng ci ayubés gi, biralal bu ci ne ñaari yoon. Yoon wu ci ne, na nga 
+settantal baat yi ak kàddu yi te bàyyi xel bu baax ci tomb yi.
+
+IV. Ma bind
+
+Bindal ñaari kàddu ci sa kaye tàggatu, melool ab oto bu rafet.
+
+1. Lan lañuy yokk ci keesu 
+Woppu-yaha ?
+
+2. Fan ci Senegaal moo am 
+Woppu-yaha ?
+
+a. toogu
+
+a. réew-taax
+
+b. bagaas
+
+b. kaw gi  
+
+c. baŋ ak mbaar
+
+c. Dakaar
+
+
+
+185Njàng - Téere kalaas - CPNjàng - Téere kalaas - CP 185
+
+10
+
+Njàng - Téere kalaas - CPNjàng - Téere kalaas - CP
+
+56
+
+Woykat bu mag
+Maam Nogoy a ngi toog ci basaŋ gu ñu nataal ay rëdd yu rafet. 
+Dafay tànn ceebu Waalo. Ci wetam, sëtam Maree ngiy seetaat 
+jumtukaayi ekoolam. Mi ngi woyaale wenn woyu Kura Sàmb wu siiw 
+a siiw. Saa su Maam Nogoy déggee sëtam woy, dafay woyandoo ak 
+moom. Ñoom ñaar ñépp dañoo sopp woykat bu jigeen bu siiw boobu.
+Kuraa ngi bokk ci këru géwel gu mag, Santam wi wone na ko.
+Yaayam dafa ko dénkoon tàntaam ngir mu toppatoo ko te yar ko bu 
+baax. Ku am jom la woon. Bés yi mu jàngiwul, daan na wutil seen 
+waakër ndox ca  robine gox ba. Bu yenuwaan, daa nga gis sax kawaram 
+gu sëq ga muy lang. Ñépp a doon coow ñuulaayam ak melokaanam wu 
+rafet wi. 
+Ku bare jàmm la woon. Foo ko gisaan, dafa daan ree. Ku doon won 
+yar mag ñi mu daan dajeel la. Baatam a ngi neexe ni baatu yaayam. 
+Dafa teel a woy. Bi mu amee fukki at ak juroom- ñett, la am ndam ci 
+joŋante bu rëy. Woy wi mu woy jàngalekat yu Senegaal moo ko siiwal 
+ci bitim réew.
+
+
+
+186 Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+Laaj yi ak liggeey yi
+
+Bés
+
+Baat yu jafe yi
+
+melokaan : ni ñuy xàmmee dara nu mu mel.
+joŋante : xëccoo, rawante.
+sopp : bëgg dara walla nit.
+
+I. Ma tekki
+a. Ma róofale
+
+Jëfandikool baat yi ci tiket yi nga defaraat kàddu gi ci sa kaye.
+
+b. Ma ràññee
+• Baat yu bokk tekki
+1. Bindal ci sa kaye/àrduwaas baat bu bokk tekki ak benn bu ne ci yii ci suuf.
+
+jàmm   siiw
+• Baat yu woroo
+2. Bindal ci sa kaye/àrduwaas baat bu woroo ak benn bu ne ci yii ci suuf.
+
+ñuulaay   rafet
+
+1
+
+Yaayam tàntaam dénkoon La ko
+
+II. Ma dégg li jukki bi ëmb 
+a. Ma tontu 
+
+1. Bi Kura Sàmb di door woy, ñaata at la amoon ?
+2. Ci ban joŋante la Kura Sàmb amoon ndam ?
+3. Kañ la Kura Sàmb daan wutali seen waakër ndox ?
+
+b. Ma tànn
+Bindal ci sa kaye/àrduwaas limu kàddu gi jub te dëppoo ak jukki bi. 
+
+1. Ku bare jàmm la, foo ko fekk, dafay xool.
+2. Ku bare ay la, foo ko gis, du ree. 
+3. Ku bare jàmm la, foo ko gis, dafay ree.
+
+c. Ma seppi
+Seppil baat bi warul bokk ci mboole mi te bind ko ci sa àrduwaas.
+
+joŋante, woy, fas, ndam, géwel, siiw
+
+56
+
+
+
+187Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+56
+
+I. Ma dégg li jukki bi ëmb
+a. Ma xam li nataal bi ëmb
+
+Tontul ci laaj yii :
+1. Ñan ñoo nekk ci nataal bi?
+2. Lan lañuy def?
+
+b. Ma tontu
+Tontul ci laaj yii :
+
+1. Kan moo jàngal Kura Sàmb woy ?
+2. Lu waral Kura nekk royukaay ?
+
+c. Ma mottali
+Sottil ci sa kaye/àrduwaas kàddu yi te mottali leen ak baat yi war. 
+(mag, won, mel, bëgg, awu)
+
+Maam Nogoy dafay ………… sëtam.
+Baatu Kuraaa ngi….ni bu yaayam. 
+
+d. Ma lëkkale kàddu ak nataal 
+
+Bindal ci sa kaye/ àrduwaas arafu  kàddu gi 
+mën a ànd ak nataal bi.
+
+1. Kura Sàmb xale bu ndaw la. 
+2. Kura Sàmb dafa nekk xale.
+3. Kura Sàmb dafa bëgg xale.
+
+e. Ma wax li ma jàpp
+Waxal li nga jànge ci jukki bi.
+
+II. Ma dawal jukki bi
+Biralal jukki bi ci ñetti simili.
+
+III. Ma bind
+Bindal genn kàddu ci sa kaye/àrduwaas, melool benn woykat boo xam.
+
+Bés 2
+
+
+
+188 Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+57
+
+Sabab :
+Ki lay jàppale ci njàng dafa la bëg a waajal ci ab joŋante. Jox na la jukki bi ci suuf ak 
+ay laaj.  
+
+Ndigal :
+Yelul jukki bi, jéem a dégg li ñu ci wax te tontu ci liggeey ak laaj yi. 
+
+Simb Gaynde  
+Ekool tëj na. Xale yee ngi noppalu. Téy, dafa am simb su rëy ci seen koñ.
+Ci ngoon si, pénc mi fees dell. Foo tollu dégg sabar yi. Ay góor ak ay 
+jigeen a ngiy dugg ak di génn ci kër gi gaynde yi di waaje. 
+Bi gaynde yiy génn, ñi ngi ànd ak jatkat bu jigeen ak bu góor. Jatkat 
+yi ñoo yilif gaynde yi. 
+Xale yi toog nañu ci kanam. Wiktoor gis gaynde yi rekk, tàmbalee 
+pat-pati, xulli bët yi. Faana, xaritam yërëm ko, may ko ab laar bi mooy 
+buy tax gaynde yi duñu ko jàpp. Moom Faana dafa am jafe-jafe dox. 
+Ci poliyo la ko jële. Xaw na yéex, waaye ku yeewu la te am fit.
+Bi gaynde gu mag gi nee bëret, ñi amul laar ñépp daw. Gaynde gu 
+ngande la te soxor. Bu ŋaaŋee, foo tollu di seen sell yi. We yi dafa 
+gudd, ñaw ni lañset. Céq maa ngi lang ci suuf. Karaw gu sëq la. Gaynde 
+gu jigeen gi, moom, dafay diri ñi mu jàpp ci digg géew bi, di ŋar. Jatkat 
+yi rekk a mujj dimbali xale yi. Ñoo jat gaynde yi ba ñu ne nemm, bàyyi 
+ñépp.
+
+I. Ma tekki
+a. Ma mottali
+
+1. Sottil kàddu gi te dugal ci baat yi war : sell – dàll - rëy - gudd
+Gaynde gu ……….la, am ………. yu ………… .
+2. Sottil kàddu gi te dugal ci baat yi war : pat-pati, muus, tëll, teew, gaynde
+……………yi dañu ni ………….., Wiktoor di ………….. .
+
+
+
+189Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP 189
+
+57
+
+b. Ma róofale
+Jëfandikool baat yi ci tiket yi, nga defaraat kàddu yi ci sa kaye.
+
+1.  
+
+2.
+
+c. Ma ràññee
+• Baat yu bokk tekki                                
+Baat bu nekk ci yii ci suuf, bindal bu bokk tekki ak moom ci sa kaye.
+
+noppalu   diri
+
+• Baat yu woroo  
+Baat bu nekk ci yii ci suuf, bindal bu woroo tekkin ak moom ci sa kaye.
+
+jàpp    ŋaaŋ
+
+II. Ma dégg li jukki bi ëmb
+a. Ma tontu
+
+Tontul laaj yi :
+1. Fan la jigeen ñi ak góor ñi di dugg ak a génn ?
+2. Ñan ñooy kilifay gaynde yi ?
+3. Ku bañ gaynde yi sonal la loo war a def ?
+4. Ndax Wiktoor ñeme na am déet. Lu koy firndeel ?
+
+b. Ma tànn 
+Bindal ci sa kaye limu kàddu gi jub te dëppoo ak jukki bi.
+
+1. Jatkat yi ñoo tax gaynde yi bàyyi ñi am laar.
+2. Jatkat yi ñoo tax gaynde yi jàpp ñi amul laar.
+3. Jatkat yi ñoo tax gaynde yi bàyyi ñi amul laar.
+
+III. Ma dawal jukki bi
+Biralal jukki bi te nga settantal baat yi ak kàddu yi. Na nga bàyyi xel it bu baax ci 
+tomb yi.
+
+  laar.                 Faana na                   Wiktoor                   may
+
+dafa gaynde We  ñaw.                   yi                   
+
+
+
+190 Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+58
+
+Soo bëggee doon futbalkat bu mag...
+Góor gu mas a nekk futbalkat bu mag dafa doon waxtaan ak doomam 
+ju am juroom-ñetti at te bëgg futbal lool.  Dafa ne ko : « Soo bëggee 
+doon futbalkat bés boo nekkee mag, lii nga war a def :
+ - Jàngal ni ñuy dóore bal mu jub dem fi nga bëgg. Tàmbalil   
+
+ak bal bu woyof.
+ - Soo noppee, nga fexe di tël bal bi ci bii tànk ak ci bi ci des. 
+ - Nga dawal bal bi, di ko joŋante ci sa diggante ñaari tànk yi, fexe 
+
+mu bañ laa rëcc.
+ - Àndal ak say xarit, jàng noo mën a yore bal bi di duut ak nooy 
+ mbiije.
+
+ - Su bal bi nekkee ci sa tànk ngay daw, bul wéy di xool bal bi foo tollu.
+ - Danga war a siggi di gis fi nga jëm ak fi ñi nga faral nekk. 
+ - Jàngal ni ngay joxee bal ñi nga faral.
+ - Jàngal ni ñuy dóore bal bu ñu teg.
+ - Sooy jot bal bu ñu la jox, wàññil doole ji muy ñëwe ; waroo laal bal 
+
+bi ak say loxo.
+ - Jàngal ni ñuy dóore penaaltii. ».
+
+Leegi nag, mën ngaa tàmbalee noonu.
+
+
+
+191Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+58
+Laaj yi ak liggeey yi
+
+Bés
+
+Baat yu jafe yi
+
+tël : yor bal ci say tànk muy tëb di dellusi ay yoon i yoon.
+mbiij : wëlbatiku, jàdd bu gaaw.
+penaaltii : bal bu ñu teg ci kanamu góol war koo tulli.
+
+I. Ma tekki
+a. Ma róofale
+
+  Jëfandikool baat yi ci tiket yi nga defaraat kàddu gi ci sa kaye.
+
+b. Ma ràññee
+• Baat yu bokk tekki
+1. Bindal ci sa kaye/àrduwaas baat bu bokk tekki ak benn bu ne ci yii ci suuf.
+
+bañ    daw
+• Baat yu woroo
+
+2. Bindal ci sa kaye/àrduwaas baat bu woroo ak benn bu ne ci yii ci suuf.
+sëgg    teg
+
+1
+
+dóore bal ni ñuy Jàngal mu jub.
+
+II. Ma dégg li jukki bi ëmb 
+a. Ma tontu 
+
+1. Doomi futbalkat bu mag bi ñaata at la am ?
+2. Sooy jàng nu ñuy dóore bal, ban bal ngay tànn ?
+3. Ñaata tànk lañuy tële bal ?
+
+b. Ma tànn
+Bindal ci sa kaye/àrduwaas limu kàddu gi jub te dëppoo ak jukki bi. 
+
+1. Jàngal nooy tële bal bi ñi nga faral.
+2. Jàngal nooy joxee bal bi ñi nga faral. 
+3. Jàngal nooy joxee bal bi ñi nga faralul.
+
+c. Ma seppi
+Seppil baat bi warul bokk ci mboole mi te bind ko ci sa àrduwaas.
+
+penaaltii, dóor, wet, mbaxana, siggi
+
+
+
+192 Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+58
+
+I. Ma dégg li jukki bi ëmb
+a. Ma xam li nataal bi ëmb
+
+Tontul ci laaj yii :
+1. Fan la nit ñi ci nataal bi nekk ?
+2. Ku mag ki lan lay defal ku ndaw ki ?
+3. Nu xale bi def ?
+
+b. Ma tontu
+Tontul ci laaj yii :
+
+1. Lan la ku mag ki bëgg xale bi nekk ko su màggee ?
+2. Ndax su doon yeen a nekkoon xale bi dingeen topp tegtal yi ?
+3. Fu xale bi nar a jànge futbal ?
+
+c. Ma mottali
+Sottil ci sa kaye/àrduwaas kàddu yi te mottali leen ak baat yi war. 
+(jot, tànk, ñaari, téye, joxantee)
+
+Jàngal nooy …. bal boo .….
+Deel… bal bi ci sa diggante … yi.
+
+d. Ma lëkkale kàddu ak nataal 
+
+ Bindal ci sa kaye/àrduwaas arafu  kàddu gi mën a 
+ ànd ak nataal bi.
+
+1. Xale baa ngi duut góol bi. 
+2. Xale baa ngi dóor penaaltii.
+3. Xale baa ngi tël bal bi.
+
+e. Ma wax li ma jàpp
+Waxal li nga jànge ci jukki bi.
+Loo xam ci ku bëgg a nekk futbalkat bu mag ?
+
+II. Ma dawal jukki bi
+Biralal jukki bi ci ñetti simili.
+
+III. Ma bind
+Bindal genn kàddu ci sa kaye/àrduwaas, digle nu ñuy def ba doon futbalkat bu mag.
+
+Bés 2
+
+
+
+193Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+59
+
+Nu ñuy def ba doon dawkat bu mag
+Tàggat yaram dafay yokk kàttanu xol, dëgaral siddit, indi njaxlaf.  
+Ku nekk mën na ko def te laajul lu dul pasteef ak benn peeru dàll. 
+Soo bëggee doon dawkat bu siiw, fonkal denkaane yii :
+
+ - Nanga sax ci tàggat sa yaram.
+ - Nanga lekk lekk gu wér, baax, te am ndox.
+ - Nga sol ay dàll yu la jot te méngoo ak fi ngay dawe.
+ - Sol yére yu baax te woyof lool,
+ - Jàngal noyyi bu baax, moytu fatt bu gaaw, mbaa nagam,
+ - Deel tàllal say loxo ba ñu jub, teg leen ni ñu ware,
+ - bàyyil xel bu baax ci taxawaay bu jub, bañ a weng,
+ - yamaleel say jéego, di natt ñaata jéego ngay dox simili bu nekk,
+ - Bul teg sa yaram lu mu àttanul,
+ - Soo yëgee coono mbaa mettit, wàññil mbaa nga bàyyi,
+ - Deel déglu ay woy, dina la sawarloo, jox la kàttan,
+ - Dawal loo àttan, bañ a ëppal, ñetti yoon ci ayu-bés gu nekk 
+
+dina doy. 
+Deel xool ni dawkat yu mag yi di def, bu yàggee dinga mën a daw 
+ni ñoom.
+
+
+
+194 Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+Laaj yi ak liggeey yi
+
+Bés
+
+Baat yu jafe yi
+
+njaxlaf : nekk ku yëngatu.
+pasteef : ku dogu ci li muy def.
+ayu-bés : bés yi dale altine ba dibeer, bés ba bés dellusi.
+
+I. Ma tekki
+a. Ma róofale
+
+Jëfandikool baat yi ci tiket yi nga defaraat kàddu gi ci sa kaye.
+
+b. Ma ràññee
+• Baat yu bokk tekki
+1. Bindal ci sa kaye/àrduwaas baat bu bokk tekki ak benn bu ne ci yii ci suuf.
+
+dëgaral  yamale
+• Baat yu woroo
+2. Bindal ci sa kaye/àrduwaas baat bu woroo ak benn bu ne ci yii ci suuf.
+
+sol   teg
+
+1
+
+tàggat Nanga                    sa yaram.                   sax ci                    
+
+II. Ma dégg li jukki bi ëmb 
+a. Ma tontu 
+
+1. Lan mooy njarinu tàggat yaram ?
+2. Lan la nekk dawkat bu mag laaj ?
+3. Kuy jàng daw, kan la war a roy?
+
+b. Ma tànn
+Bindal ci sa kaye/àrduwaas limu kàddu gi jub te dëppoo ak jukki bi. 
+
+1. Soo yëgee coono, dawal bul bàyyi.
+2. Soo yëgee ;coono solal yëre.  
+3. Soo yëggee coono, wàññil.
+
+c. Ma seppi
+Seppil baat bi warul bokk ci mboole mi te bind ko ci sa àrduwaas.
+
+coono, bég, metit, fatt, nagam
+
+59
+
+
+
+195Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+I. Ma dégg li jukki bi ëmb
+a. Ma xam li nataal bi ëmb
+
+Tontul ci laaj yii :
+1. Ki nekk ci nataal bi, lan lay def ?
+2. Fan la koy defe ?
+
+b. Ma tontu
+Tontul ci laaj yii :
+
+1. Ndax dawkat mooy kuy tàggat yaramam ?
+2. Boo amee ñaata at nga mën a tàggat sa yaram ?
+
+c. Ma mottali
+Sottil ci sa kaye/àrduwaas kàddu yi te mottali leen ak baat yi war. 
+(njar, coono, sawarloo, bànneex, ndox, metit)
+
+Nanga lekk lekk gu baax te di naan …… mu doy.
+Soo yëgee ci sa yaram …….. mbaa aw………. wàññil. 
+Sooy déglu ay woy, dina la ……………….. .
+
+d. Ma lëkkale kàddu ak nataal 
+
+ Bindal ci sa kaye/àrduwaas arafu  kàddu gi mën a ànd 
+ ak nataal bi
+
+1. Jox nañu dawkat bi téere yu bare. 
+2. Sargal nañu dawkat bi jox ko ay neexal.
+3. Takkal nañu dawkat bi ndomba-tànk.
+
+e. Ma wax li ma jàpp
+Waxal li nga jànge ci jukki bi.
+
+II. Ma dawal jukki bi
+Biralal jukki bi ci ñetti simili.
+
+III. Ma bind
+Bindal genn kàddu ci sa kaye/àrduwaas, digal sa xarit lu mu war a def ba mën a daw.
+
+Bés 2
+
+59
+
+
+
+196 Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+Laaj yi ak liggeey yi
+
+I. Ma tekki
+a. Ma róofale
+
+Jëfandikool baat yi ci tiket yi, nga defaraat kàddu gu ci nekk ci sa kaye.
+
+b. Ma seppi
+Seppil ci mboole mu nekk, baat bi ci bokkul te bind ko ci sa kaye.
+
+ 
+
+II. Ma fàttaliku la jukki ya ëmboon 
+
+a. Ma tontu
+Bindal ci sa kaye arafu tontu wi jub. 
+Ci jukki bu jëkk bi :
+
+Laaj yi : Tontu yi :
+
+1
+
+2
+
+ngi
+
+tàggat
+
+ak doomam.
+
+na
+
+Dawkat baa
+
+yaramam
+
+waxtaan
+
+mën nit
+
+1
+
+2
+
+ dawkat, bal, futbalkat, fas
+
+ daw, gaaw, joŋante, toog, raw
+
+1. Ak ñaata tànk lañu war a 
+tële ?
+
+2. Ndax futbalkat bu mag bi 
+doon waxtaan ak doomam 
+mu ngi futbal ba leegi ?
+
+a. benn kott
+
+a. déedeet
+
+b. benn
+
+b. waaw
+
+c. ñaar yépp
+
+c. waaw bés bu nekk
+
+60
+
+
+
+197Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+Laaj yi : Tontu yi :
+
+Ci ñaareelu jukki bi :
+
+b. Ma tànn
+Bindal ci sa kaye limu kàddu yi jub te dëppoo ak jukki yi nga jàngoon.
+
+1. Noyyil bu baax, moytu fatt mbaa nagam.  
+2. Noyyil bu baax, moytu fàtte ba nagam.
+3. Jàngal nu ñuy dóore penaaltii.
+
+c. Ma wax li ma jàpp 
+
+Ñaari jukki yi nga jàng ci ayu-bés gi, yelul bu ci ne ay yoon. Soo noppee, nga wax li 
+nga ci jànge.
+
+III. Ma dawal jukki bi
+
+Ñaari jukki yi nga jàng ci ayu-bés gi, biralal bu ci ne ñaari yoon. Yoon wu ci ne, na 
+nga settantal baat yi ak kàddu yi te bàyyi xel bu baax ci tomb yi. 
+
+IV. Ma bind
+
+Bindal ci sa kaye genn kàddu, digle ci ni ñuy def ba doon futbalkat bu mag.
+
+1. Lan nga war a teg sa 
+yaram ?
+
+2. Tàggat yaram ndax mën 
+naa fegal nit feebar ?
+
+a. Lu metti
+
+a. Dina  
+ko feg.
+
+b. Lu mu àttanul.
+
+b. Amul  
+njariñ.
+
+c. Lu mu àttan.
+
+c. Du ko feg.
+
+60
+
+
+
+198 Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+Nu ñuy jëmbate garab ?
+
+Une fille et son père en train de planter un arbre
+
+Tey bésu jëmbat garab la. Mari dafa bég ndax xam na ni moom ak 
+seexam dinañu ci bokk. Waaye xamul nu ñu koy defe. Mu laaj pàppaam 
+kuy jëmbat garab nu muy def.
+Pàppaam ni ko : « Li jëkk mooy nga am jumtukaay. Am na  lu bare loo 
+war a def sooy jëmbat garab. Danga koy bind ngir bañ a fàtte. 
+Ci jumtukaay, dinga soxla peel, bant, takkun, kompos, njëmbat ak ndox.  
+Ci doxalin yii la :
+
+ - Jëkkal a sol ay gaŋ balaa ngay gaañu ci loxo.
+ - Tàmbalil a gas pax mu yaatu.
+ - Moytul a jaxase suuf yi ngay jot sooy gas.
+ - Nooyalal fi pax mi yem ak peel walla pikk.
+ - Defal komposu sardeñ mbaa tos ci pax mi.
+ - Génneel njëmbat mi ci pot bi mu nekk, làqarci reen yi.
+ - Tegal njëmbat mi ak suuf si mu àndal ci diggu pax mi. 
+ - Soo suulee garab gi ba noppi moytul a gaañ reen yi booy samp   
+
+ bant biy téye njëmbat mi.
+ - Takkal njëmbat mi ci bant bi, fii ak at lañu koy dindi.
+ - Muural reen yi ak tos, dolli ci suuf te roose. 
+
+61
+
+
+
+199Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+Laaj yi ak liggeey yi
+
+Bés
+
+Baat yu jafe yi
+
+kompos : lu nuy def ci garab ngir  mu teel a màgg.
+làqarci : firi, tallal (reen yi lemu).
+
+I. Ma tekki
+a. Ma róofale
+
+Jëfandikool baat yi ci tiket yi nga defaraat kàddu gi ci sa kaye.
+
+b. Ma ràññee
+• Baat yu bokk tekki
+1. Bindal ci sa kaye/àrduwaas baat bu bokk tekki ak benn bu ne ci yii ci suuf.
+
+génneel   noppi 
+• Baat yu woroo
+2. Bindal ci sa kaye/àrduwaas baat bu woroo ak benn bu ne ci yii ci suuf.
+
+dindi    tegal 
+
+1
+
+ci diggu njëmbat pax mi.mi Tegtal
+
+II. Ma dégg li jukki bi ëmb 
+a. Ma tontu 
+
+1. Ndax Mari mën naa jëmbat garab ?
+2. Mari lu mu laaj pàppaam ?
+3. Lu ko pàppaam di won ?
+
+b. Ma tànn
+Bindal ci sa kaye/àrduwaas limu kàddu gi jub te dëppoo ak jukki bi. 
+
+1. Daggal reen yi.
+2. Tàmbalil a gas pax mu yaatu.  
+3. Bul ci def ndox.
+
+c. Ma seppi
+Seppil baat bi warul bokk ci mboole mi te bind ko ci sa àrduwaas.
+
+bësal, lakkal, Sampal, roosel. 
+
+61
+
+
+
+200 Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+I. Ma dégg li jukki bi ëmb
+a. Ma xam li nataal bi ëmb
+
+Tontul ci laaj yii :
+1. Ñan ñoo nekk ci nataal bi ?
+2. Loo xalaat ci li ñuy def ? Lu tax ?
+
+b. Ma tontu
+Tontul ci laaj yii :
+
+1. Loo war a am ngir jëmbat garab ?
+2. Looy jëkk a def booy jëmbat garab ? Looy mujj a def ?
+
+c. Ma mottali
+Sottil ci sa kaye/àrduwaas kàddu yi te mottali leen ak baat yi war. 
+   (bësal, noppee, roose, def)
+
+…… ci suuf…., soo ……. nga …….
+(tos , kër, sottil, pax )
+……. komposu ……. ci …..mi. 
+
+d. Ma lëkkale kàddu ak nataal 
+
+ Bindal ci sa kaye/àrduwaas arafu  kàddu gi mën a ànd 
+ ak nataal bi.
+
+1. Pàppaam dagg na garab gi.
+2. Pàppaam ni ko : « Li jëkk mooy nga am jumtukaay ».
+3. Pàppaam ne ko : « Jógal fii ».
+
+e. Ma wax li ma jàpp
+Waxal li nga jànge ci jukki bi.
+
+II. Ma dawal jukki bi
+Biralal jukki bi ci ñetti simili.
+
+III. Ma bind
+Bindal genn kàddu ci sa kaye/àrduwaas, digal sa xarit nu muy jëmbate garab.
+
+Bés 2
+
+61
+
+
+
+201Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+62
+
+Nan lañuy defare tuqusi-ngalam?
+Senegaal dafa gañe Poloñ ci joŋante futbal bu 2018 ca Riisi. Dëkk bi 
+yépp génn di wone seen mbégte. Aali ak ay xaritam ne dañuy defar 
+tuqsi-ngalam ngir mën a bokk ci xumb-xumb yi. Tànta Nafi ne dafa 
+leen di jàppale, ne leen : Su ngeen bëggee defar tuqusi-ngalam, nii la :
+Jumtukaay yii ngeen war a am :
+
+ - Pot bu yem bu amul dara bu mën a def liitar. 
+ - Caas gu guddee juroom-benn-fukki sàntimeetar ak benn pont.
+ - Bant garabu niim bu tooy walla beneen bant bu nu mën a dëngal.
+ - Bant bu ndaw bu ñaar ba ñetti sàntimeetar buy téye caas gi.
+
+Leegi nag mën nanu tàmbali di boole.
+ - Bënnal taatu pot bi ci digg bi.
+ - Dugalal bant bu ndaw bi ci biir pot bi, na féete ak bën-bën bi.
+ - Takkal bant bu ndaw bi ci caas gi jaarale ko ci biti.
+ - Xëccal caas gi ba mu daŋ.
+ - Dugalal catu bantu niim bi ci pot bi ba mu am lu ko téye.
+ - Wañaaral bant bi takk caas gi ci leneen cat li ba mu dëgër.
+
+Léegi am ngeen seen tuqusi-ngalam. Bu leen neexee ngeen taaral ko.
+Wutleen bant bu ndaw te sew bu ngeen di cos ci caas gi.
+Am ngeen seen fowukaay, yeen a ci des.
+
+
+
+202 Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+62
+
+bu ndaw bi
+
+Laaj yi ak liggeey yi
+
+Bés
+
+Baat yu jafe yi
+
+fowukaay : lu ñuy fowe.
+taaral : yokk ci dara lu koy gën a rafetal.
+tuqusi-ngalam : fowukaayu gone, xaw a mel ni xalam.
+
+I. Ma tekki
+a. Ma róofale
+
+Jëfandikool baat yi ci tiket yi nga defaraat kàddu gi ci sa kaye.
+
+b. Ma ràññee
+• Baat yu bokk tekki
+1. Bindal ci sa kaye/àrduwaas baat bu bokk tekki ak benn bu ne ci yii ci suuf.
+
+taaru  dëgër
+• Baat yu woroo
+2. Bindal ci sa kaye/àrduwaas baat bu woroo ak benn bu ne ci yii ci suuf.
+
+boole  téye
+
+1
+
+bant ci cas gi.              Takkal
+
+II. Ma dégg li jukki bi ëmb 
+a. Ma tontu 
+
+1. Ñaata bant nga soxla sooy defar tuqusi-ngalam ?
+2. Fu ñuy def catu bantu niim bi ?
+3. Foo war a takk caas gi ?
+
+b. Ma tànn
+Bindal ci sa kaye/àrduwaas limu kàddu gi jub te dëppoo ak jukki bi. 
+
+1. Wañaaral pot bi takk caas gi ci leneen cat li.
+2. Wañaaral bant bi takk caas gi ci leneen cat li.  
+3. Lemal bant bi takk caas gi ci leneen cat li.
+
+e. Ma seppi
+Seppil baat bi warul bokk ci mboole mi te bind ko ci sa àrduwaas.
+
+caas, xottu pot, bool, takk, bant
+
+
+
+203Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+62
+
+I. Ma dégg li jukki bi ëmb
+a. Ma xam li nataal bi ëmb
+
+Tontul ci laaj yii :
+1. Limal ñetti cér yu nekk ci Tuqusi-ngalam gi ?
+2. Kan moo won xale yi ni ñuy defare Tuqusi-ngalam ?
+3. Bant bi ñuy defare Tuqusi-ngalam nu muy mel ?
+
+b. Ma tontu
+Tontul ci laaj yii :
+
+1. Xale biy defar Tuqusi-ngalam ku koy jàngal ni mu ciy fowe ?
+2. Ndax Tuqusi-ngalam naqari naa defar ?
+3. Soo amul bant ndax dinga ko mën a defar ?
+
+c. Ma mottali
+Sottil ci sa kaye/àrduwaas kàddu yi te mottali leen ak baat yi war. 
+(ñeenti, ñaar fukki, juroom-benn-fukki, rëy, mën a)
+
+Caas gi na gudde, ….. sàntimeetar.
+Pot bu .….def liitar moo baax.
+
+d. Ma lëkkale kàddu ak nataal 
+
+ Bindal ci sa kaye/ àrduwaas arafu  kàddu gi mën a 
+ ànd ak nataal bi
+
+1. Tuqusi-ngalam dafay am bant, caas ak kaas.
+2. Tuqusi-ngalam dafay am pot, bant ak wëñ.
+3. Tuqusi-ngalam dafay am pot, bant ak caas.
+
+e. Ma wax li ma jàpp
+Waxal li nga jànge ci jukki bi.
+
+II. Ma dawal jukki bi
+Biralal jukki bi ci ñetti simili.
+
+III. Ma bind
+Bindal genn kàddu ci sa kaye/àrduwaas, nga digal sa xarit nu muy defare Tuqusi-
+ngalam.
+
+Bés 2
+
+
+
+204 Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+Laaj yi ak liggeey yi
+
+I. Ma tekki
+a. Ma róofale
+
+Jëfandikool baat yi ci tiket yi, nga defaraat kàddu gu ci nekk ci sa kaye.
+
+b. Ma seppi
+Seppil ci mboole mu nekk, baat bi ci bokkul te bind ko ci sa kaye.
+
+ 
+
+II. Ma fàttaliku la jukki ya ëmboon 
+
+a. Ma tontu
+Bindal ci sa kaye arafu tontu wi jub. 
+Ci jukki bu jëkk bi :
+
+Laaj yi : Tontu yi :
+
+1
+
+2
+
+Jëmbate garab.
+
+dugalal
+
+laaj na
+
+ci pot bi
+
+nu ñuy
+
+bant bi
+
+Mari
+
+catu
+
+1
+
+2
+
+ garab,  fas,  reen, jëmbat 
+
+ Tuqusi-ngalam, riiti, rajo, kooraa, xalam
+
+1. Ndax Mari xam na nu 
+ñuy jëmbate garab ?
+
+2. Su nu jëmbatee garab, 
+ndax benn yoon rekk la 
+ñu koy suuxat ?
+
+a. Xam na ko. b. jëmbat na ko  
+benn yoon.
+
+c. Won nañu 
+ko ko
+
+a. Dunu ko 
+suuxat
+
+b. Danu koy 
+roose yoon 
+yu bare.
+
+c. Danu koy 
+roose benn 
+yoon
+
+63
+
+
+
+205Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+Laaj yi : Tontu yi :
+
+Ci ñaareelu jukki bi :
+
+b. Ma tànn
+Bindal ci sa kaye limu kàddu yi jub te dëppoo ak jukki yi nga jàngoon.
+
+1. Xëccal caas gi ba mu tëdd.
+2. Génneel njëmbat mi ci pot bi mu  nekk.  
+3. Xëccal caas gi ba mu daŋ.
+4. Génneel ndox mi ci pot bi mu nekk.
+
+c. Ma wax li ma jàpp 
+
+Ñaari jukki yi nga jàng ci ayu-bés gi, yelul bu ci ne ay yoon. Soo noppee, nga wax li 
+nga ci jànge.
+
+III. Ma dawal jukki bi
+
+Ñaari jukki yi nga  jàng ci ayu-bés gi, biralal bu ci ne ñaari yoon. Yoon wu ci ne, na 
+nga settantal baat yi ak kàddu yi te bàyyi xel bu baax ci tomb yi.
+
+IV. Ma bind
+
+Bindal ñaari kàddu ci sa kaye, digal sa xarit ni ñuy defare Tuqusi-ngalam.
+
+1. Ndax pot bi ngay defare 
+tuqusi-ngala, war na am 
+dara ?
+
+2. Ndax mën nañu defar 
+tuqusi-ngalam su nu 
+amul bant ak caas ?
+
+a. War na 
+am ndox.
+
+b. Warul a 
+am dara.
+
+c. War na am suuf.
+
+a. Mën nañu ko 
+defare weñ 
+ak caas.
+
+b. Mën nanu ko 
+defare bant 
+ak weñ.
+
+c. Mën nanu ko 
+defare bant 
+ak caas.
+
+63
+
+
+
+206 Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+Nan ngay jëfandikoo ordinaatëer?
+Xale yi laaj nañu seen nijaay nu ñuy jëfandikoo ordinaatëer. Léegi 
+kat am nanu ko ci kër gi. Seen nijaay nee ne leen : « Ku bëgg a mën 
+ordinaatëer, nii la : 
+
+ - Xoolal ci kayit gi ànd ak tegtal yi ñu la jox,
+ - Na nga jàng nooy taale ak nooy feye sa 
+
+ ordinaatëer ci kaarànge gu mat sëkk.
+ - Leegi mën nga tijji sa ordinaatëer ba gis pàcc yi mu ëmb ;
+ - Raayal sa loxo ci li féete ci suuf mel ne ku yore sa portaabal ;
+ - Jëfandikool yenn saa yi jinax ji su la neexee,
+ - Ak jinax ji, randaleel joxoñukaay bi ci biro bi maanaam ngiska li,
+ - Leegi tijjil weneen xët ngir mën a tàmbali,
+ - Ak jinax ji walla li tegu ci suuf te nga koy raay, toxalal joxoñ bi ci  
+
+ xët wi,
+ - Tàmbaleel bind jukki bu ndaw ;
+ - Tànnal ab jukki, su boobaa dinga mën a soppi melo wi walla  
+
+ dayo bi.Nanga xam ne lu yomb te neex a def la, bu ci am  
+ xel ñaar, amulbenn jafe-jafe
+
+ - Jërëjëf ! leegi, mën nga fey sa ordinaatëer ak bitoŋ bi koy fey,
+ - Leeg-leeg, deel faral di baamtu li nga defoon.
+
+Soo koy def dinga mën a jariñoo bu baax sa ordinaatëer, dinga mën a 
+demal sa bopp yaw kese te kenn du la jàppale.
+
+64
+
+
+
+207Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+Laaj yi ak liggeey yi
+
+Bés
+
+Baat yu jafe yi
+
+ordinaatëer : jumtukaayu xarala bu bees la.
+kaarànge : lépp lu lay aar.
+ngiska : mooy li ngay janoo te mu mel ne seetu ; ekaraŋ bi.
+
+I. Ma tekki
+a. Ma róofale
+
+Jëfandikool baat yi ci tiket yi nga defaraat kàddu gi ci sa kaye.
+
+b. Ma ràññee
+• Baat yu bokk tekki
+1. Bindal ci sa kaye/àrduwaas baat bu bokk tekki ak benn bu ne ci yii ci suuf.
+
+jàpp    dayo
+• Baat yu woroo
+2. Bindal ci sa kaye/àrduwaas baat bu woroo ak benn bu ne ci yii ci suuf.
+
+yomb    fey
+
+1
+
+ordinaatëer. Na nga                    sa                    tijji                   
+
+II. Ma dégg li jukki bi ëmb 
+a. Ma tontu 
+
+1. Kan la xale ñaan ndimbal ngir jëfandikoo ordinaatëer ?
+2. Lan la jinax ji di jariñ ?
+3. Nan lañuy feye ordinaatëer ?
+
+b. Ma tànn
+Bindal ci sa kaye/àrduwaas limu kàddu gi jub te dëppoo ak jukki bi. 
+
+1. Randaleel jinax ji ci biro bi.
+2. Randaleel seetukaay bi ci biro bi.  
+3. Randaleel joxoñukaay bi ci biro bi.
+
+c. Ma seppi
+Seppil baat bi warul bokk ci mboole mi te bind ko ci sa àrduwaas.
+
+ngiska, butoŋ, jinax, saag, joxoñukaay
+
+64
+
+
+
+208 Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+I. Ma dégg li jukki bi ëmb
+a. Ma xam li nataal bi ëmb
+
+Tontul ci laaj yii :
+1. Ñaata nit ñoo nekk ci nataalu jukki bi ?
+2. Lu ñuy def ?
+
+b. Ma tontu
+Tontul ci laaj yii :
+
+1. Ndax nijaayu xale yi mën na jëfandikoo ordinaatëer ?
+2. Ndax mën nañu bind ci ordinaatëer bu amul jinax ?
+3. Jàng ba mën a jëfandikoo ordinaatëer, ñaata fan la laaj ?
+
+c. Ma mottali
+Sottil ci sa kaye/àrduwaas kàddu yi te mottali leen ak baat yi war. 
+(fey, sangu, jukki, xët, bunt, caabi)
+
+Tijjil weneen……… ngir mën a tàmbali.
+Tàmbaleel bind………. bu ndaw.
+Leegi mën nga……..sa ordinaatëer ak………..   .
+
+d. Ma lëkkale kàddu ak nataal 
+
+ Bindal ci sa kaye/ àrduwaas arafu  kàddu gi mën a ànd 
+ ak nataal bi.
+
+1. Xale bu jigeen baa ngi toog ci kanamu ordinatëer bi. 
+2. Xale bu jigeen baa ngi denc ordinaatëer bi.
+3. Xale bu jigeen bi fey na ordinaatëeram.
+
+d. Ma wax li ma jàpp
+Waxal li nga jànge ci jukki bi.
+
+II. Ma dawal jukki bi
+Biralal jukki bi ci ñetti simili.
+
+III. Ma bind
+Bindal genn kàddu ci sa kaye/àrduwaas, digal sa xaritnu muy jëfandikoo ordinaatëer.
+
+Bés 2
+
+64
+
+
+
+209Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+Telefon portaabal bi
+Badu am na portaabal bu bees. Yaayam a ko jënd neexale ko ko ci 
+juroom-ñetteelu atam. Xamagul nan lañu koy jëfandikoo. Ci la ko 
+seexam Mari waxe ne ko moom yaayam xamaloon na ko ko. Badu ne 
+ko mu jàppale ko ci. Mari ne ko nii nga war a def :
+
+ - Fayal telefon bi balaa ngay door.
+ - Samp ko ci kuraŋ ba mu fees dell, taal ko.
+ - Demal ci biro bi, tànn li nga bëgg def ci ngiska gi.
+ - Tànnal li war a feeñ ci ngiska gi, seetal arafukaay bi, mooy tax 
+
+nga mën a am nimero telefon yi.
+ - Xamal ne butoŋ yiy taal, ñooy fey.
+ - Xàmmeel butoŋ biy tax nga mën a yokk li ngay dégg.
+ - Ci biro bi, ràññeel misaalu foto : dinga ci mën a def foto yu 
+
+rafet soo bëggee.
+ - Jëfandikool bën-bën bi ci kow soo bëggee dégg.
+ - Bul fàtte ne sa telefon bokk na ci yi ngay laal mu dox ; looloo tax 
+
+doo ci sonn.
+ - Puusal rekk sa loxo, biro bi tàkk.
+ - Leegi, demal ndànk-ndànk ba mokkal lépp.
+ - Déglul ma woo la ndax jàpp nga lima wax.
+ - Su ñu noppee, woo ma, ma tontu la.
+ - Baax na, leegi, demalal sa bopp, woowal sa tànta.
+
+Ci noonu rekk, Badu bës ay lim ak butoŋu woote bi. Tàntaam wuyu, 
+mu bég, ne aloo, daldi door waxtaan. 
+
+65
+
+
+
+210 Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+Laaj yi ak liggeey yi
+
+Bés
+
+Baat yu jafe yi
+
+arafukaay : fi ñu def araf yi ci telefon bi.
+mokkal : xam bu baax looy jàng walla looy def.
+
+I. Ma tekki
+a. Ma róofale
+
+Jëfandikool baat yi ci tiket yi nga defaraat kàddu gi ci sa kaye.
+
+b. Ma ràññee
+• Baat yu bokk tekki
+1. Bindal ci sa kaye/àrduwaas baat bu bokk tekki ak benn bu ne ci yii ci suuf.
+
+yokk    taxawal 
+• Baat yu woroo
+2. Bindal ci sa kaye/àrduwaas baat bu woroo ak benn bu ne ci yii ci suuf.
+
+magam  bëgg 
+
+1
+
+Bësal biy butoŋ                    taal.                    
+
+II. Ma dégg li jukki bi ëmb 
+a. Ma tontu 
+
+1. Lu Badu am ?
+2. Lu ñuy won Badu ?
+3. Ku ko ko won ?
+
+b. Ma tànn
+Bindal ci sa kaye/àrduwaas limu kàddu gi jub te dëppoo ak jukki bi. 
+
+1. Sampal telefon bi ci kuraŋ bi.
+2. Bul samp telefon bi ci kuraŋ bi.
+3. Sampal telefon bi ci kuraŋ bi te bu mu fees.
+
+c. Ma seppi
+Seppil baat bi warul bokk ci mboole mi te bind ko ci sa àrduwaas.
+
+woote, toj, taal, wuyu, fey
+
+65
+
+
+
+211Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+I. Ma dégg li jukki bi ëmb
+a. Ma xam li nataal bi ëmb
+
+Tontul ci laaj yii :
+1. Kan moo nekk ci nataal bi ?
+2. Lu xale bu góor bi di def ?
+
+b. Ma tontu
+Tontul ci laaj yii :
+
+1. Ndax Badu mi am juroom-ñetti at war naa am telefon ?
+2. Luy njariñu telefon ci xale bi ?
+
+c. Ma mottali
+Sottil ci sa kaye/àrduwaas kàddu yi te mottali leen ak baat yi war. 
+   (tegu, ma, nga, ma)
+
+Li ci …mooy… woo…,  …tontu la.  
+(mën, na, demal, bopp)
+Baax…, leegi, …nga… sa…  . 
+
+d. Ma lëkkale kàddu ak nataal 
+
+ Bindal ci sa kaye/àrduwaas arafu  kàddu gi mën a ànd 
+ ak nataal bi.
+
+1. Badoo ngi wër portaabalam. 
+2. Badu am na portaabal bu bees.
+3. Badu amul portaabal.
+
+e. Ma wax li ma jàpp
+Waxal li nga jànge ci jukki bi.
+
+II. Ma dawal jukki bi
+Biralal jukki bi ci ñetti simili.
+
+III. Ma bind
+Bindal genn kàddu ci sa kaye/àrduwaas, boo doon digal Badu dara ci telefonam 
+boobu loo koy wax.
+
+Bés 2
+
+65
+
+
+
+212 Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+Laaj yi ak liggeey yi
+
+I. Ma tekki
+a. Ma róofale
+
+Jëfandikool baat yi ci tiket yi, nga defaraat kàddu gu ci nekk ci sa kaye.
+
+b. Ma seppi
+Seppil ci mboole mu nekk, baat yi ci bokkul te bind leen ci sa kaye.
+
+ 
+
+II. Ma fàttaliku la jukki ya ëmboon 
+
+a. Ma tontu
+Bindal ci sa kaye arafu tontu wi jub. 
+Ci jukki bu jëkk bi :
+
+Laaj yi : Tontu yi :
+
+1
+
+2
+
+bind
+
+biy taal
+
+  jukki bu
+
+butoŋ
+
+ ndaw. Tàmbaleel
+
+di fey.
+
+1
+
+2
+
+ taalal, sànnil, déglul, wooteel, feyal
+
+samp ci kuraŋ, nuyu fotokat, xàmmee butoŋ
+
+1. Lu xale yi laaj seen 
+nijaay ?
+
+2. Lu  ordinaatëer di jariñ 
+xale yi ?
+
+a. Nu ñu tudd.
+
+a. Tàngal leen.
+
+b. Nu ñuy 
+jëfandikoo 
+ordinaatëer.
+
+b. May doole
+
+c. Fu ñu jëm.
+
+c. Fo kese
+
+66
+
+ak Xàmmeel
+
+
+
+213Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+Laaj yi : Tontu yi :
+
+Ci ñaareelu jukki bi :
+
+b. Ma tànn
+Bindal ci sa kaye limu kàddu yi jub te dëppoo ak jukki yi nga jàngoon.
+
+1. Dama lay woo, nga jàngal ma.
+2. Feyal sa ordinaatëer ci kaarànge.  
+3. Dama lay woo, nga wuyu ma.
+4. Feyal sa ordinaatëer ci yàkkamti.
+
+c. Ma wax li ma jàpp 
+
+Ñaari jukki yi nga jàng ci ayu-bés gi, yelul bu ci ne ay yoon. Soo noppee, nga wax li 
+nga ci jànge.
+
+III. Ma dawal jukki bi
+
+Ñaari jukki yi nga  jàng ci ayu-bés gi, biralal bu ci ne ñaari yoon. Yoon wu ci ne, na 
+nga settantal baat yi ak kàddu yi te bàyyi xel bu baax ci tomb yi.
+
+IV. Ma bind
+
+Bindal ñaari kàddu ci sa kaye tàggatu, digalal sa xarit ni ñuy toppatoo 
+ordinaatëer walla telefon. 
+
+1. Ku jëndal Badu   
+portaabal ?
+
+2. Lu xale di doye 
+portaabal ?
+
+a. a. pàppaam            
+
+a. Woote ak 
+wuyu. 
+
+b. yaayam
+
+b. Seetaan.
+
+c. magam
+
+c. Wuyu rekk.
+
+66
+
+
+
+214 Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+Nooy jéggee tali
+Tey ci suba la Mari ak Badu di dellu jàngi ekool. Seen ekool mu ngi 
+nekk ca wet ga ca des te fàww ñu jéggi tali. Looloo tax seen yaay di 
+leen jox ay dénkaane ni leen : « Na ngeen moytu bu ngeen di jéggi tali 
+bi ndax am na oto yuy daw, ay sareet, aki moto. Kenn warul a jéggi 
+tali na mu ko neexe ak fa mu ko neexe.
+Jàppleen ni su ngeen di jàll tali nii ngeen war a def.
+
+ - Na ngeen jaar fi rëddi ñiy dox  nekk walla fi ñu def « dóo-daan ».
+ - Moytuleen bu baax itam su ngeen di jaar ci rëddi ñiy dox waaye  
+
+ itam ci fi ñu rëddul.
+ - Geestuleen seen ndeyjoor ak seen càmmooñ ba gis ne dara ñëwul.
+ - Boo leen gisul wenn waruwaay wuy ñëw, moo xam oto, moto  
+
+ walla sareet, ngeen soog a jéggi.
+ - Boo leen nekkee fu am làmpi jéggi, xaar leen ba làmp bu xonq bi  
+
+ tàkk ngeen di soog a jéggi. Na fekk waruwaay yi taxaw ba noppi ;
+ - Geestuleen seen ndeyjoor ak seen càmmooñ ba gis ne oto,    
+
+ moto walla sareet ñëwul, ngeen soog a jéggi.
+ - Su làmp bi wertee oto yi dañu war a dem, taxawleen xaar ba  
+
+ làmp bi tàkkaat xonq.
+ - Waaxuleen, bu ngeen di jéggi.
+ - Bu leen nekk di daagu ne ku nekk këram.
+ - Bu leen jéggi mukk tali di daw walla di tëb, mën ngeen a daanu,  
+
+ indil seen bopp musiba. 
+
+67
+
+
+
+215Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+Laaj yi ak liggeey yi
+
+Bés
+
+Baat yu jafe yi
+
+jéggi : jàll béreb, jóge ci gii wet dem ca ga ca des.
+rëddi ñiy dox : yoon wu ñu def rëdd yu weex te ñiy dox war faa jaar.
+dénkaane : digle.
+
+I. Ma tekki
+a. Ma róofale
+
+  Jëfandikool baat yi ci tiket yi nga defaraat kàddu gi ci sa kaye.
+
+b. Ma ràññee
+• Baat yu bokk tekki
+1. Bindal ci sa kaye/àrduwaas baat bu bokk tekki ak benn bu ne ci yii ci suuf.
+
+jaar   daagu
+• Baat yu woroo
+2. Bindal ci sa kaye/àrduwaas baat bu woroo ak benn bu ne ci yii ci suuf.
+
+waaxu  ndeyjoor
+
+1
+
+seen kër. di daagu ne ku nekk Buleen                   
+
+II. Ma dégg li jukki bi ëmb 
+a. Ma tontu 
+
+1. Badu ak  Mari lu ñu def tey ci suba ?
+2. Lan la seen yaay wax ñu def ko suñuy jéggi ?
+3. Kañ la kuy jéggi tali bu am làmpi jéggi war a jàll ?
+
+b. Ma tànn
+Bindal ci sa kaye/àrduwaas limu kàddu gi jub te dëppoo ak jukki bi. 
+
+1. Buleen nekk di daw ne oto bu nekk ci tali.
+2. Buleen nekk di daagu ne ku nekk seen kër.  
+3. Nekkleen di daw ne ku nekk seen kër.
+
+c. Ma seppi
+Seppil baat bi warul bokk ci mboole mi te bind ko ci sa àrduwaas.
+
+geestuleen, moytuleen, tëddleen, waaxuleen
+
+67
+
+
+
+216 Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+I. Ma dégg li jukki bi ëmb
+a. Ma xam li nataal bi ëmb
+
+Tontul ci laaj yii :
+1. Kañ la Mari ak Badu di dellu ekool ?
+2. Kañ la oto bi war a jàll ?
+3. Kañ la oto yi war a taxaw ?
+
+b. Ma tontu
+Tontul ci laaj yii :
+
+1. Ana lu mën a jàll ci tali ludul oto, moto ak sareet ?
+2. Kuy daw di jàll lu ko mën a dal ?
+3. Nan la yoonu ñiy dox di mel ?
+
+c. Ma mottali
+Sottil ci sa kaye/àrduwaas kàddu yi te mottali leen ak baat yi war. 
+(càmmooñ, oto ndeyjoor, làmp)
+
+Geestuleen seen…..ak seen ..…bala ngeen di jéggi.
+Bu….bi tàkkee.….oto yi dañuy taxaw.
+
+d. Ma lëkkale kàddu ak nataal 
+
+ Bindal ci sa kaye/ àrduwaas arafu  kàddu gi mën a 
+and ak nataal bi
+
+1. Nit ñi dañuy jéggi. 
+2. Nit ñi dañoo taxaw.
+3. Nit ñi dañoo toog.
+
+f. Ma wax li ma jàpp
+Waxal li nga jànge ci jukki bi.
+
+II. Ma dawal jukki bi
+Biralal jukki bi ci ñetti simili.
+
+III. Ma bind
+Bindal genn kàddu ci sa kaye/àrduwaas, nga digal sa xarit naka la war a jéggee tali .
+
+Bés 2
+
+67
+
+
+
+217Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+Nan ngay doxale ci koñ bi nga dëkk
+Xale yi, bi ñu wàccee, dañu wax seen pàppa : « Pàppa, sunu madam 
+dafa ni nu laaj leen, ngeen wax nu naka la nit  war a dëkke ci koñam. « 
+Doo nu ci jàppale ? Lii moo war :  Seen pàpa ni : « Waawaaw doom  ! 
+Soo bëggee nekk nekkin wu rafet ci koñ bi ngeen dëkk, war ngeen :
+
+ - Rafetal seen diggante ak seen ay dëkkandoo.
+ - Wone yar ak teggin ci ni ngeen di defe ak ci ni ngeen di waxe;
+ - Di toppatoo ni ñuy dunde ak li ñuy liggeey (te bañ a deñ kumpa).  
+
+ su ko defee, leeg-leeg ngeen mën a dimbalee.
+ - Fexe ba bañ a sonnale, ci waxtu noppalu, ak coow lu bare, su   
+
+ ngeen di fo, liggeey walla su xew amee ;
+ - Bokk bu baax ci dundinu kàrce bi, ci liggeey yi jëm ci defar koñ   
+
+ bi moo xam set-setal, jëmbat garab mbaa leneen ; ak yu jëm ci   
+ wàllu po naka futbal, tiyaatar, ak ñoom seen.
+
+ - Toppatoo seen buntu kër te bañ a tilimal koñ bi, di sànni lu leen   
+ neex, fu leen neex.
+
+ - Génne pólli mbalit yi ci waxtoom, bu oto mbalit bi ñëwee ; 
+ bu ñëwagulee ngeen muur leen bu baax te di leen seet.
+
+ - Déggoo ak ñi ngeen dëkkal, te di dem leeg-leeg di leen nemmiku.
+Su ngeen toppee tegtal yii, ñu yaru te neex a dëkkal ngeen di doon ». 
+
+68
+
+
+
+218 Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+Laaj yi ak liggeey yi
+
+Bés
+
+Baat yu jafe yi
+
+ku am teggin : ku am yar, ku am aajo, ku am worma.
+ku deñ kumpa : ku bëgg a xam lu nekk.
+di leen nemmiku : di leen seeti.
+
+I. Ma tekki
+a. Ma róofale
+
+Jëfandikool baat yi ci tiket yi nga defaraat kàddu gi ci sa kaye.
+
+b. Ma ràññee
+• Baat yu bokk tekki
+1. Bindal ci sa kaye/àrduwaas baat bu bokk tekki ak benn bu ne ci yii ci suuf.
+
+jàppale   déggoo
+• Baat yu woroo
+2. Bindal ci sa kaye/àrduwaas baat bu woroo ak benn bu ne ci yii ci suuf.
+
+rafetal   tilimal
+
+1
+
+sonle Buleen waxtuci dallu.
+
+II. Ma dégg li jukki bi ëmb 
+a. Ma tontu 
+
+2. Kiy wax xale la walla mag ?
+3. Fan la war a waxtaane ?
+4. Ku ko dimbale ci waxtaan woowu ?
+
+b. Ma tànn
+Bindal ci sa kaye/àrduwaas limu kàddu gi jub te dëppoo ak jukki bi. 
+
+1. Rafetalal sa nekiin ak say àndandoo.
+2. Rafetalal sa diggante ak say dëkkandoo.
+3. Rafetalal sa doxalin ak say xarit.
+
+c. Ma seppi
+Seppil baat bi warul bokk ci mboole mi te bind ko ci sa àrduwaas.
+
+yar, teggin, xamadi, jub
+
+68
+
+
+
+219Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+I. Ma dégg li jukki bi ëmb
+a. Ma xam li nataal bi ëmb
+
+Tontul ci laaj yii :
+1. Ñan ngeen gis ci nataalu jukki bi ?
+2. Fan la ñu nekk fii ?
+3. Nan la buntu kër gi mel ?
+
+b. Ma tontu
+Tontul ci laaj yii :
+
+1. Nan la pàppa ji dimbalee xale yi ?
+2. Lu mu koy jural su toppee li ko pàppaam wax ?
+3. Ban njariñ la ci waa kalaasam mën a jële ?
+
+c. Ma mottali
+Sottil ci sa kaye/àrduwaas kàddu yi te mottali leen ak baat yi war. 
+(jëmbatal, koñ, dundinu, bul)
+
+Bokkal bu baax ci……….kàrce bi .……. garab.
+………… tilimal……….. bi.
+
+d. Ma lëkkale kàddu ak nataal 
+
+ Bindal ci sa kaye/ àrduwaas arafu  kàddu gi mën a 
+ ànd ak nataal bi.
+
+1. Xadi mi ngi dem moom ak pàppaam. 
+2. Xadi mi ngi wax moom ak pàppaam.
+3. Xadi mi ngi topp pàppaam.
+
+e. Ma wax li ma jàpp
+Waxal li nga jànge ci jukki bi.
+
+II. Ma dawal jukki bi
+Biralal jukki bi ci ñetti simili.
+
+III. Ma bind
+Bindal genn kàddu ci sa kaye/àrduwaas, digal sa xarit lan la war a defal koñam su 
+bëggee dëkkin wi neex.
+
+Bés 2
+
+68
+
+
+
+220 Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+Laaj yi ak liggeey yi
+
+I. Ma tekki
+a. Ma róofale
+
+Jëfandikool baat yi ci tiket yi, nga defaraat kàddu gu ci nekk ci sa kaye.
+
+b. Ma seppi
+Seppil ci mboole mu nekk, baat yi ci bokkul te bind leen ci sa kaye.
+
+ 
+
+II. Ma fàttaliku la jukki ya ëmboon 
+
+a. Ma tontu
+Bindal ci sa kaye arafu tontu wi jub. 
+Ci jukki bu jëkk bi :
+
+Laaj yi : Tontu yi :
+
+1
+
+2
+
+ñiy dox  
+
+ Bokkal
+
+nekk.
+
+ci ñiy
+
+fi rëddi
+
+kàrce bi.
+
+Na ngeen jaar
+
+setal
+
+1
+
+2
+
+wert, xonq, kër, mboq
+
+tooñal, toppal ndigal, woneel yar, amal teggin, ñàkk yar
+
+1. Lan la xale yi war a  
+moytu bu ñuy jéggi tali ?
+
+2. Lu tax seen pàppa di leen  
+jàngal nu ñuy jéggee tali ?
+
+a. oto, sareet, moto b. seen yére c. taw bi
+
+a. Ngir ñu 
+gaaw.
+
+b. Dara bañ 
+leen a dal.
+
+c. Ndax ñu 
+dëgër.
+
+69
+
+
+
+221Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+Laaj yi : Tontu yi :
+
+Ci ñaareelu jukki bi :
+
+b. Ma tànn
+Bindal ci sa kaye limu kàddu yi jub te dëppoo ak jukki yi nga jàngoon.
+
+1. Toppatool seen buntu kër te bañ a tilimal koñ bi.
+2. Waaxuleen, bu ngeen di jéggi.  
+3. Bul toppatoo seen bunt kër.
+4. Dawleen su ngeen di jéggi.
+
+c. Ma wax li ma jàpp 
+
+Ñaari jukki yi nga jàng ci ayu-bés gi, yelul bu ci ne ay yoon. Soo noppee, nga wax li 
+nga ci jànge.
+
+III. Ma dawal jukki bi
+
+Ñaari jukki yi nga jàng ci ayu-bés gi, biralal bu ci ne ñaari yoon. Yoon wu ci ne, na 
+nga settantal baat yi ak kàddu yi te bàyyi xel bu baax ci tomb yi. 
+
+IV. Ma bind
+
+Bindal ñaari kàddu ci sa kaye tàggatu, nga digal sa rakk ni mu war a mel ba doon  
+xale bu yaru.  
+
+1. Xale yi lu leen seen 
+Madam laaj ?
+
+2. Déggoo ak ñi nga dëkkal 
+ndax lu baax la ?  
+Lu tax ?
+
+a. Fu ñu dëkk.
+
+a. Amul njariñ.  
+
+b. Nu nit di mel 
+ci koñam.
+
+b. Jaru ko.
+
+c. Lu ñuy def.
+
+c. Ngir am nekkin 
+wu rafet. 
+
+69
+
+
+
+222 Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP222
+
+Sabab :
+Ki lay jàppale ci njàng dafa la bëg a waajal ci ab joŋante. Jox na la 
+jukki bi ci suuf ak ay laaj. 
+Ndigal :
+Yelul jukki bi, jéem a dégg li ñu ci wax te tontu ci liggeey ak laaj yi. 
+
+Ni nuy def ba sunu kalaas di set   
+Ren, mbirum cet lañu war a waxtaane ci ayu-bés gi ñu jagleel ekool yi. 
+Direktëeru ekool Waali Fata wax na elew yi ne, su at mi jeexee, kalaas bu 
+saxal cet dina am neexal. Elewi kalaas yu mag yi la ñu jiital ngir ñu seet 
+naka lañu war a def. Terewul ñu boole ci itam elewi yeneen kalaas yi. 
+Looloo tax Mari, Badu ak seeni xarit di jéem a am pexe yu ñuy lal ngir 
+seen kalaas jot neexal bi. Laaj nañu sax seen i waajur ak seeni madam  
+ay xalaat. Bi ñu defee ay ndaje yu bare, ñu tënk seeni matuwaay.
+Li nu war a def sunu bëggee sunu kalaas di set :
+
+ - Nanu def elew yi ay kureel ngir ñuy defar. 
+ - Nanu fal njiit ci kureel gu nekk ngir muy soññe ci liggeey bi.
+ - Nanu defar arminaatu liggeeyu kureel yi.
+ - Nanuy wut ay mask, muur sunu bakkan, balaa pënd biy jóg, laataa   
+
+ nuy tàmbali liggeey. 
+ - Nanuy fëgg palanteer yi, fomp bunt yi ak armuwaar yi, biro yi,   
+
+ taabal-baŋ yi ak toogu yi.
+ - Nanuy wis ndox bala noo bale.
+ - Nanuy dindi lënd yi.
+ - Nanuy jël mbalit mi def ko ci pubeelu kalaas yi.
+ - Nanuy fomp tablo yi suba su ne tey def meneen ndox mu nuy    
+
+ liggéeye ci bëccëg gi.
+ - Nanuy moytu di bind ci miir yi ak ci taabal yi.
+ - Nanuy sargal kureelu liggeeykat yi def loolu ci bëccëg gi.
+
+I. Ma tekki
+a. Ma mottali
+
+1. Sottil kàddu gi te dugal ci baat yi war : bale, laataa, mbalit, wis, fomp.
+Nanuy ………….. ndox ……………. nuy …………..   .
+
+70
+
+
+
+223Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+b. Ma róofale
+Jëfandikool baat yi ci tiket yi, nga defaraat kàddu yi ci sa kaye.
+
+1.  
+
+2.
+
+c. Ma ràññee
+• Baat yu bokk tekki 
+Baat bu nekk ci yii ci suuf, bindal bu bokk tekkin ak moom ci sa kaye.
+
+tax
+kureel
+
+• Baat yu woroo tekki
+Baat bu nekk ci yii ci suuf, bindal bu woroo tekki ak moom ci sa kaye.
+
+jiital 
+tàmbali
+
+II. Ma dégg li jukki bi ëmb
+a. Ma tontu
+
+Tontul laaj yi :
+1. Palanteer yi, nan lañu leen war a def ? 
+2. Ñan lañu war a sargal ?
+3. Ngir bañ pënd bi jóg, nan lañu war a def bala ñoo bale ?
+
+b. Ma tànn 
+Bindal ci sa kaye limu kàddu gi jub te dëppoo ak jukki bi.
+
+1. Nanuy jël mbalit mi def ko ci póllu yi. 
+2. Nanuy jël mbalit mi def ko ci kalaas yi. 
+3. Nanuy dajale mbalit mi bañ koo def ci paollu yi. 
+
+II. Ma dawal jukki bi
+Biralal jukki bi te mu ànd ak nga settantal baat yi ak kàddu yi. Na nga bàyyi xel it bu 
+baax ci tomb yi.
+
+fal                 toppatoo liggeey bi.                   Nanu kuy
+
+Jargoñ Nanuy lëndi dindi                    yi.                  
+
+70
+2. Sottil kàddu gi te dugal ci baat yi war : tilimal, raxas, taabal, bu, nanu.
+………….. kenn …………… miir yi ak …………….. yi.
+
+
+
+224
+
+10
+
+Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+Sabab :
+Ekool a ngi waaj a tëj. Am na joŋante bu mag ci njàng. Ngir waajal la 
+ci, jox nañu la jukki yi ci suuf ak laaj yi.
+
+Ndigal :
+Yelul jukki bu ci nekk, jéem a dégg li ñu ci wax te tontu ci liggeey yi 
+ak laaj yi mu àndal. 
+
+Cuubkat bi       
+Maam Nogay yaayu pàppa Omar cuubkat la. Boo ko seetee, li ngay 
+gis te mu lay yéem mooy yére yiy melax te ñu weer leen ci liiñ gi. 
+Maam Nogay, li muy màgget màgget, mu ngi wéy di liggeey. Dafa am 
+bis, yaay Astu seeti ko, yóbbaale ab robbam ngir mu cuubal ko ko. 
+Ci saa si, Maam Nogay sol ay gaŋam, takk masku bakkan. Daaldi na 
+jël paanug ndox def ci xeme ak segene ay mbir yuy téye tàkk-tàkku 
+yére yi. Ginnaaw bamu defee pëndax bu bulo ak bu mboq ci paan gi, 
+dugal na ca robbu Astu bu bulo ba. Ci la jële bant di yëngal bu baax 
+robb bi ci biir ndox mi. Ndox mi tàmbali di fuur ndax mbir yi ñu ci def. 
+Tàngoor wi jàpp na Maam Nogay. Ñaq wi di rogalaat, waaye taxul mu 
+noppalu. Ab diir, mu dindi robb bi ci ndox mi, weñ ko bu dëgër. Bi mu 
+noppee, dugal ko ci ndox mu set, génne ko, weñaat ko, weer ko ci liiñ gi. 
+Kenn masul a gis lu mel nii ! Leegi, Astu amaat na robb bu wert 
+bu rafet.
+
+1. Kan mooy maam Nogay ?
+2. Lu muy liggeey ?
+3. Ndax at yi Maam Nogay am tax na mu néew doole te tàyyeel ?  
+4. Luy firndeel sa tontu?
+5. Lu tax liggéeyu Maam Nogay di laaj masku bakkan ?
+
+Laaj yi ak liggeey yi
+
+a. Tontul laaj yi ci sa kaye.
+
+1
+
+71
+
+
+
+225
+
+10
+
+Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+1. Fan la bitigu Asan jàkkaarlool ?
+2. Yan njaay ñoo nekk ca bitig ba ?
+3. Lu waral boroom bitig bi def màngasiin ba ca biir a biir ? 
+4. Ñaata nit ñooy jàppale Asan ci liggeeyam ? Ñan lañu ?
+
+Laaj yi ak liggeey yi
+
+a. Tontul laaj yi ci sa kaye.
+
+1. Robbu Astu bi, bi ñu ko cuubee, dafa mujj wert.
+2. Robbu Astu bi, bi ñu ko cuubee, dafa mujj bulo.
+3. Robbu Astu bi, bi ñu ko cuubee, mujjul wert.
+
+b. Bindal kàddu gi jub te dëppoo ak jukki bi ci sa kaye.
+
+Bitigu Asan       
+Nijaay Asan moo yor bitig bi gën a rëy ci sunu kàrce. Mu ngi 
+nekk ca catu mbedd mu mag mi jàkkaarloo ak gaaraasu oto yi. 
+Dafay ubbi bés bu ne ci suba ba fukki waxtu ci guddi. Njaay yu 
+wuute nga fay fekk. Ca ndeyjoor, ci suuf, la ñu raŋale ay saaku yu 
+def lépp luy dund, deme ne ceeb, dugub, ñebbe, pombiteer, soble… 
+Ca càmmoñ, ci kow kontuwaar bi, am na fa benn peesekaay aki poo. 
+Yeneen njaay yi ñu ngi raŋaloo ci taseer yi. Am na sax yu nekk ci 
+suufu kontuwaar bi ak ci biir turwaal yi. Mën na ñu faa jënd sax ay 
+kàrti telefoŋ. 
+Nijaay Asan, du moom rekk moo nekk ca bitig ba di jaay. Jël na ku jub 
+ku koy jàppale ci liggeey bi. Am na itam benn wattukat bu am kàttan 
+te farlu. Mooy toog ci buntu bitig bi, am bët ci ñépp. Ca biir a biir, am 
+na fa as mbunt suy ubbeeku ca màngasiin ba. Foofa la Asan di denc 
+yi mu jaayagul.
+
+2
+
+71
+
+c. Biralal jukki bi te mu ànd ak nga settantal baat yi ak kàddu yi. 
+Na nga bàyyi xel it bu baax ci tomb yi. 
+
+
+
+226
+
+10
+
+Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+Naka lañuy defare oto fowukaay ?                            
+Xale yi dañu bëgg a bokk ci joŋante bi ñuy tànne ñi gën a xarala. 
+Madam Jàllo moo leen di xelal. Xamal na leen ne su ñu bëggee defar 
+oto, soxla nañu ay jumtukaay ak xam ni ñu ko war a defare.
+Jumtukaay yi :
+
+ - 4 kubéeru bitéelu liminaat yu palaastig
+ - 1 panaal 
+ - aw kàrtoŋ wu yaatoo 7 sàntimeetar, gudde 15 sàntimeetar
+ - 3 tiwoy big yu amul dara
+ - 2 banti boroset yu gudde bu ci nekk 11 sàntimeetar
+ - 2 daggiti findfeer 
+
+Ni ñu koy defare :
+ - Tegleen 2 tiwoy big yi ci ñaari yaatuwaayi kàrtoŋ yi, ñu leroo. 
+ - Nangeen bàyyi 2 sàntimeetar diggante tiwo bu nekk ak peggi    
+
+ kàrtoŋ yi. 
+ - Bënnleen kàrtoŋ gi, takk tiwo yi ak findfeer.
+ - Dugalleen ci tiwo bu nekk bantu boroset.
+ - Ëppalleen wet gu nekk 1 sàntimeetar ak dara ngir kubeer yi mën  
+
+ a jàpp.
+ - Nañu leen bënnal kubeer yi ci digg bi.
+ - Dugalleen, ci catu bant bu nekk, genn kubeer, mu doon ab pono.
+ - Dugalleen baatu panaal mu ëmb baatu ñetteelu tiwo bi te mu 
+
+ bañ a  sori.
+
+3
+
+1. Bitigu Asan dafay ubbi ba fukki waxtu ak benn ci guddi.
+2. Bitigu Asan dafay ubbi ba fukki waxtu ci guddi.
+3. Bitigu Asan du ubbi ba fukki waxtu ci guddi.
+
+b. Bindal kàddu gi jub te dëppoo ak jukki bi ci sa kaye.
+
+71
+
+c. Biralal jukki bi te mu ànd ak nga settantal baat yi ak kàddu yi. 
+Na nga bàyyi xel it bu baax ci tomb yi. 
+
+
+
+227
+
+10
+
+Njàng - Téere kalaas - CP Njàng - Téere kalaas - CP
+
+1. Wutleen ku leen bënnal kubeer yi ci digg bi.
+2. Bënnal kubeer yi ci digg bi. 
+3. Wutleen ku leen bënnal kubeer yi ci pegg bi.
+
+b. Bindal kàddu gi jub te dëppoo ak jukki bi ci sa kaye.
+
+c. Biralal jukki bi te mu ànd ak nga settantal baat yi ak kàddu yi. 
+Na nga bàyyi xel it bu baax ci tomb yi. 
+
+71
+
+1. Xale yi, ci lan lañu bëgg a bokk ba tax ñuy defar oto ?
+2. Kan mooy jàppale xale yi ?
+3. Lan la kubéeri bitéelu liminaat yi di jariñ ?
+4. Ginnaaw bu ñu defaree oto bi, lan mooy tax mu mën a daw ?
+
+Laaj yi ak liggeey yi
+
+a. Tontul laaj yi ci sa kaye.
+
+ - Takkleen bu dëgër ak lëstig gémmiñu manq gi. 
+ - Takkleen ñetteelu tiwo bi ci guddaayu kartoŋ bi, ci digg bi.
+ - Ëfleen panaal bi, fatt buntu tiwo bi.
+ - Tegleen oto bi fu tàlli te bàyyi fi ngeen fattoon, ngelaw li génn.
+ - Demleen ak jàmm !
+
+
+
+

@@ -1,0 +1,5918 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Année 2018
+
+Njàng
+Téere kalaas
+
+Wolof
+
+CI
+
+
+
+Ce travail est disponible sous la licence Creative Commons Attribution 4.0 IGO. Sous cette licence,  
+il est accordé le droit de copier, de distribuer, de diffuser et d’adapter ce document y compris à des fins 
+commerciales selon les conditions énoncées sur le site électronique suivant : 
+https://creativecommons.org/
+
+
+
+PREFACE
+
+Dans le cadre de l’amélioration de la qualité des enseignements/apprentissages au 
+cycle élémentaire, le Ministère de l’Education nationale du Sénégal a mis en place le 
+programme « Lecture Pour Tous », financé par le Gouvernement américain à travers 
+l’Agence Américaine pour le Développement International.
+
+L’atteinte des objectifs de qualité annoncés dans le Programme d’Amélioration 
+de la Qualité, de l’Equité et de la Transparence (PAQUET), dépend, en partie,  
+du développement des compétences de lecture sans lesquelles les apprentissages 
+se réalisent difficilement dans les autres disciplines. Or les performances en lecture 
+sont fortement tributaires de l’accès des apprenants à des intrants de qualité. C’est 
+pourquoi, le matériel didactique conçu et réalisé par Lecture Pour Tous, pour servir de 
+support à l’ambition du ministère d’améliorer les acquis scolaires dans cette discipline 
+fondamentale, revêt un intérêt capital du fait de l’utilisation des langues nationales 
+comme médium et objet d’apprentissage de la lecture initiale.
+
+Ce matériel didactique est élaboré sur la base d’expériences éprouvées, menées de par 
+le monde et adaptées au contexte sénégalais, y compris le curriculum de l’éducation 
+de base. Les évidences en apprentissage de la lecture initiale démontrent que le 
+recours aux langues que parlent et comprennent les enfants, l’adoption du principe de 
+décodabilité, l’application d’une approche d’apprentissage systématique, explicite et 
+structurée permettent aux enfants de lire correctement.   
+
+Au vu des nombreuses expertises sollicitées pour sa conception, il est à espérer 
+que ces ouvrages constitueront des supports de qualité qui permettront d’apporter 
+une réponse effective à la volonté du Ministère de l’Education nationale d’améliorer 
+significativement les performances en lecture.
+
+C’est le lieu de remercier l’USAID pour son précieux concours et d’inviter tous ceux 
+qui auront en main ces outils d’en faire un bon usage.
+
+Le Ministre de l’Education nationale
+
+
+
+Avant-propos
+Pour aider les élèves sénégalais à réussir l’apprentissage de la lecture dès  
+les premières années de leur scolarité, le programme « Lecture Pour Tous » a conçu 
+ce manuel de classe en langue nationale dans une approche syllabique. Il est destiné 
+aux élèves de Cours d’Initiation (CI).
+
+Ce livret est un outil de classe qui permet à l’enseignant (e) de travailler régulièrement 
+les capacités de lecture des élèves. Il est fondé sur le respect du principe de décodage 
+systématique en lecture. C’est-à-dire que l’élève apprend progressivement sur la base 
+de lettres, de sons et de mots déjà étudiés.
+
+Dans la progression, l’élève apprend à reconnaître les sons à l’oral et à l’écrit, 
+à combiner des lettres pour former des syllabes, à associer des syllabes pour 
+former des mots, à lire des mots familiers et des mots inventés, des phrases 
+et des textes de façon fluide et à s’essayer à trouver le sens des mots et  
+des phrases qui sont lus.
+
+La démarche préconisée recommande fortement de :
+- Utiliser régulièrement le livret pour dérouler toutes les activités de lecture 
+
+en classe ;
+- Amener l’élève à pointer du doigt l’objet à lire pendant au moins six secondes en 
+
+lui accordant toute son attention ;
+- Amener l’élève à lire à haute voix tous les jours les contenus présentés.
+
+Outil indispensable à la classe, ce livret est un intrant de qualité pour aider les élèves 
+à développer, avec un minimum d’assistance, leurs compétences en lecture.
+
+
+
+VNjàng - Téere kalaas - CI V
+
+Table des matières
+Alphabet illustré …………………………………………………………………………………………………………………………………………………………………VI
+
+Tableaux de l’alphabet, Syllabes à l’oral, Monde de l’écrit…………………………………………………………… X 
+
+Semaine 1 : Leçons 1, 2 et Leçon 3 (Révision) ……………………………………………………………………………………….......1
+
+Semaine 2  : Leçons 4, 5 et Leçon 6 (Révision) ……………………………………………………………………………………….... 4
+
+Semaine 3  : Leçons 7, 8 et Leçon 9 (Révision) ……………………………………………………………………………………….......7
+
+Semaine 4  : Leçons 10, 11 et Leçon 12 (Révision) ……………………………………………………………………………….. 10 
+
+Semaine 5  : Leçons 13, 14 et Leçon 15 (Révision) ……………………………………………………………………………… 13 
+
+Semaine 6  : Leçons 16, 17 et Leçon 18 (Révision) ………………………………………………………………………………19
+
+Semaine 7 : Leçons 19, 20 et Leçon 21 (Révision) ……………………………………………………………………………….. 28
+
+Semaine 8  : Leçons 22, 23 et Leçon 24 (Révision) ……………………………………………………………………………….. 38
+
+Semaine 9 : Leçons 25 et Leçon 26 (Intégration 1) …………………………………………………………….................  49
+
+Semaine 10  : Leçons 27, 28 et Leçon 29 (Révision) ………………………………………………………………………........56
+
+Semaine 11  : Leçons 30, 31 et Leçon 32 (Révision) …………………………………………………………………….….… 70
+
+Semaine 12 : Leçons 33, 34 et Leçon 35 (Révision) ……………………………………………………………………….…... 82
+
+Semaine 13  : Leçons 36, 37 et Leçon 38 (Révision) ……………………………………………………………………………96
+
+Semaine 14  : Leçons 39, 40 et Leçon 41 (Révision) …………………………………………………………….………….110
+
+Semaine 15  : Leçons 42, 43 (Intégration 2) ………………………………………………………………………………………..124
+
+Semaine 16  : Leçon 44 (Révision générale), Leçon 45 et Leçon 46 (Révision) …….....131
+
+Semaine 17  : Leçons 47, 48 et Leçon 49 (Révision) …………………………………………………………………………146
+
+Semaine 18  : Leçons 50, 51 et Leçon 52 (Révision) …………………………………………………………………………164
+
+Semaine 19 : Leçons 53, 54 et Leçon 55 (Révision) ………………………………………………………………………….. 182
+
+Semaine 20 : Leçons 56 et Leçon 57 (Intégration 3) : ………………………………………………………………… 206
+
+Textes de fluidité : Leçons 58 à 69.................................................…...………………………………………………………………210
+
+Semaine 25 : Leçon 70 (Intégration 4) ……………………………………………………………………………………………………...222
+
+
+
+VI Njàng - Téere kalaas - CIVI Njàng - Téere kalaas - CI
+
+f
+foto
+
+F
+
+a A
+anaanaas
+
+b
+bal
+
+B
+
+c C
+caabi
+
+d
+daba
+
+D
+
+e E
+ekool
+
+ë Ë
+lëg
+
+Abajada wolof Abajada wolof
+
+
+
+VIINjàng - Téere kalaas - CI VIINjàng - Téere kalaas - CI
+
+n N
+nafa
+
+g G
+gaal
+
+i I
+dibi
+
+j J
+jën
+
+k K
+kaani
+
+l
+lal
+
+L M
+
+mala
+
+m
+
+Abajada wolof Abajada wolof
+
+
+
+s S
+satala
+
+ñ Ñ
+ñey
+
+ŋ Ŋ
+ŋàdd
+
+o
+oto
+
+O p
+paan
+
+P
+
+q Q
+caq
+
+R
+
+riit i
+
+r
+
+Abajada wolof Abajada wolof
+
+
+
+26
+
+t
+tama
+
+T u U
+ubbi
+
+w W
+wali is
+
+x X
+xar
+
+y Y
+yoo
+
+Abajada wolof Abajada wolof
+
+
+
+X Njàng - Téere kalaas - CIX Njàng - Téere kalaas - CI
+
+a b c d e ë
+
+f g h i j
+
+k l m n ñ ŋ
+
+o p q r s
+
+t u w x y
+
+
+
+XINjàng - Téere kalaas - CI
+
+26
+
+XINjàng - Téere kalaas - CI
+
+A B C D E Ë
+
+F G H I J
+
+K L M N Ñ Ŋ
+
+O P Q R S
+
+T U W X Y
+
+
+
+XII Njàng - Téere kalaas - CI
+
+
+
+XIIINjàng - Téere kalaas - CI
+
+Dem na.
+
+Sunu ekool dafa rafet.
+
+Togg naa laax.
+
+Gaawal dem.
+
+Isaa dafay dawal sareet.
+
+
+
+XIV Njàng - Téere kalaas - CI
+
+Ca ekool ba.
+
+Baaba dem na ekool.
+Gis na fa Daba.
+
+Ñu ngi foo ñoom ñaar.
+Kontaan nañu bu baax.
+Ñu woo leen ñu duggaat. 
+ 
+Ba ñu wàccee ñibbi nañu.
+Fekk fa seen ñaari waajur.
+Nettali leen lañu def ekool.
+
+
+
+1Njàng - Téere kalaas - CI
+
+26
+
+a b a a b a a b
+a b b a b a b b
+a b b b a a a b
+b a b a b a b b
+a b a a b b a a
+a b a b a b a a
+a b a a b a b b
+b a b a a b a b
+
+1
+a   b  
+
+
+
+2 Njàng - Téere kalaas - CI
+
+a b a a b a b b
+a a b b a b a b
+
+c d   e   b c e a c
+c d e d e c a b
+c d e b c d e a
+d a c d e b e c
+c d e c b d a e
+e c d b c e d a
+c d e a b c e d
+a c d b e d c e
+
+2
+c   d   e  
+
+
+
+3Njàng - Téere kalaas - CI
+
+26
+
+33
+
+a d c e b c a d
+d e a b c d b e
+d a e b c d e a
+c b a d e b c e
+e d c a b e d a
+b a d e c d a b
+b e c d a e d c
+c b a d c e b a
+
+3
+a   b   c   d   e 
+
+
+
+4 Njàng - Téere kalaas - CI
+
+c d e d a e b c
+c c d d e e b a
+
+ë f g c f g ë b
+ë b f d g ë f g
+ë f g f c ë a g
+f a ë d g f c ë
+ë f g a f b ë g
+g  c f g a ë f a
+ë f g b a ë g f
+g b c g ë d a f
+
+4
+ë   f   g  
+
+
+
+5Njàng - Téere kalaas - CI
+
+26
+
+h i j c i a h j
+b h i j f j i h
+h i j b j e i h
+i a j h b h j i
+h i j g i d h j
+j h b j a i g h
+h i j b i h a j
+ë h    f i g j b c
+
+5
+h   i   j
+
+ë a b g c f b e
+d f c ë d e a g
+
+
+
+6 Njàng - Téere kalaas - CI
+
+ë f g h i j b a
+f ë h j i g c d
+g i f ë h f e ë
+i h g f b h i j
+j f i g h ë a c
+h i g d ë j a f
+ë g b h j i d e
+g a j b c f ë h
+
+6
+ë   f   g   h   i   j  
+
+
+
+7Njàng - Téere kalaas - CI
+
+26
+
+g d ë f h e i   j 
+j i d h g e f ë
+
+k l   m  j l m h k
+k h l f m l k ë
+k l m i k g l m
+l d k c k m f l
+k l m f m l k ë
+j m l k l m f k
+k l m e l k m d
+c ë k f l g m c
+
+7
+k   l   m
+
+
+
+8 Njàng - Téere kalaas - CI8
+
+k l m f h e i j 
+g m d ë k e c l
+
+n ñ  m j l ñ k n
+ñ n a ñ o n f ë
+n ñ i n h g ñ m
+ñ d ñ n k d f ñ
+n ñ ë f ñ a c n
+n m ñ b n i ñ e
+n ñ d e n j b ñ
+ñ a k n l  ñ c n
+
+8
+n    ñ  
+
+
+
+9Njàng - Téere kalaas - CI
+
+26
+
+k l m n ñ a h i
+l ñ ë k d m e ñ
+ñ k a l ë n c d
+n l e k m ñ b i
+m j k ñ g f n a
+h g i f n j k ñ
+j l n a k h ñ ë
+i m ñ g l e n h
+
+9
+k   l   m   n    ñ
+
+
+
+10 Njàng - Téere kalaas - CI
+
+n l j k ñ h i m 
+ñ f e d g b n ë
+
+ŋ o   p   m o ŋ p n
+ŋ p o b p p o ŋ
+ŋ o p ñ o k p ŋ
+o d p k ŋ ŋ p ñ
+ŋ o p l ŋ p j o
+p o ŋ m o n ŋ p
+ŋ o p h o p ŋ ë
+ŋ i p f p h c b
+
+10
+ŋ   o   p  
+
+
+
+11Njàng - Téere kalaas - CI
+
+26
+
+ŋ k o n h p ñ   l
+n i ŋ    j   o ñ p m
+
+q r s   t s r t q
+q t r s q s r t
+q r s t q t s r
+r a t s a q r s
+q r s t r s q t
+s q t r q t r s
+q r s t s q r t
+t s q r t s q r
+
+11
+q    r    s    t
+
+
+
+12 Njàng - Téere kalaas - CI
+
+ŋ o p q r s a t
+o r t q s ŋ k p
+r p q ŋ t o s l
+t o r m p q ŋ s
+q s p ñ r t n ŋ
+s t ŋ ë o o n a
+p q r o b ŋ s t
+ŋ o t c r s p q
+
+12
+ŋ   o   p   q    r    s    t  
+
+
+
+13Njàng - Téere kalaas - CI
+
+26
+
+13
+
+t   u   w   l  
+
+ŋ p d e h r ñ l
+q k t j o g p m
+a r n q b i s ŋ
+
+t u  w t r w u q
+w t u w o u ŋ t
+t u  w s u j w t
+m t u w k t u  w
+t u  w u w o t s
+i t u w n w u t
+t u  w ñ w q t u
+j t k w u t u w
+
+13
+
+
+
+14 Njàng - Téere kalaas - CI
+
+ l    L     lal
+
+la li lu la li lu la li lu la
+
+l i li
+l a la
+l o lo
+u l ul
+a l al
+
+l e le
+l u lu
+l ë lë
+i l il
+o l ol
+
+lo le la lu li lë
+el al il ël ul ol
+lë lo le lu la li
+al il ol ël ul el
+lu lë li le lo la
+ul il al ol el al
+
+13
+
+l
+L
+
+
+
+15Njàng - Téere kalaas - CI
+
+26
+
+x  y   b
+
+e k o n b p ñ l
+n t a j  w ñ p m
+d i h u t o d ŋ
+
+x y t y x u y x
+y x k n y m x l
+x y x w y t x y
+r x s y p y o x
+x y u y x x y t
+q t x m y ñ y x
+x y x x t y y w
+u l y k x m x y
+
+14
+
+
+
+16 Njàng - Téere kalaas - CI
+
+ b  B  bal
+
+b e be
+b a ba
+b o bo
+a b ab
+o b ob
+
+b u bu
+b i bi
+b e be
+u b ub
+i b ib
+
+lo le la lu li lo
+al ul il el ol al
+lu li le lo la li
+ul al ol il el ul
+le lo lu la li lo
+al ul el il ol el
+
+14
+
+
+
+17Njàng - Téere kalaas - CI
+
+26
+
+17Njàng - Téere kalaas - CI
+
+bo be ba bu bi bo
+ab ub ib eb ob ab
+bu bi be bo ba bi
+ub ab ob ib eb eb
+be ba bi bo bu bo
+ab ub ab ub ub ub
+bo be ba bu bi ba
+ab ub ib eb ob ob
+
+ba bi bu ab ub bi ab bu ba ab
+la li lu la li la li la lu li
+
+14
+
+b
+B
+
+
+
+18 Njàng - Téere kalaas - CI
+
+lo li bu ba be le la bo
+ol il ub ab eb el al ob
+ul al ab el ob ib ol il
+lu la ba  le bo bi lo ba
+ba bi lu ub la le bi ol
+la ob li  lo ab lo be ba
+
+li bu  lu  ba la bi
+bu ab la lu ub li
+
+t u w x y k n j
+r m y j p t w q
+t u w x y b g c
+y t s h u w x a
+
+15
+t   u   w   x   y   l   b
+
+
+
+19Njàng - Téere kalaas - CI
+
+26
+
+   C O P S W U X K  m
+
+c C o O p P s S
+u U w W x X k K  
+
+ŋ p d e h r ñ l
+q k t j o g p m
+a r n q b i s ŋ
+
+16
+
+C O P S U W X K
+
+P C O S K W U X
+K U S W C X O P
+W X S U C K P O
+U P C W S K O X
+S W O C P X K U
+K C W S U O X P
+
+
+
+20 Njàng - Téere kalaas - CI
+
+ m  M  mala
+
+m o mo
+m i mi
+m a ma
+
+m e me
+m u mu
+m ë më
+
+m u mu
+o m om
+ë m ëm
+
+m a ma
+e m em
+i m im
+
+be ob bi ba eb ab
+bu bë ol lu la ël
+bo ib ub ëb bu ab
+ba be lo ul li al
+eb bi bu be ob ëb
+ab bo le il lë el
+
+16
+
+
+
+21Njàng - Téere kalaas - CI
+
+26
+
+me ma mu më mi mo
+eb al ub ol ib ël
+ma mi mo me më mu
+ab el ob il ëb ol 
+mo me mi mu ma më
+ol ib ël ab el ub 
+më mu ma mo me mi
+ol ab ob ël ub el 
+
+am ma mu mi
+mi li ma um
+om mi mu ab
+um ba mo mu
+om um mo mu
+la mi am mi
+
+mu ma la lu
+bi mi bu ma
+
+16
+
+m    M
+ma  om
+
+
+
+22 Njàng - Téere kalaas - CI
+
+ A  B  D   d
+
+W P C O S K U X
+K S U P X O C W
+X U S K O W P C
+
+r P s S t C q O
+W y U q X x K u
+t S r O q P s C
+K w O r W s U x
+q P t W s O r U
+C x S y P s K q
+s S r F q O t C
+K u W q S t C w
+
+17
+
+
+
+23Njàng - Téere kalaas - CI
+
+26
+
+a A   b B  d D
+
+B D A B A D A B
+S B P D O C U A
+A D B D A B A D
+W D K B X A U C
+D A B A D B D A
+D P W S A K O B
+
+17
+
+A B D B A D B A
+
+
+
+24 Njàng - Téere kalaas - CI
+
+me am mo mi um em
+ëm om ma më im mu
+om um më mi am ëm
+me im bu ba ab bë
+mi am më um me om
+ma ëm al le ul lë
+
+ d  D  daba
+
+d u du
+d a da
+d e de
+
+d i di
+d ë dë
+d o do
+
+ë d ëd
+o d od
+a d ad
+
+u d ud
+i d id
+e d ed
+
+17
+
+
+
+25Njàng - Téere kalaas - CI
+
+26
+
+do de di dë du da
+om ab em il ub ël
+de da dë du do di
+ëb um el ab ol im
+di dë du da de do
+al ëm ob ul em ib 
+da di do dë du de
+eb am ël ub om il 
+
+du de di da
+li am de lu
+bi du da di
+am da lu de
+ab mo du la
+la bi am do
+du ma la mu
+ba lu de da
+
+17
+
+d     D
+de   ud
+
+
+
+26 Njàng - Téere kalaas - CI
+
+l U i C m P d W
+A ë K l D a O b
+u W b O i C m K
+D e X d S b P u
+m A o S l B e C
+C m K a P u W d
+b D u S e A m B
+
+ab il la ba ul be lu bo
+bë bi ob lu eb el le bu
+lu me um le mo ol ma bi
+
+am la mi më bo mu em ba
+ba ma lu am la me bi ol
+um ob li om ab lo be mo
+bu al ub mi le bu bo lë
+
+18
+C O P S W U X K A  B  D m d
+
+
+
+27Njàng - Téere kalaas - CI
+
+2618
+
+am da mu du
+bu ab la lu
+de om ma em
+mi di em ub
+bu li mu bi
+um di mo du
+
+
+
+28 Njàng - Téere kalaas - CI
+
+ E   I   N   t 
+
+B A D A D B B A
+A D B D B D A B
+D A B A B D A D
+
+ŋ B o A B D p A
+D w A ŋ B s o t
+p D p B o A ŋ B
+B s D u A q ñ o
+o A p D ŋ B A D
+A ŋ B u D p y o
+p B D A ŋ D o B
+A ŋ D r B s ñ P
+
+19
+
+
+
+29Njàng - Téere kalaas - CI
+
+26
+e E   i I  n N     
+
+19
+
+C U N P E S I W
+N E I N I N E N
+K N X E P I S O
+I N E N E N I E
+
+W E P I N D X C
+N I N I E N E I
+
+E N I N E I N N
+
+
+
+30 Njàng - Téere kalaas - CI
+
+ t  T  tama
+
+t e te
+t i ti
+t a ta
+
+t u tu
+t o to
+t ë të
+
+t o to
+ë t ët
+u t ut
+
+t i ti
+e t et
+a t at
+
+da du ed di od dë
+ëd ad mi eb al ma
+de id dë du do ud
+ed ëd am ol bë le
+di od da ed bë du
+ad du el ob ëm ba
+
+19
+
+
+
+31Njàng - Téere kalaas - CI
+
+26
+
+te të tu ta ti to
+ed om ab il ëd ël
+ta ti to tu te të
+ob ul am ib el ëd
+të to ta te ti tu
+al od im ëb ul te 
+to te të ta tu ti
+am ub il eb ëd om 
+
+19
+
+te am të mo
+li ta bi du
+bu ut de at
+ta të la mi
+it at të it
+ba mu bi ab
+ma bu mi lu
+le te ta ma
+t     T
+të    it
+
+
+
+32 Njàng - Téere kalaas - CI
+
+ F   G   H    f    
+
+E I N I E N E N
+I N E N I E I E
+N E I E N I E N
+
+l E m N n I ñ N
+I t N u E p r w
+t I l E ñ N m E
+N x E y I ŋ o s
+n E m I ñ N l I
+E w N ŋ I u p o
+ñ E l n m N I E
+I j E g N i ŋ k
+
+20
+
+
+
+33Njàng - Téere kalaas - CI
+
+26
+f F   g G  h H          
+
+20
+
+F G H G H F H G
+U F C H A W G P
+H G F G F H G H
+D O G E H I Ŋ F
+G H F F H G H B
+E X F K G U W H
+F H G H G F G H
+H F D O P A G B
+
+F G H G F H F G
+
+
+
+34 Njàng - Téere kalaas - CI
+
+f e fe
+f a fa
+f i fi
+
+f o fo
+f u fu
+f e fe
+
+f u fu
+e f ef
+o f of
+
+f i fi
+a f af
+ë f ëf
+
+f  F  foto
+
+te ta ut ot ti ët
+mo et de um to bi
+të at lu to it at
+ot ët da ëm bo di
+tu it te at të to
+it tu ëd lë lo bu
+
+20
+
+
+
+35Njàng - Téere kalaas - CI
+
+26
+
+fe fa fi fu fo fë
+af of ef if ëf uf 
+fa fu fe fo fi fa
+if of af ub ef uf 
+fo fa fi fe fu fi
+uf ef of af if od 
+fe fo fi fa fë fu
+ot ef im af uf ëf
+
+fo fa fu fi
+du ma li ba
+te am lu di
+la fi mi at
+fu fo ëf fi
+ma ab tu mu
+të lu fa de
+fi bi ma fo
+
+20
+
+f      F
+fu    af
+
+
+
+36 Njàng - Téere kalaas - CI
+
+ta du ef di od dë to lo
+bë fi ma mo et um le tu
+ta ti tu of te ët it to
+am do fa më bo fu em ad
+ot fë mi to al ta fo ut
+ed lo ti de da it od dë
+mu tu du fe ët bu do ub
+
+E l N o C b W i
+u P e S l X m B
+D t E f N u E K
+e I l N b S d E
+N o E f W m B l
+m D t I ë N f A
+S u O m C d P t
+
+21
+E  I  N  F  G  H  t  f
+
+
+
+37Njàng - Téere kalaas - CI
+
+2621
+
+fo da it ma
+em fi at fu
+de um di te
+du uf mu mi
+am af ta mo
+do ut të fa
+
+
+
+38 Njàng - Téere kalaas - CI
+
+ Ë   J   Ñ 
+
+F G H G F H G H
+H F G H G F G H
+G H F G H G F G
+
+i F k G h j H F
+H ñ p F b k h i
+k H j F h G i H
+g ŋ F w H c j y
+i G h k H F j H
+l s H m G i F e
+a F K O d F h f
+u w H x G t r q
+
+22
+
+
+
+39Njàng - Téere kalaas - CI
+
+26
+ë Ë   j J  ñ Ñ         
+
+22
+
+Ë J Ñ J Ñ Ë J Ñ
+G Ñ I Ë N J F H
+Ñ Ë J Ë Ñ J Ë Ñ
+F W Ñ H P J C Ë
+J Ñ Ë J Ë Ñ Ë J
+K J N U Ë F P Ñ
+Ñ J Ë J Ñ Ë J Ñ
+C Ñ P D J Ë X K
+
+Ë J Ñ J Ñ Ë J Ñ
+
+
+
+40 Njàng - Téere kalaas - CI
+
+u ni uni
+bi ti biti
+de fa defa
+më nu mënu
+o to oto
+
+du ma duma
+fa ti fati
+fo to foto
+
+ma na mana
+da ba daba
+fa le fale
+bu mu bumu
+mo tu motu
+ni ti niti
+da mu damu
+fu mu fumu
+
+22
+
+
+
+41Njàng - Téere kalaas - CI
+
+26
+
+da foti bëte limu
+mete abi ba dama
+mile fabu matu lebu
+falu lu bala tala
+di tële li nabi
+
+rote madu moto mata
+mido bobi libi amu
+tami am fobu bëtu
+
+22
+
+
+
+42 Njàng - Téere kalaas - CI
+
+   L   M   Q    n    c
+
+Ë J Ñ J Ë Ñ J Ë
+Ñ Ë J Ë Ñ J Ñ J
+J Ñ Ë Ñ J Ë Ë Ñ
+
+e Ë f g h J Ë Ñ
+J m Ñ l Ë u ii o
+f Ñ g J h Ë e ë
+Ë t J p Ñ f r ë
+g Ñ h e J Ë ë f
+u i J r Ë m Ñ t
+e Ñ ë J f Ë g h
+J d e t Ë b g Ñ
+
+23
+
+
+
+43Njàng - Téere kalaas - CI
+
+26
+l L  m M q Q         
+
+23
+
+L Q M Q M L L Q
+H Ñ Q I L W M N
+Q M L M Q L M Q
+U L J B M Ñ Q Ë
+M Q L Q L M Q M
+Ñ M Ë L J P M K
+L M Q Q M L M Q
+Q D M U Ë B L P
+
+L M Q M Q L Q M
+
+
+
+44 Njàng - Téere kalaas - CI
+
+n u nu
+n o no
+n i ni
+
+n ë në
+n a na
+n e ne
+
+n o no
+u n un
+e n en
+
+n u nu
+ë n ën
+i n in
+
+n  N  nafa
+
+fi fa fu af
+te fi af du
+
+fo ba fu fi
+fu ëf af ut
+af fi fo ëf
+fa ta fo fa
+
+23
+
+
+
+45Njàng - Téere kalaas - CI
+
+26
+
+c u cu
+c a ca
+c i ci
+
+c o co
+c i ci
+c ë cë
+
+c o co
+e c ec
+i c ic
+
+c u cu
+a c ac
+ë c ëc
+
+c  C  caabi
+
+da ni dani
+na ba naba
+ca tu catu
+na nu nanu
+ni ti niti
+co lu colu
+dë nu dënu
+ca ba caba
+
+ca tu catu
+to no tono
+di ne dine
+na fa nafa
+ma nu manu
+ne te nete
+më nu mënu
+co mo como
+
+23
+
+
+
+46 Njàng - Téere kalaas - CI
+
+tinu fani nite catu
+nale dina nala nana
+colo catu como dani
+caba ana mëne cane
+ane tane coli tine
+
+como nafa nenu aca
+tani cati manu nafi
+nafi neni cofe colu
+
+23
+
+cc
+cu   ac
+
+n     N
+nu   an
+
+
+
+47Njàng - Téere kalaas - CI
+
+26
+
+da du ed di od dë do lo
+bë bi ma mo eb um le bu
+ta ti tu ot te ët it to
+am do mi më bo mu em ad
+ot lë mi to al ta bo ut
+
+a C d E X b S ë
+N f O b A c W d
+A c E n P m B l
+a D f B b C ë N
+A c E t O e D ë
+f X c K a W t A
+B d E i N a I f
+
+24
+E  J  Ñ  L  M  Q  c  n
+
+ed lo ti de da it od dë
+mu tu du te ët bu do ub
+
+
+
+48 Njàng - Téere kalaas - CI48 Njàng - Téere kalaas - CI48 Njàng - Téere kalaas - CI4848
+
+24
+
+fo danu mati ame
+tem fi at fu
+de um di te
+du uf mu mi
+
+fam af ta mo
+do ut të fa
+
+
+
+49Njàng - Téere kalaas - CI
+
+26
+
+49Njàng - Téere kalaas - CI 49Njàng - Téere kalaas - CI 494949
+
+ Ŋ    R    T    Y    k    r  
+L Q L M Q L M Q
+M L Q L M Q L M
+Q M L Q L M Q L
+
+Q a L ë M c L d
+a M d Q o L k p
+d M c L a Q b M
+Q s b M Ŋ c L j
+d Q b M a Q c L
+M a L d Q ë f s
+i L c Q b M a M
+L b Q a M n t c
+
+25
+
+
+
+50 Njàng - Téere kalaas - CI
+
+ŋ Ŋ   r R  t T     y Y       
+25
+
+Ŋ Y R Ŋ Y T R T
+T J Y G I Ŋ U R
+Ŋ R Y T R Ŋ T Y
+Y N H R Ŋ S Ë T
+T Y Ŋ R Ŋ Y T R
+R Ŋ E O T A Y K
+Ŋ R Y T Y Ŋ R T
+T B Ŋ W R P Y H
+
+R Ŋ Y T Y Ŋ R T
+
+
+
+51Njàng - Téere kalaas - CI
+
+26
+
+naba cane catu dënu
+cinu tono fati fabi
+
+tinu cate tane nafa
+colu nabu cofe mëne
+nite como caba nanu
+ana banu nabi aca
+
+k o ko
+k e ke
+k a ka
+
+k i ki
+k u ku
+k ë kë
+
+k i ki
+ë k ëk
+o k ok
+
+k e ke
+a k ak
+i k ik
+
+k  K  kafe
+
+25
+
+
+
+52 Njàng - Téere kalaas - CI
+
+ka ro karo
+ra ma rama
+ki lo kilo
+ba re bare
+ca ku caku
+al ku alku
+lo ke loke
+bo ri bori
+
+la re lare
+ke be kebe
+ro nu ronu
+ko lu kolu
+ra ki raki
+ku ti kuti
+ni ru niru
+ko ri kori
+
+25
+
+r i ri
+r a ra
+r ë rë
+
+r o ro
+r e re
+r u ru
+
+r o ro
+ë r ër
+i r ir
+
+r a ra
+u r ur
+e r er
+
+r  R  rato
+
+
+
+53Njàng - Téere kalaas - CI
+
+2625
+
+bari raki loke kuti
+kare ru rabu keri
+rabi kenu kafe kari
+
+kari naka ak niru
+niru caku rama këru
+ko kenu tari kori
+
+bari loke lare niki
+caku kolu kenu rato
+
+r      R
+
+rato
+ru    ër
+
+k     K
+
+kafe
+ko   ak
+
+
+
+54 Njàng - Téere kalaas - CI54 Njàng - Téere kalaas - CI
+
+n O D t R k X K
+A n a E I N o m
+E m L b c d Q e
+i B f u n x W C
+r s S n o p l n
+C B a U t F e ë
+g P b J n r n ñ
+
+le fo lë me te de
+lo ët al du at ni
+ub em il ba të fi
+it li al de bë ma
+mi bo be bi ën ko
+
+26
+l a o e u i ë b m d t f n c k r       
+
+
+
+55Njàng - Téere kalaas - CI
+
+26
+
+55Njàng - Téere kalaas - CI
+
+ma im do am ca mu
+ce fa lu di bi oc
+ël bu om fu ci ëm
+
+bani ana bato cate futi
+aca milo nite nitu cofe
+tinu calu tati cinu nabu
+koti tono colu cole fote
+tane naba ruka bori como
+cane dënu alku banu këru
+nanu badu fati labe lato
+beno catu kima mëne kare
+
+26
+
+
+
+56 Njàng - Téere kalaas - CI
+
+aa   ee   ii    oo   uu
+caku nite kafe cate
+mëne kuti aca tari
+naka como niru tani
+
+b aa baa
+k aa kaa
+f aa faa
+
+aa r aar
+aa l aal
+
+b ee bee
+l ee lee
+k ee kee
+
+ee f eef
+ee t eet
+
+m aa maa
+c aa caa
+n aa naa
+aa t aat
+aa d aad
+
+m ee mee
+t ee tee
+r ee ree
+
+ee n een
+ee d eed
+
+aa  Aa  kaani
+
+ ee   Ee  leel
+
+27
+
+
+
+57Njàng - Téere kalaas - CI
+
+26
+
+k ii kii
+n ii nii
+c ii cii
+ii l iil
+ii m iim
+
+m oo moo
+d oo doo
+l oo loo
+
+oo c ooc
+oo r oor
+
+t uu tuu
+d uu duu
+m uu muu
+uu r uur
+uu b uub
+
+t ii tii
+f ii fii
+b ii bii
+ii d iid
+ii r iir
+
+f oo foo
+n oo noo
+b oo boo
+
+oo k ook
+oo t oot
+
+l uu luu
+f uu fuu
+l uu luu
+
+uu k uuk
+uu c uuc
+
+ ii   Ii  riiti
+
+ oo  Oo  ekool
+
+ uu  Uu  kuur
+
+27
+
+
+
+58 Njàng - Téere kalaas - CI
+
+bee nu beenu
+daa ne daane
+de moo demoo
+dii ne diine
+caa bi caabi
+doo le doole
+taa li taali
+cuu ne cuune
+
+uu de uude
+ta foo tafoo
+aa le aale
+
+boo ba booba
+too maa toomaa
+taa mu taamu
+tuu ti tuuti
+nii tu niitu
+
+booba diine duudu naata
+niitu taali laata tafoo
+caabi naani tuuti teeru
+naana baaba noonu aana
+laalo doole miine toomaa
+
+27
+
+
+
+59Njàng - Téere kalaas - CI
+
+26
+
+cane dënu alku banu
+nanu badu fati labe
+beno catu maki mëne
+
+Caabi faatu la. 
+Ku boole Baaba ?
+Mami dafa taali. 
+Buuba diri na ko.
+Boolo am na naana.
+Foofa la faloo.                
+Aali dafa bari doole.
+
+27
+
+
+
+60 Njàng - Téere kalaas - CI
+
+Faatu fori na koko.                    
+Duudu noonu la ko defe.       
+Mari taali na oto ba.    
+Cere Mati am na laalo.
+Buuba Li dafa seeti Aana Ba.
+Bada am na moto bu rafet.
+Aale teeru na Faama ak Fifi.
+Kaasu kafe bi de dafa tuuti.
+
+27
+
+aa
+ee
+
+ii
+oo
+
+uu
+
+
+
+61Njàng - Téere kalaas - CI
+
+26
+
+s    x
+
+foofa tari tuuru kari
+riiti këru niki naani
+
+laalo Caane taamu niru
+
+s u su
+s ë së
+s i si
+
+uu s uus
+ii s iis
+
+s ee see
+s aa saa
+s oo soo
+o s os
+a s as
+
+ s   S   saabu
+
+28
+
+
+
+62 Njàng - Téere kalaas - CI
+
+x u xu
+x ë xë
+x oo xoo
+
+uu x uux
+ë x ëx
+
+x ee xee
+x a xa
+x ii xii
+o x ox
+ë x ëx
+
+ x   X   xaalis
+
+xa di xadi
+dë xë dëxë
+xa se xase
+soo da xooda
+xo si sosi
+sii di siidi
+
+buu se buuse
+tu xu tuxu
+
+sa li sali
+ta se tase
+
+soo se soose
+xa me xame
+lo xo loxo
+su ba suba
+si li sili
+
+ma xe maxe
+
+28
+
+
+
+63Njàng - Téere kalaas - CI
+
+26
+
+suba baxa tase xosi
+loxo Sooda doxi Siidi
+
+soose xase baase taxu
+xale suuli sooxe suuru
+
+Saane saxe xaali Xadi
+xeme seelu saaku basi
+texe kaso saatu toxu
+
+suuna taaxu Musaa solo
+
+28
+
+
+
+64 Njàng - Téere kalaas - CI
+
+Xadi dafa xiif.
+Saabu xeme la. 
+Xaali doxi na.
+Koko bi dafa saxe.
+Sooda dafa ame loxo. 
+Sofi toxu na fa.  
+Saagu Sali bi la.    
+Musaa Kebe bale na ko.
+Ami Si xosi na Siidi.
+Xale bi seeti na ko.
+Xuri mii ku taaru la.
+Satu Saane xale bu tuuti la.
+
+28
+
+
+
+65Njàng - Téere kalaas - CI
+
+26
+
+Siga male moo nu ko tere.
+Nee na ko bu mu xuloo.
+Toolu basi bii taaru na de.    
+
+28
+
+x     X
+
+xale
+xe   ax
+
+s     S
+
+suba
+si    as
+
+
+
+66 Njàng - Téere kalaas - CI
+
+s aa saa
+x oo xoo
+m aa maa
+oo s oos
+aa x aax
+
+b ii bii
+s uu suu
+x ee xee
+ii t iit
+
+uu l uul
+
+de du da ta të
+at ut it nite cate
+
+tani Nafi fabu Mati tele
+kori ronu rato able tame
+
+fuu foo lii aas xaa fee
+iit saa sii oot eek duu
+kii rii doo uuf laa mii
+aal fee baa tee coo kaa
+
+29
+aa  ee  ii  oo  uu  s  x
+
+
+
+67Njàng - Téere kalaas - CI
+
+26
+
+nii baa uum aar xii suu
+aak bii oos iir koo xii
+oor iic eef loo aax iib
+aaf eet doo xuu iin uum
+
+nuu ru nuuru
+de fee defee
+
+noo na noona
+laa fu laafu
+too kee tookee
+suu lu suulu
+xe lu xelu
+sii se Siise
+
+coo no coono
+xaa re xaare
+ma noo manoo
+saa bu saabu
+tee roo teeroo
+xa tu xatu 
+suu fe suufe
+xee bu xeebu
+
+29
+
+
+
+68 Njàng - Téere kalaas - CI68 Njàng - Téere kalaas - CI
+
+xoobe nuuru xiime Seeni
+tiite Liisas xoote dootu
+foofa danoo doole boote
+daadi baasi maase saaku
+roose kooraa tooke kaani
+
+naanee seetee tuuti muuse
+moomi dafee amoo caatu
+baase dinaa baalu suufu
+
+29
+
+
+
+69Njàng - Téere kalaas - CI
+
+26
+
+69Njàng - Téere kalaas - CI
+
+Xaalis am na solo.
+Dinaa seeti Faatu suba.
+Toolu Xadi bi dafa sori.
+Muusa Ba moo bari doole.
+Safi mu tuuti mi dafa taaru.
+Rooti fu sori bari na coono.   
+Defe naa doomu Liisas moo ko tuuri. 
+Xale bi am na seku bu tuuti.
+Nanu sori toolu Xaali bi dafa
+am tooke bi.
+Xaal bu cere bi laa taamu.
+
+29
+
+
+
+70 Njàng - Téere kalaas - CI70 Njàng - Téere kalaas - CI
+
+g     w
+
+ g   G   golo
+
+g ii gii
+g a ga
+g oo goo
+i g ig
+
+uu g uug
+
+g u gu
+g ë gë
+g ee gee
+o g og
+
+aa g aag
+
+diine loxo Xadi toxu
+suba xeme beenu saane
+saatu saxe foofa suuna
+
+30
+
+
+
+71Njàng - Téere kalaas - CI
+
+26
+
+ w   W   welo
+
+w a wa
+w uu wuu
+w o wo
+w ee wee
+ë w ëw
+
+w e we
+w ii wii
+w ë wë
+w aa waa
+u w uw
+
+wa ga waga
+do gu dogu
+go we gowe
+
+waa ru waaru
+gu bi gubi
+
+waa so waaso
+ga lo galo
+
+waa li waali
+
+guu ta guuta
+waa re waare
+gu ne gune
+fe gu fegu
+
+waa ne waane
+gaa wu gaawu
+woo te woote
+ga ne gane
+
+30
+
+
+
+72 Njàng - Téere kalaas - CI
+
+fegu watu guuta woli
+gome laago waali wuutu
+gise waga biige gane
+
+toogu galo wuute waaso
+gubi siwo dogu gëme
+gune waare diwu tege
+
+daagu dege gowe waane
+waaru woote xuuge gile
+
+Faatu woli na.
+Ana siwo bi ?
+Gisoo sama welo ?
+
+30
+
+
+
+73Njàng - Téere kalaas - CI
+
+26
+
+Gabi moo mage Woli at.
+Xale bi diwu na.
+Waali woowi na Ami.
+Gune gi dafa watu.
+Aali Wage am na golo.
+Maamu Wore uti na guro.
+Doomu Isaa dafa uti laalo.
+Saabu dina teree am waga.
+Toolu xaalu Aatu bi sori na.
+Dinaa gise ak sa goro suba.
+Muse Ba woo na xale bi.
+Toogu bee bu maamu Xadi la.
+
+30
+
+w       W
+
+welo
+wee   aw 
+
+g     G
+
+golo
+gu    ag
+
+
+
+74 Njàng - Téere kalaas - CI
+
+y     ñ
+
+y    Y    yoo
+
+y u yu
+y o yo
+y aa yaa
+
+ee y eey
+uu y uuy
+
+y ii yii
+y e ye
+y ë yë
+
+oo y ooy
+i y iy
+
+daagu saxe soose diwu
+xeme waali loxo laalo
+tege sooxe siwo saaku
+
+31
+
+
+
+75Njàng - Téere kalaas - CI
+
+26
+
+ ñ    Ñ    ñax
+
+ñ e ñe
+ñ aa ñaa
+ñ i ñi
+ñ o ño
+u ñ uñ
+
+ñ uu ñuu
+ñ oo ñoo
+ñ a ña
+ñ ee ñee
+a ñ añ
+
+ñe me ñeme
+ma ye maye
+ñaa ri ñaari
+la ye laye
+ño ri ñori
+yo ro Yoro
+ro ñu roñu
+yo re yore
+
+yoo te yoote
+ñaa ni ñaani
+yaa ma Yaama
+be ñe beñe
+aa ye aaye
+a ñe añe
+ya ru yaru
+la ñu lañu
+
+31
+
+
+
+76 Njàng - Téere kalaas - CI
+
+yoote añe ñori aaye
+ñeme laye Yoro roñu
+lañu ñaani yaru seeñu
+maye feyu dëñe ñawi
+foño beñe wuyu yetu
+kaña ñaari yore waaye
+raaya taaye roñu nañu
+feeñu yanu yaatu yabu
+
+Foño laa añe.
+Yuga dafa yaru.
+Nañu ñaani beñe.
+
+31
+
+
+
+77Njàng - Téere kalaas - CI
+
+26
+
+Saaña yeewu na teel.
+Yaama moo ko ñori.
+Faale mii lañu maye.
+Yoro ku ñeme la.
+Baayu Isaa ko aaye.
+Fa ñu toxu yaatu na
+Fii lañu gise kaña yi.
+Ñaari gone yee la woo.
+Woo naa ko mu wuyu ma.
+Nafi Ba moo yore kaye bi.
+Këru Baaba am na ab raaya.
+Yaayu Mati dina fi añsi suba.
+
+31
+
+ñ     Ñ
+
+ñeme
+ñoo  añ   
+
+y      Y
+
+yaru
+yii    ay
+
+
+
+78 Njàng - Téere kalaas - CI
+
+g a ga
+y o yo
+w e we
+a w aw
+e g eg
+
+w i wi
+ñ u ñu
+y a ya
+o y oy
+u ñ uñ
+
+sori tuuti moomi umu kori
+kolu basi footi Kati tapi
+Coro daba Badu moolu taale
+dalee sama tuli suufu ame
+
+ñi aw yu wo gi we
+ya yu ña gu yi guti
+
+yoo ga wuu go ñaa añ
+wi aaw yii ñoo ñee gii
+
+32
+g  w  y  ñ
+
+
+
+79Njàng - Téere kalaas - CI
+
+26
+
+aag ye ow uy ow ñii
+wa ya ga ña yo go
+ño wo waa yu ga eñ
+ey uw ey go wee aay
+
+gi se gise
+ya ya yaya
+
+gaa we gaawe
+ñaa ta ñaata
+wuu tu wuutu
+ka le kale
+lee wu leewu
+ñe me ñeme
+
+wa ne wane
+waa ye waaye
+gaa ñu gaañu
+yaa ba yaaba
+go lo golo
+we lo welo
+yaa tu yaatu
+ña gu ñagu
+
+32
+
+
+
+80 Njàng - Téere kalaas - CI
+
+yaatu woolu yaali maye
+aaye bayi gaañu nawe
+wara sowu watu siwo
+teewe feyu tayu waaye
+wuyu maye yeewu layu
+kaña yeeru dayo yelu
+layu ñaari googu nuyu
+dogu raaya yaru walu
+
+32
+
+
+
+81Njàng - Téere kalaas - CI
+
+26
+
+Xale bi dafa yaru.
+Golo gi dafa ñeme.
+Yaama am na ay kaye.
+Sunu muse moo ne nanu nuyoo.
+Abu dafa gaañu waaye xamu ko.
+Sunu dee fo danoo war a yaatu.
+Xale yi am nañu ñaari welo.
+Bi Musaa ñëwee, Bala moo ko teeru.
+Sunu gise bi danu koo war a teewe.
+Yaayaa moo wuutu Aali bi mu toogee.
+Dafa të, moo tax it xaañu na.
+Waasal yaabooy yi, te gaaw taal añ.
+
+32
+
+
+
+82 Njàng - Téere kalaas - CI
+
+j    ŋ
+
+j    J    jinax
+
+j e je
+j aal jaal
+j i ji
+a j aj
+ee j eej
+
+j o jo
+j ub jub
+j ë jë
+i j ij
+
+oo j ooj
+
+yoote ñaani gowe wore
+ñuule yoole waaru gise
+weri gune ñeme wuute
+
+33
+
+
+
+83Njàng - Téere kalaas - CI
+
+26
+ ŋ    Ŋ   ŋaaŋ
+
+ŋ i ŋi
+ŋ ar ŋar
+ŋ o ŋo
+e ŋ eŋ
+a ŋ aŋ
+
+ŋ u ŋu
+ŋ ëp ŋëp
+ŋ a ŋa
+u ŋ uŋ
+o ŋ oŋ
+
+da ŋar daŋar
+jaa si jaasi
+ja bar jabar
+
+ŋaa mu ŋaamu
+jo xe joxe
+jo ŋe joŋe
+
+jaa mu jaamu
+ŋoo si ŋoosi
+
+ŋa laab ŋalaab
+ra jo rajo
+ŋa reñ ŋareñ
+jii tu jiitu
+ŋe xal ŋexal
+je ge jege
+ju boo juboo
+ŋe bal ŋebal
+
+33
+
+
+
+84 Njàng - Téere kalaas - CI84 Njàng - Téere kalaas - CI
+
+ŋexal jote ŋoosi rajo
+ŋaam jaasi ŋar ŋeer
+jumaa ŋoos jege jiitu
+daŋar ŋebal jafal daje
+jaale jataŋ joŋe ŋalaab
+jaamu ŋaamu basaŋ jaayu
+jibi joxe juboo fajal
+ŋareñ falaŋ limoŋ jabar
+
+33
+
+
+
+85Njàng - Téere kalaas - CI
+
+26
+
+Jaan jii am na daŋar.
+Lalal ma basaŋ gi fale waay.
+Ñaŋa moo tax nu daje fi.
+Aana Ñaŋ taal na rajo bi.
+Jatu jafal na ko ba mu boy.
+Juma def na limoŋ ci jën yi.
+Kër gi mu tabax taaru na kaar.
+Dañoo jote woon daaw 
+waaye juboo nañu.
+Yeewu na fajar teel daldi 
+dem jumaa ja.
+
+Fas wi ŋexal na.
+Xale bi ŋaamu na de.
+Astu mii de moo joŋe.
+
+33
+
+
+
+86 Njàng - Téere kalaas - CI
+
+Li mu teg ci taal ji ŋeer na.
+Jinax yi ci kër gi lëjle nañu lool.
+Ku tabe dafay joxe ci li mu am.
+
+33
+
+ŋ        Ŋ
+
+ŋaaŋ
+ŋa      oŋ   
+
+j        J
+
+jinax
+jee    aj
+
+
+
+87Njàng - Téere kalaas - CI
+
+26
+
+87 Njàng - Téere kalaas - CI 87Njàng - Téere kalaas - CI
+
+p     q
+
+p    P    pañe
+
+p uu puu
+p a pa
+p o po
+ë p ëp
+i p ip
+
+p ot pot
+p u pu
+p ii pii
+a p ap
+e p ep
+
+ŋaamu juux daje baŋ
+jataŋ ŋiis joŋe limoŋ
+jaaru ŋas masoŋ cuuj
+
+34
+
+
+
+88 Njàng - Téere kalaas - CI
+
+ q       caq
+
+ë q ëq
+e q eq
+o q oq
+i q iq
+a q aq
+
+u q uq
+a q aq
+ë q ëq
+e q eq
+u q uq
+
+to qi toqi
+poñ se poñse
+ta qal taqal
+
+poo se poose
+së qal sëqal
+pë tëm pëtëm
+pu rux purux
+bu qat buqat
+
+pu no puno
+so qi soqi
+
+paa se paase
+së qët sëqët
+pu qus puqus
+cii pu ciipu
+su qi suqi
+pa taa pataa
+
+34
+
+
+
+89Njàng - Téere kalaas - CI
+
+26
+
+taqal poose yoqat pataa
+suqi puno puqus yuqi
+toqi ciipu sëqu sëqal
+peroŋ payis pëtëm poñse
+sëqat guqi muqi soqi
+fëq foq purux buqat
+naq paase pexe jeqi
+paaka pas peñe gëq
+
+34
+
+
+
+90 Njàng - Téere kalaas - CI
+
+Poos bi dafa fuq.
+Séq gi gëq na.
+Roqi mee moo ko taqal.
+Gune gi dafa ame payis.
+Paate ab buqat bu mag la.
+Waa ji moo gas pax mi.
+Mer moo tax Sali di ciipu.
+Demal peñe sa kawar gi dafa sëq.
+Xale yee ñoo doon pëtëm gerte gi.
+Aana paase na yére yi ba pare.
+Mati moo doon defar puno welo bi.
+Faatu dafay jeqi ceeb bi ci cin li.
+Puus na oto bi ba loxo yi toqi.
+
+34
+
+
+
+91Njàng - Téere kalaas - CI
+
+26
+
+Suqil ginaar gi te togg ko.
+Aatu dafa sëqal kawar gi ba mu sëq.
+
+34
+
+qQ
+caq
+
+pP
+pañe
+
+
+
+92 Njàng - Téere kalaas - CI92 Njàng - Téere kalaas - CI92 Njàng - Téere kalaas - CI
+
+j     ŋ     p     q
+
+j uu juu
+b eq beq
+ŋ iid ŋiid
+o j oj
+ë q ëq
+
+ŋ iid ŋiid
+p oo poo
+f iq fiq
+u ŋ uŋ
+ë p ëp
+
+juge paas jaŋ toqi ŋeb
+baqat jaŋe foqi jëfe sëqët
+goqi Jatu bërëŋ ruqe përëm
+waŋ doŋo jula bilaŋ falaŋ
+
+ju op baq jox doj iiq
+nip nuŋ paq puus cop ŋo
+poo ëj jaal leŋ deq toj
+woŋ cuj ŋod soj ñooj raŋ
+
+35
+
+
+
+93Njàng - Téere kalaas - CI
+
+26
+
+93Njàng - Téere kalaas - CI 93Njàng - Téere kalaas - CI 93Njàng - Téere kalaas - CI
+
+uuŋ po taq baq ŋos uq
+jif ŋi job liŋ pes fop
+
+aaq luq lëj maq jaam eeŋ
+biiŋ ŋel pal joŋ ŋob paan
+
+jo xoñ joxoñ
+ŋa lañ ŋalañ
+pe me peme
+taa ju taaju
+po set poset
+ba raj baraj
+më qal mëqal
+ŋe xal ŋexal
+
+to qu toqu
+ŋo yu ŋoyu
+pal to palto
+jaa si jaasi
+ŋë bal ŋëbal
+na qar naqar
+lu qi luqi
+fa jar fajar
+
+35
+
+
+
+94 Njàng - Téere kalaas - CI94 Njàng - Téere kalaas - CI
+
+ŋoyu joxoñ ŋalañ mëqal
+ŋexal puj baraj jaasi
+pasin ŋar jolu pare
+toqu naqar palto jay
+jasig ŋaam ŋaax fajar
+paan taaju poset naq
+luqi kaaŋ taqoo ŋeer
+
+parax peme jat pom
+
+35
+
+
+
+95Njàng - Téere kalaas - CI
+
+26
+
+95Njàng - Téere kalaas - CI
+
+Ja bi bari na jay.
+Aana moo ko luqi.
+Jatu taaj na siwo bi.
+Sala joxoñ na ko ekool ba.
+Paan bu wert bi daanu na toj.
+Doomu Astu mu mag dafa ŋas lool.
+Paate lëlu na ci biir puqus bi.
+Dafa dox ba ni dagaj ci pax mi.
+Sa fas wi bari na lu muy ŋexal.
+Golo gi këf na pom bi daldi daw.
+Gan yi agsi nañu waaye dañoo guddee.
+
+Waxal Ñaŋa mu fab tuq si te dëbb laaj.
+
+35
+
+
+
+96 Njàng - Téere kalaas - CI
+
+kk     gg     mm
+
+kk    bakkan
+
+a kk akk
+ë kk ëkk
+i kk ikk
+o kk okk
+e kk ekk
+
+o kk okk
+u kk ukk
+e kk ekk
+a kk akk
+ë kk ëkk
+
+ŋas jaaru ŋosi ŋoos
+per puso pey soq
+
+poset ŋaam toqi peese
+
+36
+
+
+
+97Njàng - Téere kalaas - CI
+
+26
+gg        segg
+
+a gg agg
+i gg igg
+o gg ogg
+e gg egg
+u gg ugg
+
+e gg egg
+u gg ugg
+ë gg ëgg
+a gg agg
+i gg igg
+
+mm     gëmm
+
+a mm amm
+e mm emm
+o mm omm
+i mm imm
+ë mm ëmm
+
+i mm imm
+u mm umm
+ë mm ëmm
+o mm omm
+a mm amm
+
+36
+
+
+
+98 Njàng - Téere kalaas - CI
+
+jog gi joggi
+sek ki sekki
+buk ki bukki
+sëk ku sëkku
+lem mi lemmi
+teg gin teggin
+nek kin nekkin
+tog gi toggi
+
+feg gu feggu
+bum mi bummi
+jik ko jikko
+tak kal takkal
+dig gu diggu
+fek ke fekke
+
+wom mi wommi
+sum mi summi
+
+sekki feggu jikko sëkku
+takkal jëmmal yokku toggi
+dëggu lekk teggin fekki
+joggi feggu toggal bummi
+
+wommat laggal dammu nokki
+diggu bokk fekke lemmi
+
+36
+
+
+
+99Njàng - Téere kalaas - CI
+
+26
+
+tëggal wommat raggu tekki
+takku bukki bëgg nekkin
+
+Jaari togg na cere.
+Doomu buur mooy bummi.
+Sama nijaay moo ko fekke.
+Bëgg naa lekk ceebu jën.
+Maalaŋ Sekk nit ku dëggu la.
+Yokkal ma soow ci laax bi.
+Demal lemmil ma basaŋ gee lale.
+Kuy tukki war na teel a yeewu.
+Seen nekkin ci dëkk bi jekkul dara.
+
+36
+
+
+
+100 Njàng - Téere kalaas - CI100 Njàng - Téere kalaas - CI
+
+Dama namm maafe toggal ma
+ko suba.
+Aali fajal na ko loxo bi dammu.
+Dafa doon daw moo tax muy
+nokki rekk.
+Tëggal tama ji bu baax nit ñi ñëw.
+Bukki da ni tëll, lëg tiit daw.
+Bis bu nekk nit ki war na raggu.
+
+36
+
+mm gg
+gëmm segg
+
+kk
+bakkan
+
+
+
+101Njàng - Téere kalaas - CI
+
+26
+
+101Njàng - Téere kalaas - CI
+
+nn     ll     bb
+
+nn      gënn
+
+ë nn ënn
+o nn onn
+u nn unn
+a nn ann
+o nn onn
+
+a nn ann
+e nn enn
+i nn inn
+ë nn ënn
+u nn unn
+
+siggi lemmi rekk jokku
+summi wekki dëggal togg
+tekk bëgg bukk yokk
+
+37
+
+
+
+102 Njàng - Téere kalaas - CI
+
+ll          koll
+
+a ll all
+e ll ell
+o ll oll
+u ll ull
+i ll ill
+
+u ll ull
+ë ll ëll
+i ll ill
+a ll all
+e ll ell
+
+bb       jubb
+
+a bb abb
+u bb ubb
+ë bb ëbb
+o bb obb
+e bb ebb
+
+e bb ebb
+o bb obb
+i bb ibb
+a bb abb
+u bb ubb
+
+37
+
+
+
+103Njàng - Téere kalaas - CI
+
+26
+
+lol li lolli
+jeb bi jebbi
+nen ne nenne
+me lax melax
+nëb bu nëbbu
+tol lu tollu
+sul li sulli
+ñeb be ñebbe
+
+jun ni junni
+ton ni tonni
+wal lu wallu
+xel li xelli
+jin ne jinne
+teb bi tebbi
+sël lu sëllu
+xol li xolli
+
+tebbi lolli nëbbu sëllu
+nenne këll tonni dënnu
+sonn tibb sulli junni
+xelli kenn lenn dëbb
+ënn jebbi bënnu wallu
+tabb sell xolli fenn
+
+37
+
+
+
+104 Njàng - Téere kalaas - CI
+
+nennu rëbbi donn jinne
+ñibbi melax ñebbe tollu
+
+Boo balee tonni ko.
+Kaay xolli soble si.
+Këll bi ñebbe la def.
+Tibbal ci cere ji sex.
+Xellil ko ci meew mi mu naan.
+Ay junni bu baree di alal.
+Garab gi jebbi na ba rafet.
+Dem na rëbbi tey daje ak till.
+Ab pataas bu rëy la fa sullee.
+
+37
+
+
+
+105Njàng - Téere kalaas - CI
+
+26
+
+Wax ma kon fu waxtu wi tollu.
+Fabal gënn gi te dëbb dugub ji.
+Bu dee taw, fii dafay melax bu baax.
+Daw na lu sori waaye taxul mu sonn.
+Cere ji dafa fanaan, moo tax mu ënn.
+Dënnu yi la ragal, moo tax mu 
+nëbbu.
+
+37
+
+ll
+këll
+
+nn
+gënn
+
+bb
+jubb
+
+
+
+106 Njàng - Téere kalaas - CI106106
+
+kk    gg    mm    nn    ll    bb
+
+a gg agg
+g unn gunn
+ë kk ëkk
+b all ball
+r omm romm
+
+o bb obb
+i nn inn
+k oll koll
+a mm amm
+s agg sagg
+
+tibb wokk lemmi tukki gëmm
+sëgg nëbb jinne xolli siggi
+teggi dammat folli dugg xomm
+donn jikko summi damm yebbi
+
+onn lakk agg sakk inn fukk
+imm mell sabb ikk namm fabb
+fekk rigg sonn ugg ekk wogg
+tugg tobb segg sell mekk ann
+
+38
+
+
+
+107Njàng - Téere kalaas - CI
+
+26
+
+unn tenn wall nomm yogg tell
+cogg sëll fikk legg bënn tibb
+till menn cull temm cell lenn
+ëkk ëgg bokk kukk sukk ull
+
+jom mi jommi
+ub bi ubbi
+
+sum mil summil
+pëg gu pëggu
+lel li lelli
+rug gi ruggi
+sig gi siggi
+feg gu feggu
+
+xob bi xobbi
+xim mi ximmi
+cog gu coggu
+rag gu raggu
+yeb bi yebbi
+sun na sunna
+sak kan sakkan
+tag ge tagge
+
+38
+
+
+
+108 Njàng - Téere kalaas - CI
+
+fëkk sekki ximmi tagge
+yebbi gobbi jommi tëkku
+siggi dëll coggu ubbi
+ñibbi raggu jëmm wëgg
+bëgge yëbb sakkan pëggu
+feggu lelli daggat wallu
+jolli sulli xobbi summil
+
+ruggi kinne segg tukki
+
+38
+
+
+
+109Njàng - Téere kalaas - CI
+
+2638
+
+Gone gi ñibbi na këram.
+Omar simmi na simis bi.
+Fifi moo doon daggat lujum yi.
+Sama yaay dafay segg dëwlin ji.
+Ginaar gi sëgg na sulli dugub ji.
+Dag bi buy nuyu Buur bi dafay sëgg.
+Bu fëriñ bi sekkee dina sakkan lool.
+Faatu Saar mooy dem ja ba duggi.
+Jinne ja jommal na xale bu sob ba.
+Nit ku nekk mën na soxla wallu bis.
+Fekk naa ko muy liggeey ak kenn.
+Tukki ba daa fomm rekk, mu dellu kër ga.
+
+
+
+110 Njàng - Téere kalaas - CI
+
+à    ó    é
+
+à    À   àlluwa
+
+à ll àll
+à gg àgg
+à nn ànn
+à mm àmm
+t àll tàll
+
+à kk àkk
+à bb àbb
+à gg àgg
+à ll àll
+à q àq
+
+tekki toggi lelli ubbi
+sonn mokk fukk summi
+wommat teggi rëbbi tonni
+
+39
+
+
+
+111Njàng - Téere kalaas - CI
+
+26
+
+ó    Ó    póli
+
+é  É  sémmiñ
+
+b é bé
+f é fé
+y é yé
+é ñ éñ
+é ll éll
+
+c é cé
+m é mé
+k é ké
+é dd édd
+é kk ékk
+
+g ó gó
+p ó pó
+x ó xó
+ó t ót
+ó mm ómm
+
+b ó bó
+l ó ló
+c ó có
+ó ll óll
+ó dd ódd
+
+39
+
+
+
+112 Njàng - Téere kalaas - CI
+
+tàl li tàlli
+gém miñ gémmiñ
+jó ge jóge
+bég loo bégloo
+ñàl li ñàlli
+dék ku dékku
+tàb bi tàbbi
+ké wel kéwel
+
+bó li bóli
+sàn ni sànni
+dé wen déwen
+
+sàm mi sàmmi
+ñó wal ñówal
+wé yal wéyal
+tó xu tóxu
+
+sàk ku sàkku
+
+ñówal tàlli kéwel sànni
+wàll wéyal ñàlli tàggu
+jàmmal dég fégal séwet
+bóli dóxi bégloo sàkku
+féq léget tóxu dàll
+bélli càllal gémmiñ dékku
+
+39
+
+
+
+113Njàng - Téere kalaas - CI
+
+26
+
+Tali bi tàlli na.
+Taw na ba séwet.
+Déwen yal na dàq ren.
+Di sànni xeer de baaxul.
+Xàllal na ko yoon mu jàll.
+Dékkal paan bi balaa muy taw.
+Dafa sol dàll yu rafet tey.
+Yax bee tag ci bóli gi mu fot.
+Tàggu na yaayam soog a dem tukki.
+
+39
+
+sébbi lébu déwen séqal
+sàmmi xàll jàlle tàbbi
+
+
+
+114 Njàng - Téere kalaas - CI
+
+Solul dàll moo tax dég jam ko.
+Caqam tàbbi na ci biir teen bi.
+Xaj bi dafa bów rekk mu daldi ñàlli.
+Léget bi ci loxoom bi fés na lool.
+Kéwel gu rafet laa gis ca àll ba.
+Sunu waa kër dañuy tóxu ëllëg 
+ci suba.
+
+39
+
+ó        Ó
+póli
+
+à        À
+àll
+
+é        É
+sémmiñ
+
+
+
+115Njàng - Téere kalaas - CI
+
+26
+
+dd    pp    tt    cc
+
+dd    biddiiw
+
+pp    keppu
+
+o dd odd
+à dd àdd
+é tt étt
+t udd tudd
+s edd sedd
+
+ë dd ëdd
+u dd udd
+m àdd màdd
+i dd idd
+f àdd fàdd
+
+u pp upp
+a pp app
+i pp ipp
+ó pp ópp
+d ëpp dëpp
+
+o pp opp
+é pp épp
+à pp àpp
+e pp epp
+t app tapp
+
+bóli tàlli bégal féq
+làcc dég tàgg tóxu
+séq sàq ñów sànni
+
+40
+
+
+
+116 Njàng - Téere kalaas - CI
+
+tt    létt
+
+cc    picc
+
+u tt utt
+à tt àtt
+ë tt ëtt
+k utt kutt
+k ott kott
+
+e tt ett
+o tt ott
+i tt itt
+n att natt
+f étt fétt
+
+à cc àcc
+u cc ucc
+é cc écc
+f icc ficc
+p acc pacc
+
+o cc occ
+ó cc ócc
+i cc icc
+k occ kocc
+ë cc ëcc
+
+40
+
+
+
+117Njàng - Téere kalaas - CI
+
+26
+
+kod du koddu
+fip pu fippu
+roc ci rocci
+wed di weddi
+ced do ceddo
+kóp pin kóppin
+sàp pi sàppi
+jud du juddu
+
+tep pi teppi
+noc ci nocci
+pit tax pittax
+sop pi soppi
+bed di beddi
+kuc cal kuccal
+nop pi noppi
+kec cax keccax
+
+nopp fippu juddu ceddo
+fattu koppar weddi kuccal
+koddu xippi kàddu léttu
+sàppi soppe teppi màtte
+kuppe rocci sàppe noppi
+nocci sippax metti tàccu
+
+40
+
+
+
+118 Njàng - Téere kalaas - CI
+
+Dafa fattu dem sëlmu.
+Weddi gis bokku ci.
+Yaama seppi na jën yi.
+Màrse bari na sippax tey.
+Roccil buum gi ci póli bi.
+Sunu kër danuy yar ay kóppin.
+Kàttan daal kenn du ko fowe.
+Maam digle na nu defar sàppe yi.
+Yaa ko tooñ te moo la mag fopp.
+
+40
+
+sébbi lébu déwen séqal
+sàmmi xàll jàlle tàbbi
+
+
+
+119Njàng - Téere kalaas - CI
+
+26
+
+Bu xale yi génnee kalaas
+dañuy kuppe.
+Ku juddu war nañu la wutal kayit.
+Ci suba ba tey, Aali boppam
+dafay metti.
+Sooda def na ay létt yu rafet kaar.
+Fo na ba xotti yére yi mu soloon.
+Tàccu nañu boroom dëkk bi ba
+mu noppee.
+
+40
+
+dd
+biddiiw
+
+pp
+keppu
+
+tt
+léttu
+
+cc
+keccax
+
+
+
+120 Njàng - Téere kalaas - CI
+
+à    ó    é   dd    pp    tt    cc
+
+b àcc bàcc
+o tt ott
+l épp lépp
+d ó dó
+k ucc kucc
+
+t ott tott
+f é fé
+i cc icc
+a dd add
+t ànn tànn
+
+woccu dékk tëddi wattu bàkku
+dëppu làqu wetti séddu sëppu
+pepp xeppi guddi màttu dippi
+bàttu fattu soccet fésal nattu
+
+él fó xàtt opp té sott
+udd étt wadd sébb idd ëpp
+wé xëpp cé àkk tó fé
+ipp xepp só tacc én àbb
+
+41
+
+
+
+121Njàng - Téere kalaas - CI
+
+26
+
+àgg ëtt att ott fatt làdd
+ró odd tàtt dàtt xé óm
+àcc xó sadd sé réll sapp
+cét wét ett àpp médd ëcc
+
+làg gil làggil
+top pe toppe
+ró ti róti
+
+dëd du dëddu
+bëc cëg bëccëg
+wec ci wecci
+séd du séddu
+tàm mal tàmmal
+
+xàd di xàddi
+yé wen yéwen
+
+màc ci màcce
+nop pi noppi
+tàb bi tàbbi
+tó xu tóxu
+
+sop pe soppe
+gud di guddi
+
+41
+
+
+
+122 Njàng - Téere kalaas - CI
+
+tàbbi soppe tappal róti
+rëdd pàdd xàddi tàmmal
+koppar wàcce wecci woccu
+dëddu yéwen kopp séddu
+wetti màbb noppi butti
+yedd bëccëg botti ràmm
+tóxu dolli toppe màcce
+fettax làggil màmm sotti
+
+41
+
+
+
+123Njàng - Téere kalaas - CI
+
+26
+
+Xaj bi dafa ràmm lool.
+Sooda xale bu noppi la.
+Xellil na ko kafe ci koppam.
+Waas na jën wi, butti ko.
+Aatu dafa ko botti daldi ko daan.
+Feebar moo tax mu woccu fii yépp.
+Yaayam dafa ko yedd ba mu rus.
+Tabax bi dafa màgget bay waaj a màbb.
+Xaar na ko ba xàddi soog a dem.
+Daanoom bi saf na, dafa ne ŋalañ. 
+Kaay may ma loxo ma wàcce saaku bi.
+Joxoñ ko yoon wi te na moytu ŋar yi.
+
+41
+
+
+
+124 Njàng - Téere kalaas - CI
+
+óo    ée    ëe
+
+óo   Óo    óom
+
+g óo góo
+c óo cóo
+n óo nóo
+óo l óol
+óo s óos
+
+b óom bóom
+j óo jóo
+b óo bóo
+
+óo t óot
+óo m óom
+
+woddu tette nàcc fàtte
+ñoddi jéppi soppi xotti
+àtte bóli wattu bette
+
+42
+
+
+
+125Njàng - Téere kalaas - CI
+
+26
+ée  Ée téere
+
+ëe  Ëe   bëer
+
+k ëe këe
+w ëe wëe
+x ëe xëe
+ëe c ëec
+ëe l ëel
+
+s ëe sëe
+f ëe fëe
+r ëe rëe
+
+ëe g ëeg
+ëe ñ ëeñ
+
+t ée tée
+l ée lée
+ñ ée ñée
+ée g éeg
+ée f éef
+
+b ée bée
+m ée mée
+p ée pée
+ée r éer
+ée k éek
+
+42
+
+
+
+126 Njàng - Téere kalaas - CI
+
+wée re wéere
+sóo bu sóobu
+fóo tal fóotal
+rée ral réeral
+sóo ru sóoru
+jée go jéego
+ñóo xu ñóoxu
+fée xal féexal
+
+kóo ni kóoni
+fée te féete
+wóo ral wóoral
+lóo ral lóoral
+gée wal géewal
+bóo li bóoli
+tóo kër tóokër
+lée gi léegi
+
+kóoni bóoli déem féexal
+géex céeli tóokoor géej
+
+wéere ñóoxu góobi lóoral
+wóolu féete jéego jóor
+dóom bëer léebu réeral
+sóobu sóoru wóoral céetal
+
+42
+
+
+
+127Njàng - Téere kalaas - CI
+
+26
+
+Nanu dem àjji kóoni.
+Boo suuree rekk géex.
+Fóotal ma yére yi léegi.
+Moytul dóom bi dafay lakke.
+Dafa sóoru ku ko ëpp doole.
+Wolof bari na lool ay léebu.
+Bëer xeetu jën wu neex la.
+Nanu génn ci biti toog féexlu tuuti.
+Xale yi wër nañu bóoli laax bi.
+
+néeg bóof dóore jéex
+géewal léegi fóoxal fóotal
+
+42
+
+
+
+128 Njàng - Téere kalaas - CI
+
+Ganaar gi nen na ba di bóof.
+Su sunu maam toogee danu
+koy ñóoxu.
+Gaal gi nappi woon jën géej
+teersi na.
+Céeli bi fëkk na cuuj bi, daldi naaw.
+Baaba dafa réeral xaalis bi di
+ko jéex.
+Sotti na ñeex ci cere ji, mu lóor.
+
+42
+
+ée
+
+téere
+mée
+
+óo
+
+bóoli
+góo
+
+ëe
+
+bëer
+sëe
+
+
+
+129Njàng - Téere kalaas - CI
+
+26
+
+ii s q ëe ó g j w
+F ñ ée W p ee óo aa
+y ŋ à r é p ñ oo
+
+ée ó r uu E g q ëe
+s R y é ŋ w C óo
+ii j B U x N Q t
+m t uu K E u J ó
+
+géew ënn joor aas ñee wóo
+médd ree koog dàq taab yell
+àww àq ñépp ŋodd sëgg yiir
+tàgg séq guus àbb sàmm yott
+ñenn ŋott gënn suur gopp jédd 
+weŋŋ ruq ŋóot ëkk ràbb ŋàpp
+ñaag riig yeew sukk ŋàmm fóññ
+wékk ër mukk ŋiis ŋeew  ratt
+
+43Ma boole mooñ
+
+
+
+130 Njàng - Téere kalaas - CI
+
+àlle fóoti toggi wàññi woggi
+mukke wokke ŋakku wallu róogu
+wiŋŋu ñoddi wëggi yegge gowwa
+komme kàddu ruuji jeqi ràŋŋe
+jéggi ñoddi pàppa jànne ñaasu
+yewwi wàqi gàddu ŋóobi riisu
+fàggu aaŋu màgge bótti waaje 
+sàqi weeru dëere dëggu ruqe
+
+43 Ma dëgëral
+
+
+
+131Njàng - Téere kalaas - CI
+
+26
+
+góor éete téere géewal
+réeral móolu wéeru jéeri
+fóotal totti céetal lemmi
+
+fo qa ti foqati
+a ka ra akara
+ba ña ti bañati
+dëk ka le dëkkale
+ba naa na banaana
+jaa ra le jaarale
+su qa li suqali
+fà qa ti fàqati
+
+44
+
+
+
+132 Njàng - Téere kalaas - CI
+
+satala tappale peñewu nettali
+koppati watatu kilifa feccali
+sonnati tegale ñawji suqali
+utaale kuppati feddali sottiku
+rëddati sóobati walbati yuriku
+gënale daggate birale gisaane
+jéggale taqaloo coppati wañaaru
+defaru aakimoo waxati jàppale
+
+44
+
+
+
+133Njàng - Téere kalaas - CI
+
+26
+
+Léegi laa fi jóge dem raxasu ji.
+Demal defaru nu dem léegi waxtu wi jot.
+Danoo bëgg a seexale ñaari dëkk yi.
+Defal ab kos ci gannaaw baat bi.
+Ñu bare ñëwoon nañu ci dajaloo bi.
+Joxal minise bi sa portale bi mu 
+defaral la ko.
+Ku bëgg a xarañ ci li mu nekk dafay 
+gëstu lu bare.
+Ne ko mu feccali siwo bi te yóbbu ko 
+ca wanag wa.
+Joxal xale yi limoŋ ji ñu motoxal ko.
+Sunu sëriñ am na ay lijaasa yu bare.
+Sama mag ji moo nangu li ma doon 
+dajale.
+
+44
+
+
+
+134 Njàng - Téere kalaas - CI
+
+Garabu ër gi ma diwoo moo ma
+may jàmm.
+Damay jéem a jubale ñaar ñi dëkk ci 
+xuloo rekk.
+Sama maam moo nu doon fàttali 
+boroom dëkk yi fi mas a falu.
+Yaay Alimatu moo jiital xale yi, 
+yóbbu leen ñu dem nafari seen 
+jukki.
+
+44
+
+
+
+135Njàng - Téere kalaas - CI
+
+26
+
+Omar dafa doon fo, ñu dàq ko. 
+Badara di ko kókkali, mu mer. 
+Noona, mu tëb gëdd ko, mu toogi ci 
+suuf. Baay Mataar ne ko : Bàyyil di 
+noggatu xale yi.
+
+Ren, nawet bi dafa teel a ñëw. 
+Looloo tax Doktoor bi artu na ñépp. 
+Nee na ku moytu yoo yi doo sibbiru.
+
+Sunu muse moo nu digal ñuy tàggat 
+sunu yaram saa su ne. Nee na loolu 
+day yokk wér te dafay tax a mën 
+a jàng. Looloo tax mu ñuy jàppale 
+àllarba ju nekk.
+
+44
+
+
+
+136 Njàng - Téere kalaas - CI
+
+-
+barigo soppali farata tàggale
+xottiku àggali yemale ximmali
+xettali jigadi gëlëmal fottasu
+
+xam xam xam-xam
+xat xat xat-xat
+toj toj toj-toj
+pas pas pas-pas
+pat pati pat-pati
+nor nor nor-nor
+toq toq toq-toq
+bon bon bon-bon
+
+45
+
+
+
+137Njàng - Téere kalaas - CI
+
+26
+
+barigo soppali farata tàggale
+xottiku àggali yemale ximmali
+xettali jigadi gëlëmal fottasu
+
+mën-mën xët-xët taf-taf raj-raj
+tar-tar saf-cin sañ-sañ dog-dog
+toŋ-toŋ bër-bëri tëb-tëbi aji-gëm
+wët-wët téq-téq Sañ-Sañ yat-yati
+kof-kof taq-taq rëg-rëg wej-wej
+car-car kar-kar ras-ras nux-nux
+kol-kol kër-kër baj-baj bés-pénc
+
+law-law xar-xar diw-tiir xew-xew
+
+45
+
+
+
+138 Njàng - Téere kalaas - CI
+
+Sàkku xam-xam war na ku nekk.
+Sunu miiru kalaas bi dafa bari xar-xar.
+Dafa tiit, di lox, di yat-yati.
+Ku ëppal la, foo ko fekk muy raj-raji.
+Tey dafa sedd, Idi liw na bay kot-koti.
+Kër-këri war na ku nekk.
+Wàcc jot na, xale yi génn di kër-këri 
+ci ëttu ekool bi.
+Gone gu sob du jóg ci ay lëj-lëj.
+Raxasal taq-taq yépp ba ñu set.
+Lëg nax na Bukki ba lekk toŋ-toŋ bi 
+bàyyi ko.
+
+45
+
+
+
+139Njàng - Téere kalaas - CI
+
+26
+
+Muse dafa duggsi rekk, ñi tàrde di 
+pat-pati.
+Bàyyil sa xët-xët ji, jàmm moo
+gën ay.
+Golo yéeg na welo di jaay mën-mën 
+ba daanu.
+Pas-pas lu baax la ci nit.
+Soo dalul, bàyyi sa tuñ-tuñ ji doo 
+xam lu xew.
+
+45
+
+
+
+140 Njàng - Téere kalaas - CI
+
+Xaj dafa gal-gal Golo rekk, fit wi di 
+tëf- tëfi. Gëleem ne ko bul yat-yati, 
+yaa ko dàq a bëre. Ñu jàppoo  
+di wët-wëti.
+
+Golo dafa dugg ci toolu banaana bi, 
+nar a def toj-toj. Bi ko Bukki jàppee 
+mu rus ba di pat-pati. Waa dëkk ba  
+fekk ko muy  bis-bisi di jooy. 
+
+Yaayam woote na biig ne dina ñëw. 
+Bi mu egsee, Abu  bég  di wél-wéli. 
+Sërica bi moo tax muy wat-wati. 
+Talatul dara, topp na welo bu bees 
+bi di dar-dari.
+
+45
+
+-
+kër-kër
+xam-xam
+
+
+
+141Njàng - Téere kalaas - CI
+
+26
+
+141
+
+-
+kókkali diw-ñor aajowoo ler-leri
+kox-kox àlluwa catu-bët fataaya
+asaaloo jax-jaxi ëwale fagaru
+ŋat-ŋat farata diw-tiir limaale
+móolu pël-pël lóorati jëf-lekk
+
+neb-neb fasaale fël-fël feccali
+
+maa sa le maasale
+aa ki moo aakimoo
+ra ja xe rajaxe
+bak ka ne bakkane
+sàp pa li sàppali
+
+46
+
+
+
+142 Njàng - Téere kalaas - CI
+
+naar bët naar-bët
+nes nesi nes-nesi
+gur gur gur-gur
+kar kar kar-kar
+sañ sañ sañ-sañ
+
+mos xam mos-xam
+pat pati pat-pati
+koŋ koŋ koŋ-koŋ
+kës kës kës-kës
+mën mën mën-mën
+
+kaw-kaw cawarte keŋ-keŋ
+jaxase toq-toq defare
+ras-ras dëddale kër-kër
+ŋelaju taf-taf caxabal
+wal-wali faxasu sël-sëli
+daraja am-jot kóolute
+daŋ-daŋi dajale mos-xam
+fàttali xam-xam àddina
+
+46
+
+
+
+143Njàng - Téere kalaas - CI
+
+26
+
+ tëf-tëfi diw-tiir fat-fat
+ abadan xët-xët fagaru
+
+Musaa mii ku am sañ-sañ la ci dëkk bi.
+Dinaa koy gis mu gàddu ay téere mel 
+ni kuy wuti xam-xam.
+
+Mën nanoo tëkkale ñaari xale yi,
+ñu sawar lañu.
+Xale yi doon futbal def nañu jaloore
+ju rëy.
+Dafa soj moo tax foo ko fekk muy 
+kox-koxi.
+
+46
+
+
+
+144 Njàng - Téere kalaas - CI
+
+Bi ñu sonee rekk, elew yi ne kër-kër, 
+ne këpp, ëttu ekool bi fees dell.
+Doom, yërëmal sa waajur, yaw mi 
+tax muy tés-tési.
+Àddina bari na coono, daŋ-daŋ rekk.
+Tëjal robine bi, toq-toq yu bari yi 
+dañuy yokk faktiir bi.
+Watal sa bopp bi, dafa sëq te bàyyi 
+sa  ŋelaju yi.
+Jamono ji dafa metti, ñépp war a 
+sàkku am-am.
+Dama tës-tësi ba sama tubey ji 
+xottiku, tey sonn naa lool.
+
+46
+
+
+
+145Njàng - Téere kalaas - CI
+
+26
+
+Sama maam dafa am sañ-sañ.
+Dafa ñu fekk ñu toog di wej-weji. 
+Mu ne nu wàññi coow li te jóg defari 
+sàkket wi.
+
+Xaj dafa doon napputu muus. 
+Doomu muus yi xusi ko mu tiit, ne 
+ter-ter, ne dett. Yaayu muus mi ne 
+ko ñaw de.
+Li masoŋ bi tabax dafa bari ay 
+rëq-rëq. Boroom kër gi mer na lool 
+ba woolu ko. Bu dul woon Yaay  
+Alimatu, ñu am lëj-lëj.
+
+46
+
+
+
+146 Njàng - Téere kalaas - CI
+
+mb    mp
+
+mb  Mb mbaam
+
+mp    làmp
+
+mb a mba
+mb i mbi
+mb ó mbó
+
+ a mb amb
+ë mb ëmb
+
+mb ee mbee
+mb u mbu
+mb uu mbuu
+
+  o mb omb
+à mb àmb
+
+u mp ump
+o mp omp
+k amp kamp
+ë mp ëmp
+ó mp ómp
+
+a mp amp
+i mp imp
+e mp emp
+à mp àmp
+é mp émp
+
+óom séen bëer wóor réer
+móolu néeg géer léebu jéego
+sóobu tóoju jéem téen wéetal
+
+47
+
+
+
+147Njàng - Téere kalaas - CI
+
+26
+
+dàm pal dàmpal
+sóm bi sómbi
+tàm baa tàmbaa
+rom bul rombul
+som pal sompal
+nàm pal nàmpal
+um pe umpe
+sem pi sempi
+
+nàm pe nàmpe
+kum pa kumpa
+pom pe pompe
+gum be gumbe
+sàm bu sàmbu
+nom bo nombo
+tom be tombe
+xom bu xombu
+
+47
+
+
+
+148 Njàng - Téere kalaas - CI
+
+tombu mburu dàmpal umpaañ
+umpe xombu mbege bombul
+tombe sempi sómbi compal
+dàmb nàmpu mbedd mbonaat
+compu mbugal Tàmbaa pompe
+mbubb kumpa mbote tàmpe
+nombo mbëtt sàmbu mboq
+mbóot mbeex mbalit rombul
+
+47
+
+
+
+149Njàng - Téere kalaas - CI
+
+26
+
+Mbonaat bari na ci àll bi tey.
+Su guddee, mbedd mi dafay wéet lool.
+Mboq nee na gàññ ci nawetu ren bi.
+Xaley koñ bi am nañu mbege
+di dawal.
+Xadi mooy togg sómbi bi nuy reere.
+Xale yi lekk nanu mburu mi 
+ma dencoon.
+Sama umpaañ dem na seeti yaayam 
+ji feebar.
+
+Waañ wi warul am benn mbóot.
+Mbubbu Seex Ka mi rafet na.
+Nee nañu tombe moo waral
+aay gaaf.
+
+47
+
+
+
+150 Njàng - Téere kalaas - CI
+
+Mbëtt mi daw na dellu ca àll ba.
+Demal ca waañ wa raxas bool yi ak 
+mbombu.
+Xar mi jur na biig mbote mu
+rafet kaar.
+Képp kuy dem Tàmbaa war na
+teel a jóg.
+Sama mbaaru pàppa mi daanu na ci 
+guddi.
+
+47
+
+
+
+151Njàng - Téere kalaas - CI
+
+26
+
+Ablaay Juuf teel na jóg tey ci 
+suba. Dafa xéy raggu ba set lekk 
+mburoom. Jël saagam dem ekool.
+
+Faatu Saar génne na otoom ci buntu 
+kër gi. Fomp na ko ba mu set wecc. 
+Daldi na ciy dugg, taal ko, dawal 
+dem ca liggeey ba.
+Faama Ba am na mbonaat mu rafet 
+mu ñu ko may. Bés bu nekk dina ko 
+may mburu. Dina ko jox itam mu 
+naan. Bëggul sax kenn ku ko laal.
+
+47
+
+
+
+152 Njàng - Téere kalaas - CI
+
+nd    nj
+
+nd   Nd  ndënd
+
+nj   Nj  njamala
+
+nd aa ndaa
+nd uu nduu
+bi nd bind
+à nd ànd
+a nd and
+
+nd e nde
+nd ée ndée
+nd oo ndoo
+u nd und
+i nd ind
+
+nj i nji
+nj uu njuu
+nj é njé
+i nj inj
+ó nj ónj
+
+nj e nje
+nj a nja
+nj oo njoo
+ë nj ënj
+u nj unj
+
+mbott comp xomb làmb romb
+dimb nàmp lump somp pomp
+fàmb xàmp temp dàmp ump
+
+48
+
+
+
+153Njàng - Téere kalaas - CI
+
+26
+
+ndi ond nduu nje njaa
+inj bind ënd ndu një
+njal ndem ndo tund ndix
+njas njuu ndë ànd njul
+
+ndi mo ndimo
+njul li njulli
+an di andi
+
+ndax te ndaxte
+njàm pe njàmpe
+njëk ke njëkke
+ndo gal ndogal
+njuu ma njuuma
+
+njà mbur njàmbur
+ndi gal ndigal
+nja riñ njariñ
+njax laf njaxlaf
+nda je ndaje
+nju gub njugub
+nja boot njaboot
+ndaa ma ndaama
+
+48
+
+
+
+154 Njàng - Téere kalaas - CI
+
+njuuma ndaxte njaago njàmbur
+ndawtal njariñ ndugg ndombo
+njàmpe ndab njugub njulli
+njëkke njuumte ndaa ndogal
+njarte ndawal njattu njàmbat
+
+ndoorte kànja njëmbat ndekete
+njàqare ndam ndogu ndeyale
+ndigal njuumte ndaje njaboot
+
+48
+
+
+
+155Njàng - Téere kalaas - CI
+
+26
+
+Fan yii, ndox gëj na am.
+Sàkku xam-xam am na njariñ.
+Ndaa li toj na ndox mi tuuru.
+Njuga dafa njool ci kow, am doole.
+Seen ndono baay lañu topp ba tey.
+
+Njàmbe Ndiir dafa teel a ndékki.
+
+Njawar mu ndaw ci njulli yi la bokk.
+Gëmoon nañu ko ndekete yoo dañu 
+doon nax.
+Uude bi ëwal na mbër mi.
+ndombo loxo.
+
+48
+
+
+
+156 Njàng - Téere kalaas - CI
+
+Njamala gi lekk na ci xobi garab yi.
+Musaa Njaay Njàmbur la dëkkoon 
+laata muy tóxu.
+Ndaje bu neexee dafay tas bu 
+naqaree dafay tas.
+Bëgg liggeey, jàmbaar a koy def.
+Ndaama nduggam li bari na lool te 
+jar itam.
+Ndey dem na ca xew wa joxe
+fa ndawtal.
+
+48
+
+
+
+157Njàng - Téere kalaas - CI
+
+26
+
+Abu am na xar. Benn melo bu
+rafet la. Suur na itam ndax ni
+mu ko yore.
+Làmb ji nu doon xaar tey jii lay am. 
+Mbër mu ne gàddu ay njaq. Ku nekk 
+di yaakaar ni yaay daan.
+Léewtoo bi di waaj a tàmbali.
+
+Njéeme xéy na tey ja ba.
+Cu-tiir la bëgg a togg. Jënd na ceeb, 
+diw-tiir, sippax ak kànja. Ba mu 
+noppee mu jël oto ñibbi këram, daldi 
+taal añ. Cu-tiir bi neex na, ñépp añ 
+nañu ba suur.
+
+48
+
+nd
+ndënd
+
+nj
+njamala
+
+
+
+158 Njàng - Téere kalaas - CI
+
+mb    mp    nd    nj
+
+mbooloo njaay mbalka sump
+comp mbaam mbaar mboq
+ndigg mbeen ndaw njaxas
+njëg domp njëkke mbar
+mbuus njaga ndawal ndekki
+ndagam sempi ndogu dàmp
+
+a mp amp
+a nj anj
+o mb omb
+nd ës ndës
+nd ar ndar
+
+u mp ump
+à mp àmp
+d omp domp
+mb uu mbuu
+nd odd ndodd
+
+49
+
+
+
+159Njàng - Téere kalaas - CI
+
+26
+
+njaa xum njaaxum
+mboo tu mbootu
+nju gub njugub
+ndaa ma ndaama
+kàn ja kànja
+mba lit mbalit
+sam pi sampi
+
+49
+
+nda omp njo ump anj emb
+omb ndës mbu enj ndar nodd
+àmp domp émp mbuu ónj nde
+nduu mboo énd inj ond njii
+Sànd remb unj njó ëmp imb
+ndëe mbaa témp mbur njas end
+mbél njitt konj rëmb gind tànd
+tonj wand minj ñomb nenj ñamp
+
+
+
+160 Njàng - Téere kalaas - CI
+
+njàm pe njàmpe
+mbo te mbote
+mba xal mbaxal
+
+fo nde fonde
+njaa go njaago
+mbu gal mbugal
+
+njaaxum ndeke mbàttu mbugal
+làmp njula mbaxal ndono
+sampi firnde lump gatandu
+umple mbootu mbaal njaago
+njuumte ndogu ndombo lempo
+dënd indaale mbedd kànja
+mbóoyo mbote xàmp jamp
+mbana ndimbal mbalit mbër
+compal ndaama nàmpal njàmpe
+ndigg mbaxana mbañeel mbomb
+
+49
+
+
+
+161Njàng - Téere kalaas - CI
+
+26
+
+mbër njarte sempi njugub
+mbaaru dàmpu lompoñ ndaxam
+
+Aali Njaay samp na ndëndam.
+Waxtu ndékki des na tuuti.
+Garab gi am na ay njugub.
+Su dugub ñoree, dinanu lekk mbool.
+Mbote mu weex mi dafay nàmp.
+Mbomb lay raxase cin li mu togge.
+Bale na daldi dajele mbalit mi tonni.
+Mbaxana mi mu soloon naaw na
+dali fale.
+
+49
+
+
+
+162 Njàng - Téere kalaas - CI
+
+Mbaxal mi mu togg biig neex na lool.
+Yaay ji uuf na doomam di ko nàmpal.
+Teg na saaku bi ci kow sareetu 
+mbaam bi.
+Xale yi ci mbedd mi lañu doon
+futbale démb.
+
+49
+
+
+
+163Njàng - Téere kalaas - CI
+
+26
+
+Nawet bi jot na. Njaga xéy na
+dem tool. Mébetam mooy mbey mi 
+indil ko njariñ.
+Weer wi feeñ na tey fii ci Ndar.
+Ëllëg la korite gi. Ñépp dinañu wori. 
+Suba teel nu sol sunuy mbubb yu 
+bees ànd ak sunu pàppa.
+Ndey Kumba am na doom ju góor 
+ayu-bés bi weesu. Tey lañuy tudd 
+liir gii. Njaboot gi yépp teew nañu. 
+Jigeen ñi togg nañu laax yu neex 
+séddale. Imaam joxe na tur wi, 
+ñaanal xale bi.
+
+49
+
+
+
+164 Njàng - Téere kalaas - CI
+
+ng    nk
+
+ng   Ng  pingu
+
+nk          unk
+
+ng uu ngu
+ng ë ngë
+l ang lang
+o ng ong
+a ng ang
+
+ng o ngo
+ng u ngu
+ng é ngé
+ó ng óng
+i ng ing
+
+a nk ank
+u nk unk
+e nk enk
+ó nk ónk
+é nk énk
+
+i nk ink
+o nk onk
+à nk ànk
+ë nk ënk
+a nk ank
+
+ndaje dund ndaama dend njamala
+ndoxendogu ndënd bindu njarte
+njort ndiir njool ndekki njaaxum
+
+50
+
+
+
+165Njàng - Téere kalaas - CI
+
+26
+
+da nga danga
+fun ki funki
+so ngu songu
+ban ku banku
+mà ngo màngo
+son ku sonku
+dë ngal dëngal
+lon ku lonku
+
+sa ngu sangu
+ngë neel ngëneel
+màn koo mànkoo
+nge law ngelaw
+pen ku penku
+nge mbu ngembu
+sàn ku sànku
+di nga dinga
+
+50
+
+
+
+166 Njàng - Téere kalaas - CI
+
+sangu banku dingeen lonku
+jonkon ngëneel màngo ngërëm
+danga ngooñ tinki mànkoo
+junki songu fonk ndànk
+dëngal sànku ngelaw sàngu
+penku onk ŋànk lonki
+ponkal ngemb ngoonal ngembu
+funki sànke tànk bank
+
+50
+
+
+
+167Njàng - Téere kalaas - CI
+
+26
+
+Njaga defal na xar mi ngooñ.
+Isaa ci biir sànke lay fanaan.
+Fëriñ bi, bu funkee, gën a sakkan.
+Astu mu ndaw gone gu pànk la.
+Dafa foxoj moo tax muy dox ndànk.
+Tànkam mooy metti moo tax
+muy onk.
+Xaj bi ŋànk na ab yax di daw.
+Mbër mi takk na ngembam ba
+mu dëgër.
+Ngóone jigeen ju mën a defar 
+ngallax la.
+
+50
+
+
+
+168 Njàng - Téere kalaas - CI
+
+Jàngoro yépp dañu leen 
+war a xeex.
+Daw ca ba ngay am ay tànk moo gën.
+Def ndànk mooy tax a jàpp golo
+ci ñaay.
+Tey sedd bi dafa ànd ak ngelaw
+lu tar.
+Xale yi am nañu ngor ci li ñu séq.
+Bàyyil màngo yi ñor nga soog
+leen a witt.
+
+50
+
+
+
+169Njàng - Téere kalaas - CI
+
+26
+
+Tabaski gi jege na.
+Baay jënd na am xar mu ponkal yeew 
+ko ci ëtt bi. Usmaan a ngi dem jëndi 
+ngooñ.
+Penda ku bëgg a yar ay mala la. 
+Am na ay ginaar ak ay kóppin ci 
+ngunoom. Kóppin gu mag gi dafa 
+tënk ay tànkam. Bëggul muy cofaate.
+Ngañ ku mën a defar oto xale la. 
+Goney koñ bi yépp moo leen di 
+defaral. Oto bi mu mujj a defar am 
+na lonku weñ. Waaye lànk na ni du 
+ko abal kenn.
+
+50
+
+ng
+pingu
+
+nk
+penku
+
+
+
+170 Njàng - Téere kalaas - CI
+
+nc    nt    nq
+51
+
+ nc conco
+
+ nt          bunt
+
+a nc anc
+u nc unc
+e nc enc
+ó nc ónc
+i nc inc
+
+à nc ànc
+i nc inc
+o nc onc
+ë nc ënc
+a nc anc
+
+a nt ant
+u nt unt
+e nt ent
+ó nt ónt
+é nt ént
+
+i nt int
+o nt ont
+à nt ànt
+ë nt ënt
+a nt ant
+
+tànk sangu ngato onk ngelaw
+ngiro lonku dénk ngalla ngande
+banku ngallax dank fonk ngistal
+
+
+
+171Njàng - Téere kalaas - CI
+
+2651
+ nq        dunq
+
+à nq ànq
+o nq onq
+i nq inq
+ë nq ënq
+u nq unq
+
+u nq unq
+e nq enq
+a nq anq
+ó nq ónq
+à nq ànq
+
+tan cu tancu
+gon tu gontu
+den cal dencal
+ten qi tenqi
+san ci sanci
+séen tu séentu
+fén qoo fénqoo
+tan qal tanqal
+
+san qal sanqal
+ton tul tontul
+daj jant dajjant
+jàn qal jànqal
+fon tu fontu
+gàn cax gàncax
+pén coo péncoo
+ngén te ngénte
+
+
+
+172 Njàng - Téere kalaas - CI
+
+fontu gàncax tenqi sanci
+gontu dencal tenq fénqoo
+lanc xunt sanqal bunt
+tontul sancaan manq séntu
+tànta ngénte dencaat bant
+péncoo tancloo tanqal pont
+jant dajjant pénc tanq
+awante janq tancu jànqal
+
+51
+
+
+
+173Njàng - Téere kalaas - CI
+
+26
+
+Uti na sanqal ngir togg laax.
+Sànq rekk la fi Seex jaar.
+Dafa joggi pont moo tax mu pikiiru.
+War nanu aar bu baax gàncax gi.
+Xadi wuti na janq bu koy dimbale.
+
+Nun joxante nanu loxo, baalante àq.
+Ci bunt kër gi, la ko ko waxe.
+Gox bi, ba ñu ko sancee yàgg na.
+Démb am na ku sàncsi ci koñ bi.
+Tanqal ndox ci paan gi dem
+sangi Musaa.
+Fental nañu sunu gaynde yi woy
+wu neex.
+
+51
+
+
+
+174 Njàng - Téere kalaas - CI
+
+Maam Musaa ngi taxaw di séentu 
+weer wi.
+Oto baa ngi manq ndox mi ci
+yoon wi.
+Boo soxlaa la mu denc mu jox la ko.
+Bu jëkkaan, lépp ca pénc ma la 
+daan ame.
+
+51
+
+
+
+175Njàng - Téere kalaas - CI
+
+26
+
+Sancsi nañu sunu kër gi. Bunt yi 
+dañu xonq, miir yi baxa. Ëtt bi taaru 
+na te yaatu.
+Tey ci dibeer ji lañuy setal pénc mi. 
+Musaa indi na rato bu ame bant bu 
+gudd. Janq yi ñoom indi nañu ay 
+bale. Béreb bi nar na set tey.
+Sunu ikib mooy daje ak Kaani gi. 
+Bàlla béreŋ na bal bi nar a dugal. 
+Wànte waay a jóge fale ñëw tanc ko 
+mu daanu. Arbit bi tàllal ko xob wu 
+xonq.
+
+51
+
+nc
+conco
+
+nt
+bunq
+
+nq
+dunq
+
+
+
+176 Njàng - Téere kalaas - CI
+
+ng    nk    nc    nt    nq
+lonku ngaaka banku bunt denc
+sangu tàngoor wànq tanq tanc
+fànq penku gàntal dénk jeng
+lëngoo ngóora jàngal seng fonk
+ngànt songoo manq dëng jant
+sungu sànku ngóor janq unk
+
+ng oo ngoo
+l anq lanq
+t eng teng
+u nc unc
+i nk ink
+
+t ant tant
+b unc bunc
+
+ng i ngi
+ë nq ënq
+à nk ànk
+
+nge onc ànq tonq tenq jong
+fenk nguu ong eng ënt inq
+
+52
+
+
+
+177Njàng - Téere kalaas - CI
+
+26
+
+pen ku penku
+den koo denkoo
+jàn gal jàngal
+pon kal ponkal
+lon ku lonku
+tàn gal tàngal
+dën gal dëngal
+
+san qal sanqal
+gàn tal gàntal
+so ngoo songoo
+sa ngi sangi
+pi ngu pingu
+ngóo ra ngóora
+tàn ku tànku
+
+ung ñànk tàng tinc tenk tonk
+nanq funk benq fonc nga long
+ñenk konq sink dënk benq senq
+func ënq benk int sonk ing
+bunq lanc ënk keng rënk enk
+xonq ngii janq anc tëng unq
+
+52
+
+
+
+178 Njàng - Téere kalaas - CI
+
+ngo ne ngone
+ban ku banku
+so ngi songi
+
+pén coo péncoo
+nguu ru nguuru
+tan cu tancu
+
+sanqal jàngal tungoom tontu
+lanc sonk sonku ngonnal
+songi sangaat benqal ponkal
+tànta gàntu tànku mànkoo
+penku péncoo tancu tàngoor
+bànqaas conc dencal ranq
+gàntal banku ngóora ngànt
+funki foontu fànqal ngelaw
+dunq dencaat tungune songoo
+ngóora janq gàncax lancaat
+
+52
+
+
+
+179Njàng - Téere kalaas - CI
+
+26
+
+ngaaka pingu lànkar sanc
+nguuru pentur tanqaat lonku
+
+Ñaari mbër yi ñu ngi songoo.
+Jamono tàngaay lañu nekk, gisal jant bi.
+Gone gu yaru du foontoo mag.
+Pingu bi jam na ko ci tànk.
+Fab na lonku bi ngir witt màngo.
+Taabam gi funki na ba jaaxal ñépp.
+Dunq yiy naaw tag nañu ci garab gi.
+Sedd bu metti bi moo waral mu 
+banku.
+
+52
+
+
+
+180 Njàng - Téere kalaas - CI
+
+Tànt nañu seen buntu kër ndax
+ngénte li.
+Kóppin gi tënk nañu ko ndax dafa 
+soxor lool.
+Ponkal mi moo ko tanc ci biir oto bi.
+Golo gi ci bànqaas bi la lonku  
+di lang.
+
+52
+
+
+
+181Njàng - Téere kalaas - CI
+
+26
+
+Aadama dafay tukki tey.
+Teel na yeewu dem sangu teg ci 
+ndékki. Def ay yéreem ci waliis ñu 
+gunge ko.
+
+Astu dañu koy takk tey. Janqi koñ bi 
+yépp ñëw nañu. Ku nee ngi jàpp ci 
+liggeey bi. Ci ngoon si lañu koy muur.
+Móodu Faal ñawkat bu xarañ la. 
+Piis yu baree nga ca palaas ba muy 
+ñawe. Buy ñaw dafay sëgg di yëngal 
+tànkam. Su tabaski jotee, day bari 
+kilyaan. Ku mu ñawal rekk
+nga kontaan.
+
+52
+
+
+
+182 Njàng - Téere kalaas - CI
+
+ññ    jj   yy
+
+ ññ       suññeel
+
+ jj béjjen
+
+a ññ aññ
+u ññ iññ
+o ññ oññ
+n àññ nàññ
+t uññ tuññ
+
+i ññ iññ
+o ññ oññ
+ë ññ ëññ
+d óññ dóññ
+d éññ déññ
+
+a jj ajj
+e jj ejj
+i jj ijj
+ë jj ëjj
+ó jj ójj
+
+u jj ujj
+o jj ojj
+é jj éjj
+à jj àjj
+i jj ijj
+
+denc bant lanc xunt péncoo
+ngénte ténq janq wànq wànte
+sanc dunq tancu xonq dencaat
+
+53
+
+
+
+183Njàng - Téere kalaas - CI
+
+26
+
+ yy      noyyi
+
+à nq ànq
+o nq onq
+i nq inq
+ë nq ënq
+u nq unq
+
+u nq unq
+e nq enq
+a nq anq
+ó nq ónq
+à nq ànq
+
+ràñ ñee ràññee
+tij ji tijji
+wañ ñi waññi
+meñ ñi meññi
+bày yee bàyyee
+soñ ñee soññee
+dàj ji dàjji
+gaj jaat gajjaat
+
+daj jant dajjant
+tày yi tàyyi
+dij jal dijjal
+soj jet sojjet
+bàj jen bàjjen
+gàn cax gàncax
+pén coo péncoo
+ngén te ngénte
+
+53
+
+
+
+184 Njàng - Téere kalaas - CI
+
+wàññi àjji bàyyee dijjal
+ijji dajjant wujje ràññee
+ràññiku wàññiku mujje bàjjen
+waññi tijji meññeef gaññ
+àjjana bàyyima bojj mbàjj
+sujjoot meññi waññiku soññee
+kujje bàyyiku tàyyi lajj
+gajjaat bàyyi soññi dàjji
+
+53
+
+
+
+185Njàng - Téere kalaas - CI
+
+26
+
+Suba teel ñu dem àjji màngo.
+Sojjet la def, ni layy, gaaw ni ag fitt.
+Ay gone yu baax waruñu di wujje.
+Li ngay jaay seer na, wàññi ko.
+Ñàkk a nelaw moo tax muy dajjant.
+Mu ngi sàngoo mbàjj mi ndax liw.
+Sama nijaay mag la ndax am
+na bijjaaw.
+Mu ngi gaññ ndax garab gi
+dafa wex.
+Baay Móodu dafay soññ waa këram 
+ci liggeey.
+Witt nañu meññeef yu bari ca
+tool ba.
+
+53
+
+
+
+186 Njàng - Téere kalaas - CI
+
+Bàyyima yi waruñu leen di teg lu 
+metti.
+Waajur yi waruñoo tàyyi ci yar
+seen i doom
+Àjjana war na neex ñépp a fa
+bëgg a dem.
+Mënuma tijji bunt bi ndax caabi ji 
+dafa réer.
+Sama bàjjen moo ma yar te bëgg
+na ma.
+
+53
+
+
+
+187Njàng - Téere kalaas - CI
+
+26
+
+Tey la bésu ñakku.
+Bàjjen Nogay yóbbu na Saaliw
+ca pénc ma. Bi ñu koy ñakk
+mi ngiy gaññ.
+Nanu aar bàyyima yi.
+Dañu am bakkan di noyyi ne nun.
+Amal nañu nu njariñ ci fànn yu bari. 
+Kon nanu soññe ci yërëm leen.
+Nanu bàyyi di tilimal sunu gox.
+Lii nag, ñépp la war, amul xàjj ak 
+seen. Nanu ko wax ci kow ba mu leer 
+nàññ. Bu ñu ci tàyyi ndeem bëgg 
+nanoo sàmm sunu kéew.
+
+53
+
+ññ
+suññeel
+
+jj
+béjjen
+
+yy
+noyyi
+
+
+
+188 Njàng - Téere kalaas - CI
+
+ŋŋ    ww
+bàyyima ràññee àjjana bojj
+mbàjj gaññ tijji bàyyi
+noyyi àjji tàyyi waññiku
+
+ ŋŋ       faŋŋe
+
+ ww tàwwi
+
+l uŋŋ luŋŋ
+i ŋŋ iŋŋ
+
+m eŋŋ meŋŋ
+e ŋŋ eŋŋ
+ó ŋŋ óŋŋ
+
+l uŋŋ luŋŋ
+a ŋŋ aŋŋ
+m ëŋŋ mëŋŋ
+u ŋŋ uŋŋ
+o ŋŋ oŋŋ
+
+a ww aww
+é ww éww
+u ww uww
+o ww oww
+e ww eww
+
+i ww iww
+ó ww óww
+f àww fàww
+ë ww ëww
+t aww taww
+
+54
+
+
+
+189Njàng - Téere kalaas - CI
+
+26
+
+oŋŋ eww uww iww léŋŋ
+oww àww teŋŋ doŋŋ soww
+fàww uŋŋ éww leww loŋŋ
+àŋŋ éŋŋ ëww daŋŋ aww
+
+làw wi làwwi
+toŋ ŋe toŋŋe
+faŋ ŋe faŋŋe
+lew wu lewwu
+yàw wi yàwwi
+new wi newwi
+xew wi xewwi
+xàw wi xàwwi
+
+dàŋ ŋe dàŋŋe
+lew wi lewwi
+kàŋ ŋe kàŋŋe
+yew wi yewwi
+fàŋ ŋe fàŋŋe
+làŋ ŋe làŋŋe
+tàw wi tàwwi
+gàw wi gàwwi
+
+54
+
+
+
+190 Njàng - Téere kalaas - CI
+
+waŋŋ newwi koŋŋ xàwwiku
+dàŋŋe yàwwi faŋŋe xàŋŋ
+làwwiku doŋŋ lewwu sowwu
+toŋŋe fàww newwi jaww
+toŋŋ yewwiku keww dàŋŋ
+xewwi xàwwi làwwi yewwi
+lewwi tàwwi fàŋŋ faŋŋe
+meŋŋ gàwwi xewwi yàwwiku
+
+54
+
+
+
+191Njàng - Téere kalaas - CI
+
+26
+
+Kuy nelaw ba jant bi ne dàŋŋ doo 
+bari wërsëg
+Baaba Ndaw lewwu na xale bi.
+Yére bi xewwi na waaye rafet na.
+
+54
+
+Seex du mas a xàwwi suturas kenn.
+Abiyoŋ bi ci jaww ji lay naaw.
+Xar mi nga yeewoon fee yewwiku na.
+Weer waa ngi ne fàŋŋ ci asamaan si.
+
+Sa taab gi newwi na lool, demal fajuji.
+
+Sol nga dàll yi léegi ba mu yàwwiku.
+Boo ko tàwwee bu baax mu
+dagg de !
+Xeex na ba mbubbam mi làwwiku
+fu nekk.
+Yére yi nga weeroon ci suba wow 
+nañu koŋŋ.
+
+
+
+192 Njàng - Téere kalaas - CI
+
+Fàww ñu defar mbaar mi balaa 
+nawet bee yegsi.
+Réeroon na, ne meŋŋ, ñu foogoon ni 
+du feeñati.
+Dafa ko wax xibaar bi mu ni këww 
+jaaxle.
+
+54
+
+
+
+193Njàng - Téere kalaas - CI
+
+26
+
+Musaa dàllam dafa yàwwiku.
+Mu ngi koy yóbbu ca uude ba.
+Su subaa mu jëli ko.
+Omar du jàngi tey, dem na wuti màngo. 
+Yéeg na ci garab gi faf xàwwiku ne 
+gàŋŋ ci suuf. Yàlla baax na ba dammul. 
+Waaye tànk ba newwi na.
+Faama, dibeer ju nekk, dafay seeti 
+maamam. Bu yeggee, dafay yewwi 
+xar yi, bale gétt gi. Bu noppee, sangu 
+ba set ni dàŋŋ ci kow fótooy bi. Ñu 
+taalal ko tele muy seetaan.
+
+54
+
+ŋŋ
+faŋŋe
+
+ww
+tàwwi
+
+
+
+194 Njàng - Téere kalaas - CI
+
+ññ    jj    yy    ŋŋ    ww
+wàññiku fàww bàjjen jaww
+bàyyima xàwwi soññi meññent
+dajjant àjji gaññ fàŋŋ
+
+yewwiku bàyyee koŋŋ mbàjj
+dijjal keww wujje newwi
+meŋŋ àjjana làwwiku gajjaat
+
+b oŋŋ boŋŋ
+a jj ajj
+d eww deww
+à ññ àññ
+i yy iyy
+
+u ww uww
+ë ññ ëññ
+l ojj lojj
+f eŋŋ feŋŋ
+t ayy tayy
+
+kuŋŋ oww ajj leww aññ tujj
+foww fojj deyy iŋŋ gajj deññ
+
+55
+
+
+
+195Njàng - Téere kalaas - CI
+
+26
+
+yàw wi yàwwi
+dàj ji dàjji
+muj je mujje
+dij jal dijjal
+lew wu lewwu
+kuj je kujje
+xew wi xewwi
+
+faŋ ŋe faŋŋe
+wuj je wujje
+soj jet sojjet
+tày yi tàyyi
+xàw wi xàwwi
+ij ji ijji
+lew wi lewwi
+
+gaññ jiww doŋŋ dejj tuyy eŋŋ
+àww oyy beññ uww jaŋŋ àyy
+joyy ëŋŋ wiyy feyy cujj toŋŋ
+uññ faŋŋ bàyy waŋŋ dàŋŋ ëññ
+ijj seññ rëjj boyy guyy suññ
+
+feŋŋ beww uŋŋ giww yaŋŋ dijj
+
+55
+
+
+
+196 Njàng - Téere kalaas - CI
+
+tij ji tijji
+new wi newwi
+bàj jen bàjjen
+
+meñ ñet meññet
+ràñ ñee ràññee
+soñ ñi soññi
+
+kujje lewwu xàwwi newwi
+ijji keww dàŋŋ dàjji
+jaww gajj mujje gaññ
+faŋŋe ràññee xàwwiku meññ
+bàyyi xuyy dijj waŋŋ
+dijjal àjjuma fàŋŋ yàwwi
+boyy lewwi ràyyi guyy
+tuyy ŋàyyi wujje fàww
+waŋŋe coyyi yewwiku bàjjen
+sojjet duŋŋ lajj àjji
+
+55
+
+
+
+197Njàng - Téere kalaas - CI
+
+26
+
+fàww tijji tàyyi yàwwiku
+toŋŋ xewwi bojj meññent
+
+Ñaari mbër yi ñu ngiy songoo.
+Jant baa ngi ne dàŋŋ, mu tànng lool.
+Gone gu yaru du foontoo mag.
+Mettitu biiram mi moo tax muy gaññ.
+Mbaam mi dafa ko waŋŋ, mu daanu.
+Muse wax na ko mu bàyyi tooñ.
+Golo gaa ngi lekk ci meññeti garab gi.
+Ci kow la jóge ni xàŋŋ ci suuf.
+
+55
+
+
+
+198 Njàng - Téere kalaas - CI
+
+Bu Sàmba ñëwee fàww nu wax 
+ko dëgg.
+Àjjana ku fa bëgg a dem fàww
+nga baax.
+Ablaay dàjji na bunt bi ndax caabi
+ji feeñul.
+Ba mu jógee tool, meññent yu bari
+la indi.
+
+55
+
+
+
+199Njàng - Téere kalaas - CI
+
+26
+
+Mbër mi daanu na jéll bu metti. 
+Jë bi newwi bu baax. Ku nekk ràññee 
+na ko.
+Xew wi dëgmal na. Tax na Maalig 
+seeti Munaas cuubkat bu ràññiku bi. 
+Soññ na ko ci liggeey bi teel a pare. 
+Ndaxte dafa bëgg su bés baa mu  
+ne fàŋŋ.
+Astu kuy soññ doomam yi ci njàng 
+la. Saa su nekk dafay dem ekool di 
+nemmiku xale yi. Bu gisee ak muse yi 
+ba noppi, daldi yewwiku dellu këram. 
+Moom daal, fàww nu roy ci moom.
+
+55
+
+
+
+200 Njàng - Téere kalaas - CI
+
+h
+coyyi faŋŋe dàjji newwi
+bàjjen xewwi toŋŋ duŋŋ
+waŋŋe mujje fàww àjji
+
+ h    H halmet
+
+h oo hoo
+h i hi
+h ul hul
+ee h eeh
+a h ah
+
+h u hu
+h ë hë
+h an han
+o h oh
+ii h iih
+
+56
+
+
+
+201Njàng - Téere kalaas - CI
+
+26
+
+coyyi faŋŋe dàjji newwi
+bàjjen xewwi toŋŋ duŋŋ
+waŋŋe mujje fàww àjji
+
+ha lal halal
+le hal lehal
+ha mal hamal
+hable hable
+jë ham jëham
+haa ye haaye
+har tu hartu
+hàt tan hàttan
+
+haa jo haajo
+hu loom huloom
+haa wo haawo
+ha bal habal
+haa da haada
+ha lag halag
+hoo mal hoomal
+hàj ji hàjji
+
+halal hoomal hàppaat hamaat
+jëham hanam hamaat haajo
+haawo hàlluwa halag haraw
+hàtte halku huloom hartu
+
+56
+
+
+
+202 Njàng - Téere kalaas - CI
+
+hameel halag hindi hànd
+lehal hable haaye habal
+haada hawal haljana hàddu
+hand hamal hàjji hàttan
+
+56
+
+
+
+203Njàng - Téere kalaas - CI
+
+26
+
+Haali habal na Binta hàlluwa ji.
+Mati mu ngi lehal doomam ji.
+War nanu topp sunuy haada
+ak cosaan.
+Loo gis hamna lu tax.
+Hindil ma sama hileer bi ma xëy.
+Xale buy tooñ mag dey dafay halku.
+Sooda dem na jëndi halmet ca bitig ba.
+Bàyyil di hable sa téere bi
+ngay jànge.
+Jëham bi xaw naa toj bi mu mbëkkee 
+bunt bi.
+
+56
+
+Hartu naa ko ba tàyyi waaye
+du dégg.
+Bañ a hameel kenn bor moo gën kay.
+Wolof njaay nee na, hàtte bor fey 
+rekk.
+
+
+
+204 Njàng - Téere kalaas - CI
+
+Balaa ngaa hàddu kay, war nga 
+xalaat bu baax.
+Daw yi mu doon daw moo tax muy 
+hàppaat.
+Yow hawal nii ñu dem fii defuñu
+fi dara.
+
+56
+
+
+
+205Njàng - Téere kalaas - CI
+
+26
+
+Halima danu koy takk tey. Danu war 
+a hamal xew wu rëy. Ñépp a koy 
+waajal.
+Ci sunu haada, góor dafay dugg lël.
+Xale yépp lañuy yóbbu ca hàll ba. 
+Lépp ñoo koy hànd di def. Dinañu fa 
+toog hay weer.
+Keroog hànd nanu rëbbi suba teel. 
+Menn mbaam mu réy dàq nu fa.
+Ñuy daw, di daw bay hàppaat ndax 
+tiit. Genn góor gu màgget moo tax 
+ñu raw keroog jooju.
+
+56
+
+
+
+206 Njàng - Téere kalaas - CI
+
+nd mb ng nc nq nt nk mp
+h nj nc nd nt mp ng mb
+
+nq nk nj h ng nt nq nj
+mp h nk mb nd nc r à
+g s ée ëe p j ii aa
+ñ uu q oo ó ee y w
+
+omb ndaa ngee àŋŋ énk imp
+anq ójj ngoo ent hii tànk
+comp tenq njoos énj unc fonk
+sump oŋŋ nguur àyy jenj ŋank
+uww njuu heel iij éññ fonk
+guyy hunk denc hóor  énq soññ
+coww weng mbomb xujj ah fojj
+njong nàññ njënd unc dàjj xonq
+
+57
+
+
+
+207Njàng - Téere kalaas - CI
+
+26
+
+soññe wërngal koŋŋate gàwwiku 
+jayyite ndajale màjjaal ŋàyyeet 
+doññet mbabal méngale temboli
+xàncit tanqal nàmpati ràŋŋati
+déjjati hàngare junqoob lempiŋu
+pómpi mbànte njamala hàngale
+toññi àjji roŋŋe mbeng
+lenqe funki njàdde duññi
+
+57
+
+
+
+208 Njàng - Téere kalaas - CI
+
+Njole, kañ la nuy ànd nga
+jëndi sompaat ?
+Njànku dafa ni Hàjji Mbeng na ka 
+nga hendoo.
+Fànta, Njéeme Ndaw nee na, nga 
+fomp bunt bi.
+Ngénte li neex na, jox nañu ma
+dàmpi mbaseñ.
+Fonkal bàjjan Ngóone Mbóoj, moo 
+nàmp jox sa baay.
+
+57
+
+
+
+209Njàng - Téere kalaas - CI
+
+26
+
+Démb ci ngoon, Gaynde dafa 
+dénkoon Bukki saaku ndawal. Sànq, 
+Golo àjji li Bukki Njuur dencoon, 
+nëbb ko. Njuur tiit ndax xam ni 
+Njaay yomb naa tàng.
+Bukki wër gisul, tijji buntu Xaj, wax 
+ko ko. Xaj ne, neel niib Golo, heew ko 
+ci cank. Bukki jëfe ndigal, heew Golo 
+ci ndigg ak tànk.
+Golo mujj ŋank buum gi, màtt ko 
+daggul. Nees tuut, mu déjjati bant 
+bi ñu ko takkoon. Noonu mu ne noŋŋ 
+cig màngo, banku ne suññeel.
+
+57
+
+h       H
+
+halmet
+he     ah
+
+
+
+210 Njàng - Téere kalaas - CI210 Njàng - Téere kalaas - CI210 Njàng - Téere kalaas - CI210
+
+Man Ayda laa tudd. Damay sangu ba 
+set suba su ne. Duma fàtte itam raxas 
+samay loxo ak sama gémmiñ. Loolu 
+mooy tax duma gaaw a feebar te moo 
+ma tax a rafet.
+
+Laaj yi :
+1.   Kañ la Ayda di sangu ?
+2.   Lu tax Ayda du gaaw a feebar ?
+3.   Lan mooy indi tilim ?
+
+Cet
+58
+
+
+
+211Njàng - Téere kalaas - CI
+
+26
+
+Tey dama demoon ñakkuji ànd ak sama 
+yaay. Metti woon na de waaye jooyuma 
+sax. Doktoor bi nee na ñakku dafay tax 
+doo feebar. Mu ne man xale bu yaru 
+laa te ñeme. Mu may ma benn tàngal.
+
+Ñakku
+
+Laaj yi :
+1.  Fan la xale bi demoon ?
+2.  Lan la fa doon defi ?
+3.  Lu tax ñakku baax ?
+
+59
+
+
+
+212 Njàng - Téere kalaas - CI
+
+Démb, sama bëñ moo doon metti. Sama 
+pàppa yobbu ma ci doktoor. Mu ne ma 
+bëñ bi dafa am pax. Mu wekki ko, ne ma 
+sama cetu gémmiñ dafa des. Ah, maa 
+sonn! Bés naka tey dinaa raxas sama 
+gémmiñ su ma xëyee ak saa su ma lekkee.
+
+Cetu gémmiñ
+
+Laaj yi :
+1.   Lan moo jotoon kiy wax ?
+2.   Kañ la demoon ci doktoor bi ?
+3.   Lu tax bëñam am pax?
+
+60
+
+
+
+213Njàng - Téere kalaas - CI
+
+26
+
+Man Aali laa tudd. Su ma yeewoo, damay 
+jёkk a nuyu sama pàppa ak sama yaay. 
+Su ma noppee, nuyu sama mag yi ak ñi 
+nekk ci kër gi ñépp. Su ma gisee mag ci 
+mbedd mi itam, dama koy nuyu. Sama 
+pàppa moo ma ni xale bu yaru dafay 
+nuyoo, di def li ko waajur yi wax. 
+
+Yar ak teggin
+
+Laaj yi :
+1. Ñan la Aali di jëkk a nuyu ci suba gi ?
+2. Lu tax muy nuyoo ?
+3. Nan la xale bu yaru war a mel ?
+
+61
+
+
+
+214 Njàng - Téere kalaas - CI
+
+Jàppale mooy bégal mbaa dimbali sa 
+waa kër ak say xarit te doo ci xaar dara. 
+Maye deret, taxawu sa xarit, abale sa 
+big, walla may ñi néew doole xaalis, 
+loolu lépp ci jàppale nit la bokk.
+
+Jàppale nit
+
+Laaj yi :
+1. Lan mooy jàppale nit ?
+2. Waxal yeneen xeeti jàppale nit    
+
+  yoo xam.
+
+62
+
+
+
+215Njàng - Téere kalaas - CI
+
+26
+
+Maada Jonn am na fukki at. Moom 
+mooy doomu Ngañ Jonn ak Màggat 
+Faal. Ren dafa jàng bu baax moo tax 
+mu dem wakãas Mbàkke ci bàjjan Ami.  
+Bi muy dem jël na mbaseñ bu rafet may 
+ko bàjjan ba, àjjiy limoŋ yóbbul ko. 
+Loolu mooy jëfu nit ku baax.
+
+Xale bu baax
+
+Laaj yi :
+1. Kan mooy tukki ?
+2. Fan la jёm ? Lan lay wuti ?
+3. Jan jёf ju baax la Maada def ?
+
+63
+
+
+
+216 Njàng - Téere kalaas - CI
+
+Susaan am na oto. Yaayam moo ko 
+ko jëndal. Oto bu weex bu rafet la.  
+Bi Susaan gisee xaritam Musaa, dafa bég, 
+ne ko dinaa la abal sama oto bi. Ñu yendoo 
+koo fowe. Bi ñu sonnee, ñu noppalu tuuti 
+door a sanguji.
+
+Oto Susaan
+
+Laaj yi :
+1. Lan la Susaan am ?
+2. Fan la ko jële ?
+3. Lan la xale yi def ak oto bi ?
+
+64
+
+
+
+217Njàng - Téere kalaas - CI
+
+26
+
+Su mbaam meree, dafay wéqe ak ay tànkam, 
+ndaxte mënul a wax. Su golo meree dafa 
+lay sànni ay doj. Man, mën naa wax moo 
+tax su ma meree, duma xeex, duma dóore 
+ni bàyyima. Damay wax. Nanu bàyyi xeex 
+te nu jàng waxante ci jàmm.
+
+Jàmm
+
+Laaj yi :
+1. Nit su meree naka la war a def ?
+2. Lan nga jànge ci jukki bi ?
+
+65
+
+
+
+218 Njàng - Téere kalaas - CI
+
+Melent yi bég nañu tey ndax dañu gis 
+wenn dogitu mburu. Waaye dogit wi 
+dafa rёy ba mënul a dugg ci seen kër. 
+Caat mi xalaat ni : « Nanu ci lekk ndax 
+mu mёn a dugg. » Bi ñu suuree, ñu 
+gis ne mburu mi mën na dugg. Melent  
+yi ni  : « Dimbali sa moroom baax na ! ».
+
+Laaj yi :
+1. Lu tax melent yi am mbégte ?
+2. Lan mooy jafe-jafe melent yi ?
+3. Man pexe lañu ci am ?
+
+Melent ya ak seen dogitu mburu
+66
+
+
+
+219Njàng - Téere kalaas - CI
+
+26
+
+Muus dafa dugg ci pax. Jinax dimbali 
+ko mu génn. Muus ŋànk tànkam. Jinax 
+di jooy. Ganaar ñëw, ni : «  Lu xew  ».  
+Jinax wax ko lépp. Ganaar ni ko « Gëmuma 
+leen ! Muus xajul fii ». Muus mer, dellu 
+ca pax ma. Ganaar ni jinax «  Dawal 
+gaaw ! » Noonu lañu fa bàyyee Muus.
+
+Muus, Jinax ak Ganaar
+
+Laaj yi :
+1. Lu xew ci Muus ak Jinax ?
+2. Nu Ganaar def ba àtte leen ?
+3. Lan nga jànge ci jukki bi ?
+
+67
+
+
+
+220 Njàng - Téere kalaas - CI
+
+Sali wàcc na ekool ne yaayaam : « Yaay, 
+tey nataal naa genn kër ak ñaari oto yu 
+rafet. Xoolal, ñu ngi nii ci sama kaye bi. 
+Rafet nañu ?
+- Waawaaw, rafet nañu kay !
+- Woy nanu fa tamit wenn woy wu neex. 
+Sunu Muse, Kànji la sant. Am naa fa ay 
+xarit yu tudd Mari, Demba ak Albeer. 
+Ay Yaay, ndeke ekool nii la neexe !
+
+Laaj yi :
+1. Kan la Sali di waxal ?
+2. Ndax nataal rekk la Sali def ekool ?
+
+Bésu ekool bu jëkk
+68
+
+
+
+221Njàng - Téere kalaas - CI
+
+26
+
+Nijaay jant, loo fiy def tey ?
+Damay ñoral màngo, may xale yi !
+Bàjjen weer, loo fiy def ?
+Xanaa leeral kër gi, maam mën laa léebal  !
+Sama xarit biddeew looy wutsi fii ? 
+Rafetal asamaan rekk, maay doomu weer !
+Yaay taw, loo fi bëgg a def tey  ?
+Ñoral gerte, dugub ak mboq, xale yi lekk !
+
+Lu ngeen di def
+
+Laaj yi :
+1. Kan mooy ñoral màngo ?
+2. Lu tax bàjjen weer di leeral kër gi ?
+
+69
+
+
+
+222 Njàng - Téere kalaas - CI
+
+Sabab :
+Ngir xam ndax sa njàng wér na te 
+gaaw, am na jukki bu ñu la jox ci kërale 
+gi ci suuf mu ànd ak ay laaj.
+
+Ndigal :
+Yelul jukki bi te tontu laaj yi.
+Soo noppee, nga biral ko bu gaaw. 
+
+Ekool dafay waaj a tëj, ëtt bi yëngu 
+lool.  Delloo nanu téere yi, jot ci 
+sunuy kaye kómpoo. Ñi sàgganul 
+woon, daan jàng bu baax dinañu 
+bég. Direktëer xamle na bés bi ñuy 
+joxe neexal yi.
+Nu xaar ñeenti fan, xew-xew bi 
+egsi.  Suba teel, elew yépp solu wuti 
+pénc ma. Seeni waajur a leen gunge 
+ci ndaje ma. Ñi am ndam ñu ngi ne 
+fàŋŋ ci kanam.
+
+70
+
+
+
+223Njàng - Téere kalaas - CI
+
+26
+
+Laaj yi :
+• Mottalil kàddu gii ci sa kaye : 
+Njoora ..................................la. 
+Bindaatal kàddu gi ci sa kaye, wuutale 
+pénc mi ak yenn ci baat yii : kër gi, 
+ngénte  li, bayaal bi. 
+• Ay baat a ngii : woy, foto, taxaw. 
+Ban ci ñoom moo mën a wuutu portale ?
+
+Bi fukki waxtu jotee, mbir mi 
+tàmbali, xumb. Xale bu ñu woo jox 
+la neexal, nga portalewu. Njoora 
+Sànqe jàmbaar la, bégloo na ndeyam 
+fàww. Ndaje mi noppi, ñépp sant, 
+Ngañ Mbeng ne yàcc.
+
+70
+
+
+
+ - Yan elew ñoo nar a bég ?
+ - Ñan ñooy fotowu ?
+ - Ngañ Mbeng jàmbaar la ci kómpoo yi  
+
+ walla ? Lu tax ?
+ - Kuy jàng te bëgg ndam, naka la war 
+
+ a def ?
+
+70
+
+224 Njàng - Téere kalaas - CI
+
+
